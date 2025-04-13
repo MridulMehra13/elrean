@@ -1,0 +1,19 @@
+# Node & React
+node_modules/
+.env
+
+# Python ML
+e-learn-backend/ml-service/venv/
+__pycache__/
+*.pyc
+*.pyd
+*.so
+*.dll
+*.lib
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db

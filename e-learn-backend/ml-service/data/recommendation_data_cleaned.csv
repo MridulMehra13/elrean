@@ -1,0 +1,5001 @@
+UserID,CourseID,Rating,Subject,Format,Difficulty
+684,23,1,Science,Live Session,Medium
+726,97,2,Literature,Live Session,Hard
+475,105,5,Math,Quiz,Hard
+743,132,2,Literature,Live Session,Medium
+611,123,2,Literature,Live Session,Medium
+807,105,3,Math,Quiz,Hard
+937,89,2,Literature,Video,Hard
+631,12,1,Programming,Text,Hard
+380,98,3,Science,Live Session,Hard
+974,6,1,Literature,Video,Hard
+216,146,5,History,Text,Medium
+895,158,5,History,Video,Medium
+992,119,3,Science,Text,Easy
+734,135,1,History,Text,Easy
+65,91,1,Literature,Quiz,Hard
+375,3,3,Math,Quiz,Easy
+517,183,2,Math,Video,Easy
+837,41,4,Literature,Video,Medium
+186,80,3,Programming,Video,Easy
+68,147,3,Programming,Video,Easy
+834,56,4,Literature,Text,Hard
+106,194,1,History,Quiz,Medium
+469,50,4,Literature,Text,Hard
+298,63,5,Literature,Text,Hard
+313,129,4,History,Live Session,Hard
+175,142,2,Literature,Live Session,Easy
+989,16,5,Literature,Video,Easy
+14,190,3,Programming,Video,Medium
+345,178,2,Science,Text,Hard
+957,140,4,Programming,Text,Easy
+618,179,5,Science,Live Session,Medium
+978,91,3,Literature,Quiz,Hard
+591,184,3,Programming,Live Session,Medium
+562,72,1,History,Text,Easy
+862,126,3,History,Video,Easy
+880,66,5,Programming,Video,Easy
+688,138,5,Literature,Live Session,Easy
+230,8,4,History,Live Session,Medium
+585,148,4,History,Video,Easy
+134,24,1,Literature,Video,Hard
+299,80,2,Programming,Video,Easy
+594,22,5,Literature,Live Session,Hard
+817,114,4,Programming,Live Session,Medium
+245,150,1,History,Live Session,Easy
+667,105,2,Math,Quiz,Hard
+968,63,3,Literature,Text,Hard
+126,151,1,Math,Text,Easy
+406,8,3,History,Live Session,Medium
+99,197,3,Literature,Text,Medium
+765,52,3,Science,Live Session,Medium
+994,38,4,Math,Video,Medium
+444,193,5,Math,Live Session,Easy
+448,121,3,Math,Quiz,Hard
+217,56,3,Literature,Text,Hard
+192,143,5,Science,Live Session,Easy
+203,105,4,Math,Quiz,Hard
+772,109,2,Math,Video,Hard
+88,164,4,Science,Quiz,Easy
+569,62,4,Literature,Text,Easy
+438,200,2,Programming,Quiz,Easy
+844,156,2,Math,Live Session,Hard
+813,20,1,Math,Live Session,Hard
+465,123,5,Literature,Live Session,Medium
+901,184,4,Programming,Live Session,Medium
+285,74,5,Literature,Live Session,Easy
+978,138,3,Literature,Live Session,Easy
+786,43,3,Programming,Quiz,Medium
+459,151,1,Math,Text,Easy
+244,155,5,Science,Live Session,Hard
+21,152,3,Programming,Live Session,Hard
+950,34,4,Programming,Video,Easy
+966,1,5,Math,Video,Medium
+628,181,2,Science,Video,Medium
+550,105,5,Math,Quiz,Hard
+329,146,4,History,Text,Medium
+101,17,5,Math,Live Session,Easy
+451,133,5,Science,Quiz,Hard
+144,99,1,Literature,Quiz,Medium
+630,74,1,Literature,Live Session,Easy
+437,45,3,Literature,Quiz,Medium
+528,83,3,Programming,Quiz,Hard
+669,115,4,Programming,Quiz,Easy
+602,23,3,Science,Live Session,Medium
+147,69,3,Science,Video,Hard
+491,14,3,Literature,Video,Medium
+582,125,5,Programming,Quiz,Hard
+956,163,3,Science,Video,Hard
+95,198,3,Programming,Video,Hard
+319,178,4,Science,Text,Hard
+148,81,5,Literature,Video,Medium
+596,181,4,Science,Video,Medium
+730,132,4,Literature,Live Session,Medium
+840,97,5,Literature,Live Session,Hard
+994,149,5,Programming,Video,Hard
+485,113,4,Math,Live Session,Hard
+173,190,4,Programming,Video,Medium
+22,7,3,Math,Live Session,Easy
+490,161,1,History,Quiz,Easy
+336,150,5,History,Live Session,Easy
+621,32,2,Science,Video,Hard
+33,108,4,Literature,Quiz,Easy
+516,35,4,Literature,Live Session,Easy
+511,156,5,Math,Live Session,Hard
+564,161,1,History,Quiz,Easy
+407,133,5,Science,Quiz,Hard
+693,103,3,Science,Video,Hard
+145,161,2,History,Quiz,Easy
+44,166,3,Science,Text,Easy
+87,125,4,Programming,Quiz,Hard
+664,86,3,Math,Video,Hard
+271,34,3,Programming,Video,Easy
+689,28,4,Math,Live Session,Easy
+748,51,1,History,Quiz,Medium
+839,159,1,History,Live Session,Hard
+345,87,5,Literature,Live Session,Easy
+258,115,3,Programming,Quiz,Easy
+427,175,4,Programming,Quiz,Easy
+681,174,2,Math,Text,Easy
+789,46,1,Literature,Text,Hard
+848,166,3,Science,Text,Easy
+68,114,1,Programming,Live Session,Medium
+834,104,4,Programming,Live Session,Hard
+252,112,5,History,Live Session,Easy
+694,69,4,Science,Video,Hard
+370,174,1,Math,Text,Easy
+691,38,4,Math,Video,Medium
+937,76,1,Science,Live Session,Hard
+726,178,4,Science,Text,Hard
+744,130,1,Math,Text,Easy
+343,28,3,Math,Live Session,Easy
+202,103,3,Science,Video,Hard
+902,189,4,Programming,Text,Easy
+926,44,5,History,Video,Easy
+866,43,5,Programming,Quiz,Medium
+450,107,5,Science,Quiz,Easy
+649,5,2,Programming,Live Session,Hard
+895,128,2,History,Text,Hard
+983,79,1,Literature,Text,Easy
+481,121,1,Math,Quiz,Hard
+793,172,1,Programming,Quiz,Medium
+338,156,5,Math,Live Session,Hard
+874,26,3,Literature,Live Session,Easy
+695,116,4,Science,Quiz,Easy
+673,175,3,Programming,Quiz,Easy
+220,194,5,History,Quiz,Medium
+906,2,1,Programming,Quiz,Easy
+489,42,4,History,Live Session,Hard
+88,35,5,Literature,Live Session,Easy
+863,50,3,Literature,Text,Hard
+951,37,5,Literature,Quiz,Hard
+907,59,2,Math,Quiz,Easy
+247,153,5,Programming,Quiz,Medium
+273,126,3,History,Video,Easy
+597,122,1,Programming,Video,Easy
+650,11,2,History,Text,Medium
+410,113,3,Math,Live Session,Hard
+32,70,3,Literature,Text,Medium
+396,121,4,Math,Quiz,Hard
+539,109,4,Math,Video,Hard
+32,137,1,History,Quiz,Easy
+251,27,4,Literature,Quiz,Easy
+878,155,4,Science,Live Session,Hard
+973,180,3,Math,Quiz,Easy
+559,68,4,Programming,Quiz,Hard
+118,60,5,Programming,Video,Medium
+830,191,1,Math,Quiz,Easy
+16,138,3,Literature,Live Session,Easy
+746,141,3,Math,Video,Easy
+821,31,3,Literature,Quiz,Easy
+912,177,2,Science,Video,Hard
+168,69,3,Science,Video,Hard
+774,35,2,Literature,Live Session,Easy
+913,107,1,Science,Quiz,Easy
+134,193,3,Math,Live Session,Easy
+873,153,2,Programming,Quiz,Medium
+326,53,2,Programming,Live Session,Medium
+237,13,1,Science,Live Session,Easy
+648,53,3,Programming,Live Session,Medium
+995,26,1,Literature,Live Session,Easy
+180,50,1,Literature,Text,Hard
+205,132,4,Literature,Live Session,Medium
+93,105,2,Math,Quiz,Hard
+46,1,2,Math,Video,Medium
+11,120,4,Math,Live Session,Easy
+819,85,4,Literature,Quiz,Medium
+393,173,2,Literature,Text,Easy
+703,149,4,Programming,Video,Hard
+700,194,2,History,Quiz,Medium
+434,39,1,Math,Video,Hard
+297,58,3,Programming,Text,Medium
+203,43,4,Programming,Quiz,Medium
+578,29,5,Science,Video,Easy
+920,80,1,Programming,Video,Easy
+292,182,2,Literature,Live Session,Medium
+872,43,4,Programming,Quiz,Medium
+911,120,3,Math,Live Session,Easy
+614,161,2,History,Quiz,Easy
+528,160,1,Literature,Quiz,Easy
+327,17,2,Math,Live Session,Easy
+208,30,5,Literature,Live Session,Hard
+284,99,4,Literature,Quiz,Medium
+255,156,5,Math,Live Session,Hard
+770,154,2,Math,Quiz,Hard
+824,1,4,Math,Video,Medium
+138,152,2,Programming,Live Session,Hard
+245,15,5,Programming,Quiz,Easy
+969,44,1,History,Video,Easy
+277,172,3,Programming,Quiz,Medium
+258,52,3,Science,Live Session,Medium
+506,113,3,Math,Live Session,Hard
+858,109,4,Math,Video,Hard
+921,151,3,Math,Text,Easy
+837,128,5,History,Text,Hard
+505,88,1,Math,Quiz,Medium
+107,3,3,Math,Quiz,Easy
+955,155,5,Science,Live Session,Hard
+746,56,3,Literature,Text,Hard
+447,69,2,Science,Video,Hard
+441,15,5,Programming,Quiz,Easy
+320,3,2,Math,Quiz,Easy
+990,168,1,Programming,Video,Easy
+806,153,3,Programming,Quiz,Medium
+413,14,2,Literature,Video,Medium
+269,59,5,Math,Quiz,Easy
+918,55,2,History,Quiz,Hard
+427,31,4,Literature,Quiz,Easy
+602,79,3,Literature,Text,Easy
+422,160,2,Literature,Quiz,Easy
+148,137,3,History,Quiz,Easy
+836,157,4,History,Video,Hard
+134,48,5,History,Quiz,Medium
+714,15,4,Programming,Quiz,Easy
+433,154,5,Math,Quiz,Hard
+569,75,2,Programming,Quiz,Hard
+997,37,5,Literature,Quiz,Hard
+434,129,4,History,Live Session,Hard
+871,47,3,Math,Video,Easy
+320,60,3,Programming,Video,Medium
+640,17,5,Math,Live Session,Easy
+741,148,2,History,Video,Easy
+846,94,2,Science,Video,Hard
+314,26,1,Literature,Live Session,Easy
+750,44,4,History,Video,Easy
+181,69,2,Science,Video,Hard
+110,10,2,Literature,Quiz,Hard
+443,40,2,Math,Video,Easy
+905,12,5,Programming,Text,Hard
+565,126,3,History,Video,Easy
+506,184,1,Programming,Live Session,Medium
+442,109,5,Math,Video,Hard
+904,143,2,Science,Live Session,Easy
+239,57,2,Programming,Video,Hard
+388,130,1,Math,Text,Easy
+793,147,3,Programming,Video,Easy
+574,191,2,Math,Quiz,Easy
+786,122,2,Programming,Video,Easy
+410,25,5,Science,Quiz,Medium
+2,96,4,History,Text,Medium
+673,173,3,Literature,Text,Easy
+275,136,2,History,Video,Easy
+205,23,1,Science,Live Session,Medium
+749,148,4,History,Video,Easy
+468,120,2,Math,Live Session,Easy
+931,80,4,Programming,Video,Easy
+954,145,2,Science,Text,Medium
+731,63,4,Literature,Text,Hard
+697,7,3,Math,Live Session,Easy
+706,180,1,Math,Quiz,Easy
+921,63,1,Literature,Text,Hard
+536,82,3,Literature,Text,Easy
+675,121,2,Math,Quiz,Hard
+932,64,3,Science,Live Session,Hard
+174,59,5,Math,Quiz,Easy
+639,186,3,Programming,Text,Hard
+529,195,1,History,Live Session,Hard
+2,28,3,Math,Live Session,Easy
+939,167,5,Science,Live Session,Medium
+365,12,5,Programming,Text,Hard
+963,35,2,Literature,Live Session,Easy
+691,180,4,Math,Quiz,Easy
+430,72,4,History,Text,Easy
+253,60,5,Programming,Video,Medium
+83,102,4,Programming,Quiz,Easy
+190,185,5,History,Live Session,Easy
+779,28,1,Math,Live Session,Easy
+593,74,4,Literature,Live Session,Easy
+963,74,2,Literature,Live Session,Easy
+541,162,1,Programming,Live Session,Medium
+471,67,2,Literature,Quiz,Easy
+186,131,4,Science,Quiz,Medium
+839,73,3,Programming,Text,Hard
+293,147,4,Programming,Video,Easy
+344,168,5,Programming,Video,Easy
+620,43,2,Programming,Quiz,Medium
+287,197,3,Literature,Text,Medium
+188,61,2,Math,Quiz,Hard
+839,121,1,Math,Quiz,Hard
+585,34,5,Programming,Video,Easy
+215,79,4,Literature,Text,Easy
+578,159,1,History,Live Session,Hard
+116,63,5,Literature,Text,Hard
+68,55,1,History,Quiz,Hard
+402,121,1,Math,Quiz,Hard
+348,19,2,Math,Quiz,Hard
+62,4,3,Literature,Quiz,Easy
+410,37,3,Literature,Quiz,Hard
+290,35,1,Literature,Live Session,Easy
+561,58,4,Programming,Text,Medium
+148,150,2,History,Live Session,Easy
+728,196,4,Literature,Live Session,Easy
+48,9,1,Math,Video,Hard
+716,68,1,Programming,Quiz,Hard
+410,58,4,Programming,Text,Medium
+981,58,3,Programming,Text,Medium
+910,171,1,Math,Live Session,Hard
+169,25,3,Science,Quiz,Medium
+185,8,4,History,Live Session,Medium
+354,181,5,Science,Video,Medium
+409,92,2,Programming,Text,Medium
+435,154,2,Math,Quiz,Hard
+93,118,4,Math,Text,Medium
+86,25,4,Science,Quiz,Medium
+165,125,5,Programming,Quiz,Hard
+334,32,3,Science,Video,Hard
+899,81,2,Literature,Video,Medium
+719,176,4,Programming,Text,Easy
+769,122,5,Programming,Video,Easy
+32,33,1,History,Text,Easy
+909,56,5,Literature,Text,Hard
+732,130,3,Math,Text,Easy
+279,101,5,Programming,Quiz,Easy
+449,189,5,Programming,Text,Easy
+814,66,5,Programming,Video,Easy
+420,171,3,Math,Live Session,Hard
+271,134,2,Math,Text,Hard
+740,31,3,Literature,Quiz,Easy
+278,177,1,Science,Video,Hard
+483,69,4,Science,Video,Hard
+981,20,3,Math,Live Session,Hard
+304,115,4,Programming,Quiz,Easy
+267,10,4,Literature,Quiz,Hard
+996,108,5,Literature,Quiz,Easy
+712,57,4,Programming,Video,Hard
+396,24,2,Literature,Video,Hard
+753,84,1,Literature,Quiz,Hard
+711,77,4,History,Text,Medium
+739,46,4,Literature,Text,Hard
+55,143,5,Science,Live Session,Easy
+90,175,4,Programming,Quiz,Easy
+695,63,1,Literature,Text,Hard
+803,4,2,Literature,Quiz,Easy
+597,123,3,Literature,Live Session,Medium
+799,2,4,Programming,Quiz,Easy
+621,8,4,History,Live Session,Medium
+460,34,4,Programming,Video,Easy
+275,63,1,Literature,Text,Hard
+126,163,2,Science,Video,Hard
+265,188,2,Science,Text,Medium
+427,88,5,Math,Quiz,Medium
+344,181,1,Science,Video,Medium
+433,117,4,History,Live Session,Hard
+861,133,2,Science,Quiz,Hard
+738,25,3,Science,Quiz,Medium
+916,65,3,Math,Text,Hard
+556,134,5,Math,Text,Hard
+591,55,4,History,Quiz,Hard
+904,79,3,Literature,Text,Easy
+818,9,5,Math,Video,Hard
+787,119,3,Science,Text,Easy
+573,19,4,Math,Quiz,Hard
+795,84,5,Literature,Quiz,Hard
+196,118,2,Math,Text,Medium
+719,127,3,Science,Live Session,Easy
+73,144,5,History,Quiz,Easy
+349,65,4,Math,Text,Hard
+916,198,1,Programming,Video,Hard
+568,5,5,Programming,Live Session,Hard
+570,4,4,Literature,Quiz,Easy
+951,176,4,Programming,Text,Easy
+992,200,1,Programming,Quiz,Easy
+859,149,2,Programming,Video,Hard
+667,65,4,Math,Text,Hard
+71,141,3,Math,Video,Easy
+353,29,3,Science,Video,Easy
+396,191,3,Math,Quiz,Easy
+958,62,5,Literature,Text,Easy
+285,121,2,Math,Quiz,Hard
+487,193,3,Math,Live Session,Easy
+89,89,2,Literature,Video,Hard
+865,133,5,Science,Quiz,Hard
+888,116,5,Science,Quiz,Easy
+69,29,5,Science,Video,Easy
+562,18,2,History,Quiz,Medium
+477,22,3,Literature,Live Session,Hard
+744,166,2,Science,Text,Easy
+68,14,4,Literature,Video,Medium
+567,116,5,Science,Quiz,Easy
+375,177,1,Science,Video,Hard
+564,14,2,Literature,Video,Medium
+532,36,4,Science,Live Session,Hard
+208,27,3,Literature,Quiz,Easy
+942,4,1,Literature,Quiz,Easy
+386,16,2,Literature,Video,Easy
+844,78,1,Literature,Live Session,Hard
+326,78,1,Literature,Live Session,Hard
+213,119,1,Science,Text,Easy
+363,80,5,Programming,Video,Easy
+533,187,5,Math,Quiz,Medium
+597,68,1,Programming,Quiz,Hard
+622,83,2,Programming,Quiz,Hard
+95,36,3,Science,Live Session,Hard
+117,195,5,History,Live Session,Hard
+351,147,2,Programming,Video,Easy
+956,37,1,Literature,Quiz,Hard
+294,103,1,Science,Video,Hard
+642,14,3,Literature,Video,Medium
+581,99,1,Literature,Quiz,Medium
+272,198,3,Programming,Video,Hard
+548,48,4,History,Quiz,Medium
+110,185,2,History,Live Session,Easy
+466,3,5,Math,Quiz,Easy
+266,35,1,Literature,Live Session,Easy
+7,94,5,Science,Video,Hard
+684,148,4,History,Video,Easy
+485,101,1,Programming,Quiz,Easy
+870,36,5,Science,Live Session,Hard
+334,125,4,Programming,Quiz,Hard
+567,129,4,History,Live Session,Hard
+405,174,1,Math,Text,Easy
+66,83,2,Programming,Quiz,Hard
+755,156,1,Math,Live Session,Hard
+633,30,3,Literature,Live Session,Hard
+787,3,1,Math,Quiz,Easy
+385,64,3,Science,Live Session,Hard
+761,192,2,Programming,Text,Hard
+916,157,4,History,Video,Hard
+775,77,5,History,Text,Medium
+212,179,4,Science,Live Session,Medium
+385,147,2,Programming,Video,Easy
+231,132,2,Literature,Live Session,Medium
+124,30,4,Literature,Live Session,Hard
+902,91,5,Literature,Quiz,Hard
+515,1,1,Math,Video,Medium
+877,8,2,History,Live Session,Medium
+783,103,2,Science,Video,Hard
+833,59,4,Math,Quiz,Easy
+722,59,3,Math,Quiz,Easy
+293,56,3,Literature,Text,Hard
+517,184,2,Programming,Live Session,Medium
+359,24,1,Literature,Video,Hard
+397,68,4,Programming,Quiz,Hard
+240,128,2,History,Text,Hard
+124,107,3,Science,Quiz,Easy
+619,177,5,Science,Video,Hard
+813,84,2,Literature,Quiz,Hard
+301,9,1,Math,Video,Hard
+23,17,5,Math,Live Session,Easy
+125,154,4,Math,Quiz,Hard
+343,126,4,History,Video,Easy
+302,18,1,History,Quiz,Medium
+76,172,4,Programming,Quiz,Medium
+78,157,3,History,Video,Hard
+796,185,3,History,Live Session,Easy
+547,40,2,Math,Video,Easy
+141,68,4,Programming,Quiz,Hard
+475,155,2,Science,Live Session,Hard
+999,176,5,Programming,Text,Easy
+591,11,2,History,Text,Medium
+456,162,5,Programming,Live Session,Medium
+375,66,5,Programming,Video,Easy
+602,44,2,History,Video,Easy
+890,12,4,Programming,Text,Hard
+184,43,5,Programming,Quiz,Medium
+950,106,5,Science,Video,Easy
+932,125,2,Programming,Quiz,Hard
+282,170,2,Math,Quiz,Medium
+14,180,4,Math,Quiz,Easy
+899,135,3,History,Text,Easy
+875,196,3,Literature,Live Session,Easy
+717,27,2,Literature,Quiz,Easy
+254,82,1,Literature,Text,Easy
+619,75,3,Programming,Quiz,Hard
+875,113,5,Math,Live Session,Hard
+422,9,5,Math,Video,Hard
+683,168,1,Programming,Video,Easy
+338,115,1,Programming,Quiz,Easy
+134,23,2,Science,Live Session,Medium
+165,141,3,Math,Video,Easy
+77,32,5,Science,Video,Hard
+731,60,4,Programming,Video,Medium
+684,11,1,History,Text,Medium
+964,118,4,Math,Text,Medium
+227,185,4,History,Live Session,Easy
+843,41,2,Literature,Video,Medium
+868,159,5,History,Live Session,Hard
+121,17,5,Math,Live Session,Easy
+94,44,5,History,Video,Easy
+780,114,4,Programming,Live Session,Medium
+448,177,4,Science,Video,Hard
+733,94,2,Science,Video,Hard
+470,48,4,History,Quiz,Medium
+850,81,5,Literature,Video,Medium
+774,80,4,Programming,Video,Easy
+85,180,2,Math,Quiz,Easy
+968,126,4,History,Video,Easy
+415,66,2,Programming,Video,Easy
+245,135,5,History,Text,Easy
+778,107,3,Science,Quiz,Easy
+855,89,5,Literature,Video,Hard
+105,90,5,Science,Text,Medium
+547,22,5,Literature,Live Session,Hard
+323,140,4,Programming,Text,Easy
+63,124,3,Programming,Live Session,Medium
+364,6,2,Literature,Video,Hard
+806,80,4,Programming,Video,Easy
+644,175,1,Programming,Quiz,Easy
+162,90,5,Science,Text,Medium
+799,127,2,Science,Live Session,Easy
+191,33,2,History,Text,Easy
+979,67,2,Literature,Quiz,Easy
+245,63,2,Literature,Text,Hard
+17,105,5,Math,Quiz,Hard
+702,30,2,Literature,Live Session,Hard
+880,1,5,Math,Video,Medium
+719,15,5,Programming,Quiz,Easy
+605,199,5,Math,Quiz,Hard
+232,161,3,History,Quiz,Easy
+760,98,5,Science,Live Session,Hard
+970,32,4,Science,Video,Hard
+549,117,3,History,Live Session,Hard
+147,30,1,Literature,Live Session,Hard
+628,58,2,Programming,Text,Medium
+273,97,2,Literature,Live Session,Hard
+686,95,2,Math,Text,Medium
+916,25,5,Science,Quiz,Medium
+792,175,5,Programming,Quiz,Easy
+994,64,1,Science,Live Session,Hard
+93,48,5,History,Quiz,Medium
+180,101,2,Programming,Quiz,Easy
+175,156,3,Math,Live Session,Hard
+737,144,1,History,Quiz,Easy
+537,163,4,Science,Video,Hard
+2,75,1,Programming,Quiz,Hard
+712,48,2,History,Quiz,Medium
+786,28,2,Math,Live Session,Easy
+932,200,4,Programming,Quiz,Easy
+454,97,2,Literature,Live Session,Hard
+10,12,5,Programming,Text,Hard
+15,57,1,Programming,Video,Hard
+72,134,4,Math,Text,Hard
+495,18,1,History,Quiz,Medium
+773,78,2,Literature,Live Session,Hard
+290,145,2,Science,Text,Medium
+249,82,3,Literature,Text,Easy
+962,187,1,Math,Quiz,Medium
+621,123,5,Literature,Live Session,Medium
+255,175,2,Programming,Quiz,Easy
+43,144,2,History,Quiz,Easy
+178,68,1,Programming,Quiz,Hard
+558,123,4,Literature,Live Session,Medium
+328,159,4,History,Live Session,Hard
+70,48,1,History,Quiz,Medium
+518,68,2,Programming,Quiz,Hard
+100,70,2,Literature,Text,Medium
+807,20,4,Math,Live Session,Hard
+133,199,3,Math,Quiz,Hard
+200,3,5,Math,Quiz,Easy
+889,188,4,Science,Text,Medium
+34,173,4,Literature,Text,Easy
+500,150,3,History,Live Session,Easy
+720,97,2,Literature,Live Session,Hard
+787,138,2,Literature,Live Session,Easy
+944,120,1,Math,Live Session,Easy
+761,151,2,Math,Text,Easy
+848,130,1,Math,Text,Easy
+531,161,1,History,Quiz,Easy
+595,120,3,Math,Live Session,Easy
+766,8,2,History,Live Session,Medium
+498,43,2,Programming,Quiz,Medium
+14,118,1,Math,Text,Medium
+496,180,3,Math,Quiz,Easy
+105,62,1,Literature,Text,Easy
+359,50,4,Literature,Text,Hard
+459,166,1,Science,Text,Easy
+259,63,2,Literature,Text,Hard
+267,29,3,Science,Video,Easy
+401,159,1,History,Live Session,Hard
+184,63,2,Literature,Text,Hard
+837,14,4,Literature,Video,Medium
+796,135,2,History,Text,Easy
+36,183,1,Math,Video,Easy
+130,25,2,Science,Quiz,Medium
+745,57,3,Programming,Video,Hard
+635,66,5,Programming,Video,Easy
+873,7,3,Math,Live Session,Easy
+915,146,5,History,Text,Medium
+901,109,3,Math,Video,Hard
+826,19,3,Math,Quiz,Hard
+334,3,5,Math,Quiz,Easy
+652,169,1,Literature,Live Session,Medium
+327,145,4,Science,Text,Medium
+528,199,2,Math,Quiz,Hard
+578,133,4,Science,Quiz,Hard
+923,83,3,Programming,Quiz,Hard
+399,48,5,History,Quiz,Medium
+617,14,2,Literature,Video,Medium
+554,177,2,Science,Video,Hard
+867,194,4,History,Quiz,Medium
+305,198,4,Programming,Video,Hard
+357,184,5,Programming,Live Session,Medium
+436,63,3,Literature,Text,Hard
+457,7,5,Math,Live Session,Easy
+446,4,4,Literature,Quiz,Easy
+820,171,5,Math,Live Session,Hard
+120,42,3,History,Live Session,Hard
+518,57,1,Programming,Video,Hard
+191,126,2,History,Video,Easy
+818,81,1,Literature,Video,Medium
+87,105,2,Math,Quiz,Hard
+5,68,3,Programming,Quiz,Hard
+124,188,1,Science,Text,Medium
+66,175,1,Programming,Quiz,Easy
+389,194,1,History,Quiz,Medium
+847,174,5,Math,Text,Easy
+553,110,2,History,Live Session,Easy
+198,153,1,Programming,Quiz,Medium
+820,182,5,Literature,Live Session,Medium
+967,120,4,Math,Live Session,Easy
+6,77,2,History,Text,Medium
+549,69,1,Science,Video,Hard
+378,81,1,Literature,Video,Medium
+201,158,4,History,Video,Medium
+204,102,3,Programming,Quiz,Easy
+167,36,2,Science,Live Session,Hard
+32,71,4,History,Quiz,Hard
+756,4,5,Literature,Quiz,Easy
+379,145,4,Science,Text,Medium
+191,73,3,Programming,Text,Hard
+514,90,3,Science,Text,Medium
+199,29,5,Science,Video,Easy
+37,181,5,Science,Video,Medium
+840,125,5,Programming,Quiz,Hard
+257,137,4,History,Quiz,Easy
+601,164,2,Science,Quiz,Easy
+210,170,3,Math,Quiz,Medium
+475,166,2,Science,Text,Easy
+221,42,1,History,Live Session,Hard
+231,143,1,Science,Live Session,Easy
+270,3,1,Math,Quiz,Easy
+855,187,1,Math,Quiz,Medium
+670,171,3,Math,Live Session,Hard
+93,66,1,Programming,Video,Easy
+209,4,5,Literature,Quiz,Easy
+713,50,5,Literature,Text,Hard
+1,80,5,Programming,Video,Easy
+675,121,4,Math,Quiz,Hard
+905,194,4,History,Quiz,Medium
+150,127,5,Science,Live Session,Easy
+445,73,5,Programming,Text,Hard
+141,14,4,Literature,Video,Medium
+378,14,2,Literature,Video,Medium
+344,122,1,Programming,Video,Easy
+232,146,1,History,Text,Medium
+833,86,3,Math,Video,Hard
+12,179,2,Science,Live Session,Medium
+568,148,4,History,Video,Easy
+712,106,5,Science,Video,Easy
+131,129,4,History,Live Session,Hard
+825,38,1,Math,Video,Medium
+770,167,2,Science,Live Session,Medium
+717,71,1,History,Quiz,Hard
+631,140,2,Programming,Text,Easy
+829,171,3,Math,Live Session,Hard
+723,58,4,Programming,Text,Medium
+711,166,4,Science,Text,Easy
+661,18,2,History,Quiz,Medium
+980,36,5,Science,Live Session,Hard
+259,110,2,History,Live Session,Easy
+129,103,2,Science,Video,Hard
+191,104,4,Programming,Live Session,Hard
+371,129,5,History,Live Session,Hard
+734,168,2,Programming,Video,Easy
+841,24,4,Literature,Video,Hard
+84,128,3,History,Text,Hard
+57,71,3,History,Quiz,Hard
+589,141,4,Math,Video,Easy
+345,149,4,Programming,Video,Hard
+772,77,3,History,Text,Medium
+674,171,3,Math,Live Session,Hard
+581,198,2,Programming,Video,Hard
+648,67,1,Literature,Quiz,Easy
+877,94,2,Science,Video,Hard
+752,182,5,Literature,Live Session,Medium
+89,199,2,Math,Quiz,Hard
+363,196,4,Literature,Live Session,Easy
+691,15,2,Programming,Quiz,Easy
+631,74,1,Literature,Live Session,Easy
+524,121,1,Math,Quiz,Hard
+527,76,1,Science,Live Session,Hard
+621,36,2,Science,Live Session,Hard
+154,110,2,History,Live Session,Easy
+363,109,3,Math,Video,Hard
+754,50,4,Literature,Text,Hard
+4,69,3,Science,Video,Hard
+74,191,4,Math,Quiz,Easy
+37,117,3,History,Live Session,Hard
+656,171,1,Math,Live Session,Hard
+240,149,3,Programming,Video,Hard
+732,97,4,Literature,Live Session,Hard
+998,72,5,History,Text,Easy
+839,79,4,Literature,Text,Easy
+524,138,5,Literature,Live Session,Easy
+183,32,2,Science,Video,Hard
+351,190,5,Programming,Video,Medium
+50,80,1,Programming,Video,Easy
+469,19,3,Math,Quiz,Hard
+402,53,3,Programming,Live Session,Medium
+515,45,3,Literature,Quiz,Medium
+715,60,2,Programming,Video,Medium
+35,14,1,Literature,Video,Medium
+151,193,2,Math,Live Session,Easy
+373,77,3,History,Text,Medium
+350,170,5,Math,Quiz,Medium
+727,82,1,Literature,Text,Easy
+949,85,4,Literature,Quiz,Medium
+602,188,2,Science,Text,Medium
+770,105,2,Math,Quiz,Hard
+840,40,3,Math,Video,Easy
+388,101,1,Programming,Quiz,Easy
+256,159,5,History,Live Session,Hard
+342,78,2,Literature,Live Session,Hard
+184,148,4,History,Video,Easy
+539,116,2,Science,Quiz,Easy
+633,113,4,Math,Live Session,Hard
+688,69,2,Science,Video,Hard
+311,45,3,Literature,Quiz,Medium
+813,105,2,Math,Quiz,Hard
+262,163,5,Science,Video,Hard
+498,110,1,History,Live Session,Easy
+780,179,3,Science,Live Session,Medium
+187,81,1,Literature,Video,Medium
+493,77,1,History,Text,Medium
+744,15,5,Programming,Quiz,Easy
+349,48,3,History,Quiz,Medium
+391,42,1,History,Live Session,Hard
+17,157,5,History,Video,Hard
+314,161,3,History,Quiz,Easy
+32,96,5,History,Text,Medium
+804,103,3,Science,Video,Hard
+910,174,3,Math,Text,Easy
+876,116,5,Science,Quiz,Easy
+512,178,5,Science,Text,Hard
+544,100,3,History,Video,Easy
+657,27,1,Literature,Quiz,Easy
+389,38,1,Math,Video,Medium
+566,59,3,Math,Quiz,Easy
+847,9,1,Math,Video,Hard
+56,72,4,History,Text,Easy
+379,170,4,Math,Quiz,Medium
+385,33,1,History,Text,Easy
+779,155,1,Science,Live Session,Hard
+30,104,5,Programming,Live Session,Hard
+140,122,2,Programming,Video,Easy
+591,36,1,Science,Live Session,Hard
+667,38,4,Math,Video,Medium
+558,130,2,Math,Text,Easy
+463,40,3,Math,Video,Easy
+689,5,4,Programming,Live Session,Hard
+207,27,4,Literature,Quiz,Easy
+133,66,2,Programming,Video,Easy
+950,76,4,Science,Live Session,Hard
+554,174,3,Math,Text,Easy
+947,131,3,Science,Quiz,Medium
+802,128,1,History,Text,Hard
+84,5,3,Programming,Live Session,Hard
+903,13,3,Science,Live Session,Easy
+217,155,1,Science,Live Session,Hard
+780,69,1,Science,Video,Hard
+761,18,2,History,Quiz,Medium
+669,188,3,Science,Text,Medium
+334,87,2,Literature,Live Session,Easy
+674,136,3,History,Video,Easy
+295,19,1,Math,Quiz,Hard
+207,57,1,Programming,Video,Hard
+871,7,2,Math,Live Session,Easy
+104,110,2,History,Live Session,Easy
+429,197,1,Literature,Text,Medium
+335,149,3,Programming,Video,Hard
+837,60,5,Programming,Video,Medium
+538,48,1,History,Quiz,Medium
+341,88,2,Math,Quiz,Medium
+227,135,1,History,Text,Easy
+724,104,2,Programming,Live Session,Hard
+949,61,5,Math,Quiz,Hard
+58,83,3,Programming,Quiz,Hard
+205,190,1,Programming,Video,Medium
+837,113,5,Math,Live Session,Hard
+868,66,2,Programming,Video,Easy
+239,149,5,Programming,Video,Hard
+354,192,2,Programming,Text,Hard
+258,96,1,History,Text,Medium
+102,153,2,Programming,Quiz,Medium
+33,3,1,Math,Quiz,Easy
+4,110,4,History,Live Session,Easy
+80,81,4,Literature,Video,Medium
+985,98,4,Science,Live Session,Hard
+503,106,3,Science,Video,Easy
+74,81,3,Literature,Video,Medium
+457,81,1,Literature,Video,Medium
+504,3,2,Math,Quiz,Easy
+399,28,1,Math,Live Session,Easy
+190,147,4,Programming,Video,Easy
+678,55,4,History,Quiz,Hard
+433,73,2,Programming,Text,Hard
+358,55,3,History,Quiz,Hard
+660,11,3,History,Text,Medium
+950,179,5,Science,Live Session,Medium
+758,110,4,History,Live Session,Easy
+752,77,2,History,Text,Medium
+132,50,3,Literature,Text,Hard
+704,40,3,Math,Video,Easy
+500,112,3,History,Live Session,Easy
+579,200,4,Programming,Quiz,Easy
+650,64,4,Science,Live Session,Hard
+316,98,3,Science,Live Session,Hard
+960,13,2,Science,Live Session,Easy
+988,143,4,Science,Live Session,Easy
+345,58,1,Programming,Text,Medium
+95,105,1,Math,Quiz,Hard
+243,59,1,Math,Quiz,Easy
+264,47,1,Math,Video,Easy
+368,153,2,Programming,Quiz,Medium
+167,193,1,Math,Live Session,Easy
+127,188,2,Science,Text,Medium
+537,147,4,Programming,Video,Easy
+623,199,2,Math,Quiz,Hard
+780,79,3,Literature,Text,Easy
+292,100,2,History,Video,Easy
+999,185,2,History,Live Session,Easy
+727,153,2,Programming,Quiz,Medium
+865,189,2,Programming,Text,Easy
+368,39,5,Math,Video,Hard
+603,32,3,Science,Video,Hard
+459,172,4,Programming,Quiz,Medium
+60,20,2,Math,Live Session,Hard
+667,74,1,Literature,Live Session,Easy
+519,130,3,Math,Text,Easy
+13,140,5,Programming,Text,Easy
+644,176,2,Programming,Text,Easy
+829,141,5,Math,Video,Easy
+589,109,1,Math,Video,Hard
+647,168,5,Programming,Video,Easy
+868,67,1,Literature,Quiz,Easy
+212,155,2,Science,Live Session,Hard
+424,120,1,Math,Live Session,Easy
+814,122,4,Programming,Video,Easy
+433,60,4,Programming,Video,Medium
+310,43,1,Programming,Quiz,Medium
+680,55,3,History,Quiz,Hard
+284,19,3,Math,Quiz,Hard
+381,47,3,Math,Video,Easy
+710,12,4,Programming,Text,Hard
+148,199,3,Math,Quiz,Hard
+651,93,1,Literature,Quiz,Easy
+280,51,5,History,Quiz,Medium
+686,128,4,History,Text,Hard
+405,60,2,Programming,Video,Medium
+689,12,4,Programming,Text,Hard
+412,74,3,Literature,Live Session,Easy
+639,98,3,Science,Live Session,Hard
+548,120,2,Math,Live Session,Easy
+217,160,4,Literature,Quiz,Easy
+121,134,2,Math,Text,Hard
+355,134,3,Math,Text,Hard
+529,147,5,Programming,Video,Easy
+864,67,4,Literature,Quiz,Easy
+603,157,1,History,Video,Hard
+214,17,1,Math,Live Session,Easy
+459,2,1,Programming,Quiz,Easy
+709,177,2,Science,Video,Hard
+683,52,4,Science,Live Session,Medium
+820,97,1,Literature,Live Session,Hard
+195,102,1,Programming,Quiz,Easy
+610,182,3,Literature,Live Session,Medium
+407,48,4,History,Quiz,Medium
+549,184,5,Programming,Live Session,Medium
+237,175,4,Programming,Quiz,Easy
+612,197,1,Literature,Text,Medium
+24,104,4,Programming,Live Session,Hard
+243,60,3,Programming,Video,Medium
+260,32,1,Science,Video,Hard
+176,113,2,Math,Live Session,Hard
+775,61,4,Math,Quiz,Hard
+118,98,1,Science,Live Session,Hard
+382,70,3,Literature,Text,Medium
+411,149,1,Programming,Video,Hard
+396,133,3,Science,Quiz,Hard
+691,87,1,Literature,Live Session,Easy
+751,25,3,Science,Quiz,Medium
+745,142,1,Literature,Live Session,Easy
+164,75,2,Programming,Quiz,Hard
+693,165,4,Math,Text,Easy
+872,171,5,Math,Live Session,Hard
+455,65,1,Math,Text,Hard
+687,52,4,Science,Live Session,Medium
+115,56,3,Literature,Text,Hard
+261,196,3,Literature,Live Session,Easy
+347,96,2,History,Text,Medium
+345,184,3,Programming,Live Session,Medium
+536,5,3,Programming,Live Session,Hard
+926,23,3,Science,Live Session,Medium
+227,163,3,Science,Video,Hard
+599,196,5,Literature,Live Session,Easy
+391,111,2,Math,Quiz,Hard
+680,155,4,Science,Live Session,Hard
+111,25,4,Science,Quiz,Medium
+262,140,5,Programming,Text,Easy
+840,111,5,Math,Quiz,Hard
+426,138,1,Literature,Live Session,Easy
+880,158,2,History,Video,Medium
+498,188,5,Science,Text,Medium
+281,133,5,Science,Quiz,Hard
+465,18,3,History,Quiz,Medium
+181,46,2,Literature,Text,Hard
+445,81,1,Literature,Video,Medium
+676,176,4,Programming,Text,Easy
+35,132,4,Literature,Live Session,Medium
+870,43,3,Programming,Quiz,Medium
+543,143,1,Science,Live Session,Easy
+650,122,3,Programming,Video,Easy
+704,89,2,Literature,Video,Hard
+476,194,1,History,Quiz,Medium
+290,141,5,Math,Video,Easy
+481,104,1,Programming,Live Session,Hard
+556,81,2,Literature,Video,Medium
+758,168,3,Programming,Video,Easy
+85,106,1,Science,Video,Easy
+810,36,3,Science,Live Session,Hard
+100,194,3,History,Quiz,Medium
+884,47,5,Math,Video,Easy
+316,79,3,Literature,Text,Easy
+519,124,1,Programming,Live Session,Medium
+419,141,2,Math,Video,Easy
+375,48,5,History,Quiz,Medium
+10,55,2,History,Quiz,Hard
+570,182,5,Literature,Live Session,Medium
+685,16,4,Literature,Video,Easy
+406,173,4,Literature,Text,Easy
+230,70,5,Literature,Text,Medium
+681,145,2,Science,Text,Medium
+616,60,2,Programming,Video,Medium
+687,33,2,History,Text,Easy
+453,115,1,Programming,Quiz,Easy
+869,170,5,Math,Quiz,Medium
+709,115,3,Programming,Quiz,Easy
+842,180,3,Math,Quiz,Easy
+407,188,1,Science,Text,Medium
+715,191,2,Math,Quiz,Easy
+132,164,1,Science,Quiz,Easy
+950,117,1,History,Live Session,Hard
+714,132,2,Literature,Live Session,Medium
+803,99,3,Literature,Quiz,Medium
+946,109,1,Math,Video,Hard
+511,167,3,Science,Live Session,Medium
+390,103,3,Science,Video,Hard
+449,167,5,Science,Live Session,Medium
+825,159,5,History,Live Session,Hard
+332,56,5,Literature,Text,Hard
+727,40,1,Math,Video,Easy
+230,67,5,Literature,Quiz,Easy
+627,79,4,Literature,Text,Easy
+700,75,2,Programming,Quiz,Hard
+420,25,3,Science,Quiz,Medium
+367,96,4,History,Text,Medium
+664,80,2,Programming,Video,Easy
+197,25,5,Science,Quiz,Medium
+472,18,1,History,Quiz,Medium
+414,9,2,Math,Video,Hard
+978,23,1,Science,Live Session,Medium
+469,76,4,Science,Live Session,Hard
+529,68,1,Programming,Quiz,Hard
+693,197,3,Literature,Text,Medium
+492,102,2,Programming,Quiz,Easy
+628,141,3,Math,Video,Easy
+844,182,1,Literature,Live Session,Medium
+337,145,3,Science,Text,Medium
+647,199,5,Math,Quiz,Hard
+787,12,1,Programming,Text,Hard
+192,187,1,Math,Quiz,Medium
+959,171,3,Math,Live Session,Hard
+295,174,4,Math,Text,Easy
+286,91,4,Literature,Quiz,Hard
+831,138,3,Literature,Live Session,Easy
+722,3,4,Math,Quiz,Easy
+409,183,2,Math,Video,Easy
+404,27,2,Literature,Quiz,Easy
+339,97,1,Literature,Live Session,Hard
+938,143,1,Science,Live Session,Easy
+323,25,4,Science,Quiz,Medium
+527,2,1,Programming,Quiz,Easy
+568,88,2,Math,Quiz,Medium
+590,98,4,Science,Live Session,Hard
+900,86,4,Math,Video,Hard
+114,41,3,Literature,Video,Medium
+457,113,3,Math,Live Session,Hard
+671,58,4,Programming,Text,Medium
+64,109,4,Math,Video,Hard
+721,123,4,Literature,Live Session,Medium
+207,99,2,Literature,Quiz,Medium
+467,97,5,Literature,Live Session,Hard
+66,76,1,Science,Live Session,Hard
+497,42,5,History,Live Session,Hard
+437,62,5,Literature,Text,Easy
+647,103,5,Science,Video,Hard
+658,71,4,History,Quiz,Hard
+958,20,4,Math,Live Session,Hard
+475,14,1,Literature,Video,Medium
+710,27,4,Literature,Quiz,Easy
+856,67,4,Literature,Quiz,Easy
+95,74,3,Literature,Live Session,Easy
+445,42,1,History,Live Session,Hard
+460,185,3,History,Live Session,Easy
+345,111,4,Math,Quiz,Hard
+799,72,1,History,Text,Easy
+900,199,3,Math,Quiz,Hard
+631,161,4,History,Quiz,Easy
+795,124,2,Programming,Live Session,Medium
+53,160,4,Literature,Quiz,Easy
+351,173,5,Literature,Text,Easy
+415,199,1,Math,Quiz,Hard
+805,128,3,History,Text,Hard
+85,85,4,Literature,Quiz,Medium
+757,192,4,Programming,Text,Hard
+472,188,4,Science,Text,Medium
+837,100,4,History,Video,Easy
+72,199,2,Math,Quiz,Hard
+902,23,5,Science,Live Session,Medium
+34,52,1,Science,Live Session,Medium
+289,108,2,Literature,Quiz,Easy
+151,8,1,History,Live Session,Medium
+815,85,5,Literature,Quiz,Medium
+6,92,1,Programming,Text,Medium
+454,114,4,Programming,Live Session,Medium
+665,10,2,Literature,Quiz,Hard
+689,99,5,Literature,Quiz,Medium
+614,178,4,Science,Text,Hard
+451,69,4,Science,Video,Hard
+482,41,5,Literature,Video,Medium
+97,65,5,Math,Text,Hard
+49,46,4,Literature,Text,Hard
+850,197,4,Literature,Text,Medium
+182,111,4,Math,Quiz,Hard
+828,70,5,Literature,Text,Medium
+83,89,1,Literature,Video,Hard
+60,99,5,Literature,Quiz,Medium
+424,25,3,Science,Quiz,Medium
+859,5,5,Programming,Live Session,Hard
+606,164,2,Science,Quiz,Easy
+540,173,2,Literature,Text,Easy
+681,5,4,Programming,Live Session,Hard
+126,106,5,Science,Video,Easy
+950,30,5,Literature,Live Session,Hard
+684,101,1,Programming,Quiz,Easy
+249,107,1,Science,Quiz,Easy
+232,62,5,Literature,Text,Easy
+539,75,5,Programming,Quiz,Hard
+465,31,2,Literature,Quiz,Easy
+95,125,2,Programming,Quiz,Hard
+797,79,3,Literature,Text,Easy
+696,172,4,Programming,Quiz,Medium
+382,199,2,Math,Quiz,Hard
+56,147,3,Programming,Video,Easy
+185,34,3,Programming,Video,Easy
+193,186,1,Programming,Text,Hard
+410,14,5,Literature,Video,Medium
+727,34,2,Programming,Video,Easy
+809,61,1,Math,Quiz,Hard
+292,69,4,Science,Video,Hard
+184,114,4,Programming,Live Session,Medium
+905,179,4,Science,Live Session,Medium
+352,22,2,Literature,Live Session,Hard
+62,8,4,History,Live Session,Medium
+799,50,1,Literature,Text,Hard
+480,195,5,History,Live Session,Hard
+54,135,2,History,Text,Easy
+433,132,3,Literature,Live Session,Medium
+410,121,1,Math,Quiz,Hard
+76,32,3,Science,Video,Hard
+634,16,1,Literature,Video,Easy
+443,111,3,Math,Quiz,Hard
+175,88,4,Math,Quiz,Medium
+578,38,4,Math,Video,Medium
+870,70,2,Literature,Text,Medium
+894,38,5,Math,Video,Medium
+866,179,5,Science,Live Session,Medium
+839,43,4,Programming,Quiz,Medium
+849,84,3,Literature,Quiz,Hard
+67,192,2,Programming,Text,Hard
+25,187,4,Math,Quiz,Medium
+327,75,1,Programming,Quiz,Hard
+862,127,3,Science,Live Session,Easy
+972,47,5,Math,Video,Easy
+399,3,5,Math,Quiz,Easy
+842,22,3,Literature,Live Session,Hard
+460,42,4,History,Live Session,Hard
+220,115,5,Programming,Quiz,Easy
+975,76,5,Science,Live Session,Hard
+59,51,4,History,Quiz,Medium
+967,35,4,Literature,Live Session,Easy
+375,29,1,Science,Video,Easy
+260,177,5,Science,Video,Hard
+549,64,3,Science,Live Session,Hard
+807,158,5,History,Video,Medium
+811,60,3,Programming,Video,Medium
+40,58,5,Programming,Text,Medium
+90,58,3,Programming,Text,Medium
+402,120,3,Math,Live Session,Easy
+249,75,2,Programming,Quiz,Hard
+957,7,3,Math,Live Session,Easy
+361,78,1,Literature,Live Session,Hard
+157,6,5,Literature,Video,Hard
+193,2,2,Programming,Quiz,Easy
+2,151,1,Math,Text,Easy
+10,179,1,Science,Live Session,Medium
+263,162,2,Programming,Live Session,Medium
+15,127,1,Science,Live Session,Easy
+86,177,5,Science,Video,Hard
+701,158,3,History,Video,Medium
+56,66,2,Programming,Video,Easy
+801,129,5,History,Live Session,Hard
+94,82,5,Literature,Text,Easy
+630,129,4,History,Live Session,Hard
+228,72,5,History,Text,Easy
+610,56,5,Literature,Text,Hard
+437,155,4,Science,Live Session,Hard
+44,53,3,Programming,Live Session,Medium
+248,137,3,History,Quiz,Easy
+980,8,1,History,Live Session,Medium
+886,76,2,Science,Live Session,Hard
+828,178,2,Science,Text,Hard
+350,78,4,Literature,Live Session,Hard
+468,139,5,Literature,Quiz,Easy
+525,104,1,Programming,Live Session,Hard
+600,146,1,History,Text,Medium
+171,123,1,Literature,Live Session,Medium
+72,66,3,Programming,Video,Easy
+292,155,5,Science,Live Session,Hard
+525,11,3,History,Text,Medium
+496,8,2,History,Live Session,Medium
+357,61,5,Math,Quiz,Hard
+141,14,5,Literature,Video,Medium
+192,5,5,Programming,Live Session,Hard
+680,15,5,Programming,Quiz,Easy
+606,111,3,Math,Quiz,Hard
+707,144,2,History,Quiz,Easy
+19,125,4,Programming,Quiz,Hard
+824,74,1,Literature,Live Session,Easy
+769,18,3,History,Quiz,Medium
+857,142,5,Literature,Live Session,Easy
+511,186,2,Programming,Text,Hard
+826,180,5,Math,Quiz,Easy
+476,47,3,Math,Video,Easy
+789,131,2,Science,Quiz,Medium
+454,85,5,Literature,Quiz,Medium
+572,50,2,Literature,Text,Hard
+81,107,3,Science,Quiz,Easy
+670,5,1,Programming,Live Session,Hard
+80,128,1,History,Text,Hard
+983,173,4,Literature,Text,Easy
+872,125,2,Programming,Quiz,Hard
+283,82,4,Literature,Text,Easy
+975,173,1,Literature,Text,Easy
+928,23,2,Science,Live Session,Medium
+957,120,2,Math,Live Session,Easy
+123,10,2,Literature,Quiz,Hard
+192,108,3,Literature,Quiz,Easy
+442,192,2,Programming,Text,Hard
+494,153,1,Programming,Quiz,Medium
+990,86,2,Math,Video,Hard
+259,35,5,Literature,Live Session,Easy
+716,81,2,Literature,Video,Medium
+583,146,3,History,Text,Medium
+707,188,4,Science,Text,Medium
+586,26,5,Literature,Live Session,Easy
+710,176,2,Programming,Text,Easy
+534,4,2,Literature,Quiz,Easy
+48,163,2,Science,Video,Hard
+386,8,1,History,Live Session,Medium
+972,115,3,Programming,Quiz,Easy
+354,78,3,Literature,Live Session,Hard
+728,37,3,Literature,Quiz,Hard
+898,178,4,Science,Text,Hard
+115,15,5,Programming,Quiz,Easy
+948,81,4,Literature,Video,Medium
+319,110,4,History,Live Session,Easy
+542,69,2,Science,Video,Hard
+775,6,5,Literature,Video,Hard
+600,200,1,Programming,Quiz,Easy
+114,158,5,History,Video,Medium
+192,32,3,Science,Video,Hard
+890,136,4,History,Video,Easy
+245,196,5,Literature,Live Session,Easy
+991,21,4,History,Text,Hard
+345,116,2,Science,Quiz,Easy
+285,186,5,Programming,Text,Hard
+847,149,2,Programming,Video,Hard
+759,168,1,Programming,Video,Easy
+275,46,3,Literature,Text,Hard
+126,138,5,Literature,Live Session,Easy
+694,199,3,Math,Quiz,Hard
+666,186,2,Programming,Text,Hard
+809,140,3,Programming,Text,Easy
+729,101,5,Programming,Quiz,Easy
+295,137,4,History,Quiz,Easy
+603,158,5,History,Video,Medium
+664,174,1,Math,Text,Easy
+862,8,2,History,Live Session,Medium
+417,75,3,Programming,Quiz,Hard
+670,98,3,Science,Live Session,Hard
+872,143,3,Science,Live Session,Easy
+831,101,4,Programming,Quiz,Easy
+407,99,5,Literature,Quiz,Medium
+544,31,2,Literature,Quiz,Easy
+239,165,1,Math,Text,Easy
+420,98,3,Science,Live Session,Hard
+505,9,2,Math,Video,Hard
+961,82,4,Literature,Text,Easy
+817,155,1,Science,Live Session,Hard
+972,188,2,Science,Text,Medium
+955,191,2,Math,Quiz,Easy
+55,64,4,Science,Live Session,Hard
+684,173,2,Literature,Text,Easy
+956,191,1,Math,Quiz,Easy
+16,131,4,Science,Quiz,Medium
+876,162,3,Programming,Live Session,Medium
+764,33,5,History,Text,Easy
+400,164,4,Science,Quiz,Easy
+995,50,2,Literature,Text,Hard
+98,173,3,Literature,Text,Easy
+650,160,5,Literature,Quiz,Easy
+479,127,1,Science,Live Session,Easy
+274,18,5,History,Quiz,Medium
+191,181,2,Science,Video,Medium
+780,87,2,Literature,Live Session,Easy
+679,53,1,Programming,Live Session,Medium
+399,197,3,Literature,Text,Medium
+740,21,4,History,Text,Hard
+507,198,3,Programming,Video,Hard
+442,183,2,Math,Video,Easy
+430,199,3,Math,Quiz,Hard
+897,135,2,History,Text,Easy
+369,129,2,History,Live Session,Hard
+234,129,5,History,Live Session,Hard
+286,102,1,Programming,Quiz,Easy
+221,52,4,Science,Live Session,Medium
+394,13,1,Science,Live Session,Easy
+397,92,5,Programming,Text,Medium
+533,85,4,Literature,Quiz,Medium
+303,170,1,Math,Quiz,Medium
+179,11,3,History,Text,Medium
+294,29,4,Science,Video,Easy
+306,160,4,Literature,Quiz,Easy
+725,111,4,Math,Quiz,Hard
+554,117,3,History,Live Session,Hard
+79,142,3,Literature,Live Session,Easy
+168,189,3,Programming,Text,Easy
+829,176,3,Programming,Text,Easy
+747,151,5,Math,Text,Easy
+967,119,2,Science,Text,Easy
+678,93,2,Literature,Quiz,Easy
+900,90,3,Science,Text,Medium
+292,4,4,Literature,Quiz,Easy
+599,23,3,Science,Live Session,Medium
+842,160,5,Literature,Quiz,Easy
+254,84,2,Literature,Quiz,Hard
+690,17,5,Math,Live Session,Easy
+230,41,4,Literature,Video,Medium
+993,12,3,Programming,Text,Hard
+244,107,2,Science,Quiz,Easy
+891,118,5,Math,Text,Medium
+953,74,5,Literature,Live Session,Easy
+478,15,4,Programming,Quiz,Easy
+553,182,5,Literature,Live Session,Medium
+920,104,1,Programming,Live Session,Hard
+484,200,4,Programming,Quiz,Easy
+31,116,2,Science,Quiz,Easy
+846,135,5,History,Text,Easy
+301,98,5,Science,Live Session,Hard
+392,97,4,Literature,Live Session,Hard
+783,155,3,Science,Live Session,Hard
+316,18,1,History,Quiz,Medium
+479,77,4,History,Text,Medium
+256,132,5,Literature,Live Session,Medium
+173,13,4,Science,Live Session,Easy
+613,1,3,Math,Video,Medium
+822,13,3,Science,Live Session,Easy
+493,142,2,Literature,Live Session,Easy
+893,74,3,Literature,Live Session,Easy
+19,15,3,Programming,Quiz,Easy
+80,139,2,Literature,Quiz,Easy
+107,125,2,Programming,Quiz,Hard
+382,139,4,Literature,Quiz,Easy
+761,133,1,Science,Quiz,Hard
+116,80,4,Programming,Video,Easy
+277,114,3,Programming,Live Session,Medium
+568,114,3,Programming,Live Session,Medium
+287,125,2,Programming,Quiz,Hard
+256,38,2,Math,Video,Medium
+451,50,2,Literature,Text,Hard
+521,170,5,Math,Quiz,Medium
+86,118,2,Math,Text,Medium
+179,176,3,Programming,Text,Easy
+144,29,1,Science,Video,Easy
+723,100,2,History,Video,Easy
+780,99,2,Literature,Quiz,Medium
+593,124,5,Programming,Live Session,Medium
+685,164,5,Science,Quiz,Easy
+53,105,3,Math,Quiz,Hard
+978,42,2,History,Live Session,Hard
+364,80,3,Programming,Video,Easy
+701,85,3,Literature,Quiz,Medium
+219,10,2,Literature,Quiz,Hard
+456,168,5,Programming,Video,Easy
+550,184,3,Programming,Live Session,Medium
+678,163,5,Science,Video,Hard
+303,107,1,Science,Quiz,Easy
+907,42,1,History,Live Session,Hard
+281,82,5,Literature,Text,Easy
+465,88,3,Math,Quiz,Medium
+628,79,5,Literature,Text,Easy
+110,55,3,History,Quiz,Hard
+163,138,5,Literature,Live Session,Easy
+208,196,3,Literature,Live Session,Easy
+591,62,5,Literature,Text,Easy
+56,143,1,Science,Live Session,Easy
+173,60,3,Programming,Video,Medium
+556,126,5,History,Video,Easy
+487,131,3,Science,Quiz,Medium
+553,77,2,History,Text,Medium
+254,120,5,Math,Live Session,Easy
+879,139,3,Literature,Quiz,Easy
+534,87,1,Literature,Live Session,Easy
+259,156,5,Math,Live Session,Hard
+533,98,1,Science,Live Session,Hard
+775,119,3,Science,Text,Easy
+168,169,2,Literature,Live Session,Medium
+872,168,5,Programming,Video,Easy
+621,185,4,History,Live Session,Easy
+799,131,5,Science,Quiz,Medium
+654,3,5,Math,Quiz,Easy
+560,12,4,Programming,Text,Hard
+343,137,5,History,Quiz,Easy
+791,113,4,Math,Live Session,Hard
+326,15,1,Programming,Quiz,Easy
+933,140,5,Programming,Text,Easy
+725,56,2,Literature,Text,Hard
+952,102,2,Programming,Quiz,Easy
+818,156,4,Math,Live Session,Hard
+154,185,3,History,Live Session,Easy
+745,38,1,Math,Video,Medium
+228,56,1,Literature,Text,Hard
+392,39,1,Math,Video,Hard
+48,158,2,History,Video,Medium
+804,130,3,Math,Text,Easy
+164,187,4,Math,Quiz,Medium
+816,152,2,Programming,Live Session,Hard
+23,30,1,Literature,Live Session,Hard
+974,53,1,Programming,Live Session,Medium
+114,18,5,History,Quiz,Medium
+409,33,4,History,Text,Easy
+325,24,5,Literature,Video,Hard
+842,145,1,Science,Text,Medium
+156,91,5,Literature,Quiz,Hard
+832,163,3,Science,Video,Hard
+174,135,1,History,Text,Easy
+453,154,2,Math,Quiz,Hard
+138,86,3,Math,Video,Hard
+759,20,2,Math,Live Session,Hard
+301,6,2,Literature,Video,Hard
+526,119,5,Science,Text,Easy
+675,116,1,Science,Quiz,Easy
+457,81,1,Literature,Video,Medium
+654,156,1,Math,Live Session,Hard
+214,11,2,History,Text,Medium
+240,85,1,Literature,Quiz,Medium
+13,177,5,Science,Video,Hard
+836,124,4,Programming,Live Session,Medium
+472,13,1,Science,Live Session,Easy
+484,39,4,Math,Video,Hard
+750,194,3,History,Quiz,Medium
+640,19,5,Math,Quiz,Hard
+650,159,3,History,Live Session,Hard
+99,97,2,Literature,Live Session,Hard
+760,121,3,Math,Quiz,Hard
+959,20,2,Math,Live Session,Hard
+455,103,1,Science,Video,Hard
+845,89,5,Literature,Video,Hard
+194,137,1,History,Quiz,Easy
+998,140,4,Programming,Text,Easy
+830,161,5,History,Quiz,Easy
+959,118,5,Math,Text,Medium
+642,71,2,History,Quiz,Hard
+10,62,5,Literature,Text,Easy
+629,41,2,Literature,Video,Medium
+977,24,2,Literature,Video,Hard
+482,95,5,Math,Text,Medium
+146,108,2,Literature,Quiz,Easy
+389,106,4,Science,Video,Easy
+726,173,2,Literature,Text,Easy
+133,24,3,Literature,Video,Hard
+528,84,5,Literature,Quiz,Hard
+755,93,5,Literature,Quiz,Easy
+683,183,3,Math,Video,Easy
+521,24,2,Literature,Video,Hard
+426,166,5,Science,Text,Easy
+656,164,3,Science,Quiz,Easy
+539,145,4,Science,Text,Medium
+648,120,4,Math,Live Session,Easy
+736,198,2,Programming,Video,Hard
+611,128,3,History,Text,Hard
+618,188,5,Science,Text,Medium
+889,12,3,Programming,Text,Hard
+97,113,3,Math,Live Session,Hard
+754,12,2,Programming,Text,Hard
+855,41,5,Literature,Video,Medium
+39,197,5,Literature,Text,Medium
+538,5,2,Programming,Live Session,Hard
+484,20,1,Math,Live Session,Hard
+543,200,1,Programming,Quiz,Easy
+77,200,4,Programming,Quiz,Easy
+30,41,4,Literature,Video,Medium
+750,85,3,Literature,Quiz,Medium
+846,198,1,Programming,Video,Hard
+165,18,4,History,Quiz,Medium
+207,115,5,Programming,Quiz,Easy
+805,133,4,Science,Quiz,Hard
+520,63,1,Literature,Text,Hard
+45,133,5,Science,Quiz,Hard
+60,180,4,Math,Quiz,Easy
+974,147,4,Programming,Video,Easy
+865,200,2,Programming,Quiz,Easy
+796,176,1,Programming,Text,Easy
+760,164,1,Science,Quiz,Easy
+44,90,5,Science,Text,Medium
+172,187,2,Math,Quiz,Medium
+612,172,3,Programming,Quiz,Medium
+175,61,2,Math,Quiz,Hard
+411,196,4,Literature,Live Session,Easy
+5,193,5,Math,Live Session,Easy
+928,49,1,Programming,Live Session,Medium
+395,94,4,Science,Video,Hard
+436,93,1,Literature,Quiz,Easy
+715,21,2,History,Text,Hard
+456,115,1,Programming,Quiz,Easy
+212,54,4,Science,Text,Medium
+951,13,4,Science,Live Session,Easy
+847,97,5,Literature,Live Session,Hard
+927,53,2,Programming,Live Session,Medium
+518,194,2,History,Quiz,Medium
+776,186,1,Programming,Text,Hard
+650,130,2,Math,Text,Easy
+428,57,1,Programming,Video,Hard
+870,49,2,Programming,Live Session,Medium
+129,194,5,History,Quiz,Medium
+525,150,5,History,Live Session,Easy
+845,129,4,History,Live Session,Hard
+858,154,3,Math,Quiz,Hard
+104,178,1,Science,Text,Hard
+772,110,1,History,Live Session,Easy
+723,152,5,Programming,Live Session,Hard
+934,138,2,Literature,Live Session,Easy
+691,18,5,History,Quiz,Medium
+18,105,4,Math,Quiz,Hard
+75,16,3,Literature,Video,Easy
+694,78,4,Literature,Live Session,Hard
+538,39,2,Math,Video,Hard
+957,99,3,Literature,Quiz,Medium
+914,184,4,Programming,Live Session,Medium
+104,92,1,Programming,Text,Medium
+531,155,2,Science,Live Session,Hard
+955,188,2,Science,Text,Medium
+27,148,3,History,Video,Easy
+212,64,1,Science,Live Session,Hard
+785,23,5,Science,Live Session,Medium
+669,92,5,Programming,Text,Medium
+885,126,5,History,Video,Easy
+335,140,2,Programming,Text,Easy
+922,112,5,History,Live Session,Easy
+256,131,1,Science,Quiz,Medium
+409,116,2,Science,Quiz,Easy
+649,120,3,Math,Live Session,Easy
+44,163,5,Science,Video,Hard
+235,46,2,Literature,Text,Hard
+490,146,4,History,Text,Medium
+120,190,5,Programming,Video,Medium
+995,4,5,Literature,Quiz,Easy
+427,49,5,Programming,Live Session,Medium
+1,107,4,Science,Quiz,Easy
+807,193,1,Math,Live Session,Easy
+501,22,3,Literature,Live Session,Hard
+25,15,1,Programming,Quiz,Easy
+290,89,3,Literature,Video,Hard
+196,154,4,Math,Quiz,Hard
+967,87,1,Literature,Live Session,Easy
+28,142,5,Literature,Live Session,Easy
+872,43,4,Programming,Quiz,Medium
+466,115,2,Programming,Quiz,Easy
+550,118,3,Math,Text,Medium
+980,140,1,Programming,Text,Easy
+105,195,4,History,Live Session,Hard
+185,199,3,Math,Quiz,Hard
+289,176,2,Programming,Text,Easy
+222,123,1,Literature,Live Session,Medium
+523,18,2,History,Quiz,Medium
+684,151,2,Math,Text,Easy
+893,180,5,Math,Quiz,Easy
+217,29,1,Science,Video,Easy
+68,192,4,Programming,Text,Hard
+603,42,4,History,Live Session,Hard
+720,93,4,Literature,Quiz,Easy
+111,3,1,Math,Quiz,Easy
+429,76,2,Science,Live Session,Hard
+613,6,4,Literature,Video,Hard
+647,17,5,Math,Live Session,Easy
+367,9,4,Math,Video,Hard
+838,99,4,Literature,Quiz,Medium
+789,199,2,Math,Quiz,Hard
+258,102,3,Programming,Quiz,Easy
+139,27,4,Literature,Quiz,Easy
+831,101,1,Programming,Quiz,Easy
+91,167,4,Science,Live Session,Medium
+477,153,3,Programming,Quiz,Medium
+77,20,2,Math,Live Session,Hard
+241,153,2,Programming,Quiz,Medium
+257,75,3,Programming,Quiz,Hard
+564,110,2,History,Live Session,Easy
+887,136,3,History,Video,Easy
+325,61,5,Math,Quiz,Hard
+347,11,1,History,Text,Medium
+580,19,5,Math,Quiz,Hard
+794,54,1,Science,Text,Medium
+183,4,5,Literature,Quiz,Easy
+306,136,5,History,Video,Easy
+253,39,2,Math,Video,Hard
+746,71,1,History,Quiz,Hard
+785,170,3,Math,Quiz,Medium
+148,115,3,Programming,Quiz,Easy
+293,161,4,History,Quiz,Easy
+252,56,4,Literature,Text,Hard
+698,151,4,Math,Text,Easy
+370,101,1,Programming,Quiz,Easy
+128,107,5,Science,Quiz,Easy
+766,16,4,Literature,Video,Easy
+277,152,5,Programming,Live Session,Hard
+424,143,5,Science,Live Session,Easy
+376,11,2,History,Text,Medium
+598,74,4,Literature,Live Session,Easy
+501,83,2,Programming,Quiz,Hard
+164,57,2,Programming,Video,Hard
+917,165,1,Math,Text,Easy
+496,4,5,Literature,Quiz,Easy
+854,2,3,Programming,Quiz,Easy
+796,75,2,Programming,Quiz,Hard
+605,162,1,Programming,Live Session,Medium
+69,200,1,Programming,Quiz,Easy
+592,106,2,Science,Video,Easy
+165,64,1,Science,Live Session,Hard
+118,129,5,History,Live Session,Hard
+472,12,3,Programming,Text,Hard
+807,176,1,Programming,Text,Easy
+708,122,4,Programming,Video,Easy
+503,76,5,Science,Live Session,Hard
+804,122,4,Programming,Video,Easy
+284,146,3,History,Text,Medium
+140,168,3,Programming,Video,Easy
+607,99,4,Literature,Quiz,Medium
+557,9,2,Math,Video,Hard
+662,186,2,Programming,Text,Hard
+838,194,4,History,Quiz,Medium
+768,176,1,Programming,Text,Easy
+803,152,5,Programming,Live Session,Hard
+114,46,1,Literature,Text,Hard
+125,137,5,History,Quiz,Easy
+35,185,4,History,Live Session,Easy
+224,72,4,History,Text,Easy
+981,62,1,Literature,Text,Easy
+234,61,4,Math,Quiz,Hard
+29,176,4,Programming,Text,Easy
+882,142,3,Literature,Live Session,Easy
+809,186,2,Programming,Text,Hard
+337,60,4,Programming,Video,Medium
+552,36,3,Science,Live Session,Hard
+999,170,3,Math,Quiz,Medium
+535,36,4,Science,Live Session,Hard
+878,126,2,History,Video,Easy
+329,75,4,Programming,Quiz,Hard
+173,109,3,Math,Video,Hard
+383,116,2,Science,Quiz,Easy
+23,187,1,Math,Quiz,Medium
+257,199,1,Math,Quiz,Hard
+294,123,5,Literature,Live Session,Medium
+150,96,3,History,Text,Medium
+977,163,2,Science,Video,Hard
+97,52,4,Science,Live Session,Medium
+885,106,3,Science,Video,Easy
+135,121,3,Math,Quiz,Hard
+741,33,4,History,Text,Easy
+368,120,5,Math,Live Session,Easy
+359,154,5,Math,Quiz,Hard
+691,150,1,History,Live Session,Easy
+175,88,2,Math,Quiz,Medium
+688,171,1,Math,Live Session,Hard
+4,54,5,Science,Text,Medium
+175,144,4,History,Quiz,Easy
+622,191,5,Math,Quiz,Easy
+83,76,2,Science,Live Session,Hard
+946,178,4,Science,Text,Hard
+46,171,5,Math,Live Session,Hard
+624,20,1,Math,Live Session,Hard
+334,116,5,Science,Quiz,Easy
+94,98,5,Science,Live Session,Hard
+610,24,2,Literature,Video,Hard
+901,137,4,History,Quiz,Easy
+93,163,1,Science,Video,Hard
+822,128,4,History,Text,Hard
+654,4,5,Literature,Quiz,Easy
+124,168,4,Programming,Video,Easy
+868,29,1,Science,Video,Easy
+937,140,3,Programming,Text,Easy
+337,55,3,History,Quiz,Hard
+353,185,4,History,Live Session,Easy
+202,100,5,History,Video,Easy
+369,97,5,Literature,Live Session,Hard
+634,78,5,Literature,Live Session,Hard
+479,32,1,Science,Video,Hard
+326,4,1,Literature,Quiz,Easy
+446,133,2,Science,Quiz,Hard
+649,145,3,Science,Text,Medium
+486,179,3,Science,Live Session,Medium
+820,33,5,History,Text,Easy
+148,27,3,Literature,Quiz,Easy
+576,41,2,Literature,Video,Medium
+252,32,4,Science,Video,Hard
+353,53,3,Programming,Live Session,Medium
+883,29,3,Science,Video,Easy
+829,17,5,Math,Live Session,Easy
+469,181,4,Science,Video,Medium
+155,140,5,Programming,Text,Easy
+514,2,1,Programming,Quiz,Easy
+706,151,5,Math,Text,Easy
+328,138,1,Literature,Live Session,Easy
+249,135,1,History,Text,Easy
+938,192,5,Programming,Text,Hard
+509,48,4,History,Quiz,Medium
+385,36,4,Science,Live Session,Hard
+595,71,3,History,Quiz,Hard
+468,180,1,Math,Quiz,Easy
+541,115,1,Programming,Quiz,Easy
+854,2,5,Programming,Quiz,Easy
+664,85,2,Literature,Quiz,Medium
+775,74,1,Literature,Live Session,Easy
+937,1,3,Math,Video,Medium
+848,98,5,Science,Live Session,Hard
+448,197,2,Literature,Text,Medium
+473,177,4,Science,Video,Hard
+142,20,2,Math,Live Session,Hard
+459,163,2,Science,Video,Hard
+982,54,3,Science,Text,Medium
+309,28,5,Math,Live Session,Easy
+539,187,5,Math,Quiz,Medium
+209,94,1,Science,Video,Hard
+332,151,5,Math,Text,Easy
+816,151,2,Math,Text,Easy
+189,128,3,History,Text,Hard
+871,41,4,Literature,Video,Medium
+873,52,1,Science,Live Session,Medium
+71,153,1,Programming,Quiz,Medium
+538,174,5,Math,Text,Easy
+351,15,1,Programming,Quiz,Easy
+560,178,4,Science,Text,Hard
+557,92,4,Programming,Text,Medium
+120,66,3,Programming,Video,Easy
+758,75,5,Programming,Quiz,Hard
+550,43,4,Programming,Quiz,Medium
+662,129,2,History,Live Session,Hard
+910,105,3,Math,Quiz,Hard
+166,68,2,Programming,Quiz,Hard
+978,89,1,Literature,Video,Hard
+173,123,2,Literature,Live Session,Medium
+253,144,4,History,Quiz,Easy
+225,29,2,Science,Video,Easy
+755,64,4,Science,Live Session,Hard
+205,41,3,Literature,Video,Medium
+941,148,5,History,Video,Easy
+518,191,3,Math,Quiz,Easy
+653,107,2,Science,Quiz,Easy
+78,144,4,History,Quiz,Easy
+792,32,5,Science,Video,Hard
+673,127,1,Science,Live Session,Easy
+226,144,5,History,Quiz,Easy
+235,163,2,Science,Video,Hard
+612,34,1,Programming,Video,Easy
+640,11,1,History,Text,Medium
+907,102,4,Programming,Quiz,Easy
+593,77,4,History,Text,Medium
+67,177,3,Science,Video,Hard
+246,200,3,Programming,Quiz,Easy
+530,125,5,Programming,Quiz,Hard
+745,36,4,Science,Live Session,Hard
+340,123,5,Literature,Live Session,Medium
+892,73,1,Programming,Text,Hard
+739,73,2,Programming,Text,Hard
+55,146,3,History,Text,Medium
+900,128,2,History,Text,Hard
+806,81,5,Literature,Video,Medium
+314,130,5,Math,Text,Easy
+326,53,1,Programming,Live Session,Medium
+919,60,4,Programming,Video,Medium
+665,166,5,Science,Text,Easy
+372,74,3,Literature,Live Session,Easy
+674,168,3,Programming,Video,Easy
+405,193,4,Math,Live Session,Easy
+343,111,1,Math,Quiz,Hard
+169,73,5,Programming,Text,Hard
+421,159,2,History,Live Session,Hard
+75,159,2,History,Live Session,Hard
+948,2,2,Programming,Quiz,Easy
+880,128,4,History,Text,Hard
+668,84,1,Literature,Quiz,Hard
+672,196,4,Literature,Live Session,Easy
+448,191,1,Math,Quiz,Easy
+514,137,1,History,Quiz,Easy
+238,152,3,Programming,Live Session,Hard
+306,91,1,Literature,Quiz,Hard
+926,200,4,Programming,Quiz,Easy
+879,132,5,Literature,Live Session,Medium
+565,54,5,Science,Text,Medium
+172,84,1,Literature,Quiz,Hard
+164,49,1,Programming,Live Session,Medium
+307,148,1,History,Video,Easy
+803,66,5,Programming,Video,Easy
+682,147,1,Programming,Video,Easy
+415,8,5,History,Live Session,Medium
+180,72,5,History,Text,Easy
+957,49,2,Programming,Live Session,Medium
+491,131,5,Science,Quiz,Medium
+471,153,2,Programming,Quiz,Medium
+93,70,1,Literature,Text,Medium
+336,37,1,Literature,Quiz,Hard
+168,167,5,Science,Live Session,Medium
+134,147,3,Programming,Video,Easy
+802,156,4,Math,Live Session,Hard
+71,59,3,Math,Quiz,Easy
+552,44,3,History,Video,Easy
+633,106,3,Science,Video,Easy
+483,104,2,Programming,Live Session,Hard
+612,60,1,Programming,Video,Medium
+936,96,5,History,Text,Medium
+375,186,4,Programming,Text,Hard
+324,75,5,Programming,Quiz,Hard
+834,108,2,Literature,Quiz,Easy
+559,200,1,Programming,Quiz,Easy
+244,68,3,Programming,Quiz,Hard
+362,151,3,Math,Text,Easy
+612,182,2,Literature,Live Session,Medium
+569,140,1,Programming,Text,Easy
+813,108,3,Literature,Quiz,Easy
+972,97,4,Literature,Live Session,Hard
+408,24,5,Literature,Video,Hard
+159,125,3,Programming,Quiz,Hard
+7,157,4,History,Video,Hard
+604,39,4,Math,Video,Hard
+176,125,4,Programming,Quiz,Hard
+735,70,2,Literature,Text,Medium
+705,35,4,Literature,Live Session,Easy
+114,136,1,History,Video,Easy
+674,148,4,History,Video,Easy
+45,158,4,History,Video,Medium
+597,111,5,Math,Quiz,Hard
+909,95,3,Math,Text,Medium
+16,177,3,Science,Video,Hard
+503,62,3,Literature,Text,Easy
+724,180,3,Math,Quiz,Easy
+48,66,5,Programming,Video,Easy
+73,120,4,Math,Live Session,Easy
+887,108,2,Literature,Quiz,Easy
+633,35,3,Literature,Live Session,Easy
+483,149,4,Programming,Video,Hard
+127,199,1,Math,Quiz,Hard
+447,99,5,Literature,Quiz,Medium
+681,136,5,History,Video,Easy
+947,139,1,Literature,Quiz,Easy
+1000,149,4,Programming,Video,Hard
+337,200,1,Programming,Quiz,Easy
+57,115,1,Programming,Quiz,Easy
+52,102,1,Programming,Quiz,Easy
+601,37,5,Literature,Quiz,Hard
+908,64,5,Science,Live Session,Hard
+482,16,3,Literature,Video,Easy
+960,162,1,Programming,Live Session,Medium
+94,35,1,Literature,Live Session,Easy
+970,31,2,Literature,Quiz,Easy
+662,117,4,History,Live Session,Hard
+596,162,2,Programming,Live Session,Medium
+284,147,5,Programming,Video,Easy
+366,103,2,Science,Video,Hard
+203,106,2,Science,Video,Easy
+588,16,1,Literature,Video,Easy
+684,193,4,Math,Live Session,Easy
+132,84,3,Literature,Quiz,Hard
+103,101,2,Programming,Quiz,Easy
+317,102,1,Programming,Quiz,Easy
+670,144,1,History,Quiz,Easy
+712,121,2,Math,Quiz,Hard
+127,5,3,Programming,Live Session,Hard
+80,197,3,Literature,Text,Medium
+123,159,1,History,Live Session,Hard
+622,174,4,Math,Text,Easy
+239,151,5,Math,Text,Easy
+587,112,5,History,Live Session,Easy
+311,54,2,Science,Text,Medium
+541,149,2,Programming,Video,Hard
+322,63,4,Literature,Text,Hard
+913,133,5,Science,Quiz,Hard
+820,85,5,Literature,Quiz,Medium
+87,115,2,Programming,Quiz,Easy
+807,45,3,Literature,Quiz,Medium
+754,70,2,Literature,Text,Medium
+297,127,2,Science,Live Session,Easy
+707,121,1,Math,Quiz,Hard
+257,111,5,Math,Quiz,Hard
+787,191,5,Math,Quiz,Easy
+328,22,5,Literature,Live Session,Hard
+492,135,2,History,Text,Easy
+624,154,4,Math,Quiz,Hard
+192,123,1,Literature,Live Session,Medium
+257,46,5,Literature,Text,Hard
+154,6,3,Literature,Video,Hard
+681,120,2,Math,Live Session,Easy
+733,115,4,Programming,Quiz,Easy
+417,159,1,History,Live Session,Hard
+108,188,5,Science,Text,Medium
+802,47,3,Math,Video,Easy
+415,36,2,Science,Live Session,Hard
+507,48,3,History,Quiz,Medium
+166,181,2,Science,Video,Medium
+1000,68,2,Programming,Quiz,Hard
+111,20,2,Math,Live Session,Hard
+371,153,2,Programming,Quiz,Medium
+889,58,4,Programming,Text,Medium
+31,190,2,Programming,Video,Medium
+747,169,1,Literature,Live Session,Medium
+401,199,2,Math,Quiz,Hard
+891,11,4,History,Text,Medium
+860,104,4,Programming,Live Session,Hard
+66,77,3,History,Text,Medium
+41,15,2,Programming,Quiz,Easy
+468,73,5,Programming,Text,Hard
+948,80,5,Programming,Video,Easy
+580,72,2,History,Text,Easy
+804,129,4,History,Live Session,Hard
+808,187,4,Math,Quiz,Medium
+577,70,3,Literature,Text,Medium
+621,95,4,Math,Text,Medium
+363,99,4,Literature,Quiz,Medium
+703,19,3,Math,Quiz,Hard
+816,182,3,Literature,Live Session,Medium
+682,127,4,Science,Live Session,Easy
+960,101,3,Programming,Quiz,Easy
+43,67,1,Literature,Quiz,Easy
+596,166,3,Science,Text,Easy
+352,175,5,Programming,Quiz,Easy
+606,71,1,History,Quiz,Hard
+329,141,1,Math,Video,Easy
+849,135,2,History,Text,Easy
+399,106,4,Science,Video,Easy
+154,22,3,Literature,Live Session,Hard
+171,8,4,History,Live Session,Medium
+330,185,4,History,Live Session,Easy
+936,5,5,Programming,Live Session,Hard
+843,95,5,Math,Text,Medium
+821,60,5,Programming,Video,Medium
+356,156,4,Math,Live Session,Hard
+817,178,4,Science,Text,Hard
+948,94,5,Science,Video,Hard
+896,62,3,Literature,Text,Easy
+547,183,4,Math,Video,Easy
+415,82,5,Literature,Text,Easy
+253,9,1,Math,Video,Hard
+583,68,4,Programming,Quiz,Hard
+180,177,2,Science,Video,Hard
+774,12,4,Programming,Text,Hard
+905,164,2,Science,Quiz,Easy
+314,168,4,Programming,Video,Easy
+287,16,3,Literature,Video,Easy
+687,4,1,Literature,Quiz,Easy
+263,134,3,Math,Text,Hard
+232,59,3,Math,Quiz,Easy
+735,52,5,Science,Live Session,Medium
+702,140,2,Programming,Text,Easy
+432,79,2,Literature,Text,Easy
+100,8,1,History,Live Session,Medium
+801,178,5,Science,Text,Hard
+579,184,2,Programming,Live Session,Medium
+254,24,4,Literature,Video,Hard
+93,84,5,Literature,Quiz,Hard
+117,138,4,Literature,Live Session,Easy
+833,192,1,Programming,Text,Hard
+925,120,5,Math,Live Session,Easy
+683,138,1,Literature,Live Session,Easy
+348,164,3,Science,Quiz,Easy
+323,192,1,Programming,Text,Hard
+693,29,1,Science,Video,Easy
+485,124,1,Programming,Live Session,Medium
+910,39,5,Math,Video,Hard
+581,62,5,Literature,Text,Easy
+245,113,4,Math,Live Session,Hard
+243,187,1,Math,Quiz,Medium
+827,22,3,Literature,Live Session,Hard
+683,102,3,Programming,Quiz,Easy
+756,14,1,Literature,Video,Medium
+213,174,1,Math,Text,Easy
+458,103,4,Science,Video,Hard
+170,123,4,Literature,Live Session,Medium
+702,154,1,Math,Quiz,Hard
+831,71,2,History,Quiz,Hard
+860,31,5,Literature,Quiz,Easy
+487,158,5,History,Video,Medium
+470,102,1,Programming,Quiz,Easy
+157,174,4,Math,Text,Easy
+986,55,5,History,Quiz,Hard
+862,76,1,Science,Live Session,Hard
+219,173,3,Literature,Text,Easy
+57,51,5,History,Quiz,Medium
+357,198,5,Programming,Video,Hard
+105,87,5,Literature,Live Session,Easy
+82,32,1,Science,Video,Hard
+569,78,1,Literature,Live Session,Hard
+786,192,5,Programming,Text,Hard
+634,15,3,Programming,Quiz,Easy
+162,131,5,Science,Quiz,Medium
+239,199,1,Math,Quiz,Hard
+286,190,1,Programming,Video,Medium
+869,178,5,Science,Text,Hard
+701,58,2,Programming,Text,Medium
+163,196,4,Literature,Live Session,Easy
+264,175,3,Programming,Quiz,Easy
+280,8,5,History,Live Session,Medium
+584,168,4,Programming,Video,Easy
+10,150,5,History,Live Session,Easy
+943,81,1,Literature,Video,Medium
+418,5,5,Programming,Live Session,Hard
+729,173,4,Literature,Text,Easy
+610,194,2,History,Quiz,Medium
+502,95,2,Math,Text,Medium
+858,96,1,History,Text,Medium
+136,18,1,History,Quiz,Medium
+255,98,5,Science,Live Session,Hard
+492,120,2,Math,Live Session,Easy
+788,39,3,Math,Video,Hard
+895,180,3,Math,Quiz,Easy
+291,61,5,Math,Quiz,Hard
+272,49,1,Programming,Live Session,Medium
+90,192,2,Programming,Text,Hard
+29,172,1,Programming,Quiz,Medium
+315,112,5,History,Live Session,Easy
+755,5,4,Programming,Live Session,Hard
+984,9,3,Math,Video,Hard
+330,169,2,Literature,Live Session,Medium
+563,100,2,History,Video,Easy
+144,138,2,Literature,Live Session,Easy
+284,77,5,History,Text,Medium
+476,76,4,Science,Live Session,Hard
+48,121,5,Math,Quiz,Hard
+138,72,1,History,Text,Easy
+995,199,5,Math,Quiz,Hard
+27,48,1,History,Quiz,Medium
+835,153,3,Programming,Quiz,Medium
+236,51,5,History,Quiz,Medium
+409,169,1,Literature,Live Session,Medium
+649,43,4,Programming,Quiz,Medium
+23,38,3,Math,Video,Medium
+427,82,1,Literature,Text,Easy
+536,84,3,Literature,Quiz,Hard
+998,127,1,Science,Live Session,Easy
+355,123,4,Literature,Live Session,Medium
+976,184,5,Programming,Live Session,Medium
+760,41,3,Literature,Video,Medium
+864,37,2,Literature,Quiz,Hard
+410,125,5,Programming,Quiz,Hard
+610,112,3,History,Live Session,Easy
+526,6,2,Literature,Video,Hard
+800,187,5,Math,Quiz,Medium
+358,142,3,Literature,Live Session,Easy
+555,136,1,History,Video,Easy
+852,104,3,Programming,Live Session,Hard
+420,101,4,Programming,Quiz,Easy
+517,159,1,History,Live Session,Hard
+336,30,2,Literature,Live Session,Hard
+104,110,3,History,Live Session,Easy
+331,20,4,Math,Live Session,Hard
+912,33,1,History,Text,Easy
+460,123,3,Literature,Live Session,Medium
+318,95,1,Math,Text,Medium
+4,151,2,Math,Text,Easy
+135,167,4,Science,Live Session,Medium
+44,60,2,Programming,Video,Medium
+597,168,3,Programming,Video,Easy
+86,153,1,Programming,Quiz,Medium
+595,59,1,Math,Quiz,Easy
+535,31,3,Literature,Quiz,Easy
+344,122,1,Programming,Video,Easy
+694,20,1,Math,Live Session,Hard
+494,32,3,Science,Video,Hard
+592,126,3,History,Video,Easy
+89,21,1,History,Text,Hard
+239,23,3,Science,Live Session,Medium
+884,65,5,Math,Text,Hard
+539,166,2,Science,Text,Easy
+584,78,1,Literature,Live Session,Hard
+201,96,2,History,Text,Medium
+496,192,1,Programming,Text,Hard
+643,112,3,History,Live Session,Easy
+770,88,2,Math,Quiz,Medium
+263,126,3,History,Video,Easy
+309,76,3,Science,Live Session,Hard
+535,12,4,Programming,Text,Hard
+807,117,3,History,Live Session,Hard
+413,26,3,Literature,Live Session,Easy
+45,117,3,History,Live Session,Hard
+968,114,2,Programming,Live Session,Medium
+908,93,1,Literature,Quiz,Easy
+642,171,1,Math,Live Session,Hard
+150,101,5,Programming,Quiz,Easy
+797,191,5,Math,Quiz,Easy
+296,87,5,Literature,Live Session,Easy
+884,138,2,Literature,Live Session,Easy
+142,123,1,Literature,Live Session,Medium
+900,17,1,Math,Live Session,Easy
+122,179,5,Science,Live Session,Medium
+619,15,3,Programming,Quiz,Easy
+148,120,2,Math,Live Session,Easy
+959,146,4,History,Text,Medium
+509,88,2,Math,Quiz,Medium
+835,97,2,Literature,Live Session,Hard
+317,5,1,Programming,Live Session,Hard
+654,30,4,Literature,Live Session,Hard
+943,114,4,Programming,Live Session,Medium
+911,44,1,History,Video,Easy
+24,100,4,History,Video,Easy
+451,45,3,Literature,Quiz,Medium
+947,183,2,Math,Video,Easy
+741,142,4,Literature,Live Session,Easy
+940,83,1,Programming,Quiz,Hard
+833,4,1,Literature,Quiz,Easy
+540,49,4,Programming,Live Session,Medium
+541,94,1,Science,Video,Hard
+49,85,1,Literature,Quiz,Medium
+214,116,2,Science,Quiz,Easy
+403,179,2,Science,Live Session,Medium
+467,11,5,History,Text,Medium
+317,82,4,Literature,Text,Easy
+818,80,1,Programming,Video,Easy
+784,67,4,Literature,Quiz,Easy
+923,117,5,History,Live Session,Hard
+190,32,3,Science,Video,Hard
+591,180,4,Math,Quiz,Easy
+205,171,2,Math,Live Session,Hard
+248,97,2,Literature,Live Session,Hard
+617,187,2,Math,Quiz,Medium
+376,1,1,Math,Video,Medium
+671,177,5,Science,Video,Hard
+332,142,2,Literature,Live Session,Easy
+327,150,5,History,Live Session,Easy
+573,190,2,Programming,Video,Medium
+943,23,4,Science,Live Session,Medium
+682,152,3,Programming,Live Session,Hard
+744,75,1,Programming,Quiz,Hard
+855,159,4,History,Live Session,Hard
+495,155,4,Science,Live Session,Hard
+659,191,3,Math,Quiz,Easy
+48,120,4,Math,Live Session,Easy
+956,198,3,Programming,Video,Hard
+464,87,4,Literature,Live Session,Easy
+726,29,5,Science,Video,Easy
+590,138,3,Literature,Live Session,Easy
+467,172,4,Programming,Quiz,Medium
+483,3,2,Math,Quiz,Easy
+512,61,1,Math,Quiz,Hard
+622,147,2,Programming,Video,Easy
+722,136,5,History,Video,Easy
+309,183,4,Math,Video,Easy
+188,32,5,Science,Video,Hard
+645,86,1,Math,Video,Hard
+663,13,5,Science,Live Session,Easy
+445,165,3,Math,Text,Easy
+12,1,2,Math,Video,Medium
+460,64,1,Science,Live Session,Hard
+664,80,4,Programming,Video,Easy
+232,26,4,Literature,Live Session,Easy
+662,149,4,Programming,Video,Hard
+917,34,5,Programming,Video,Easy
+52,108,5,Literature,Quiz,Easy
+933,44,2,History,Video,Easy
+994,158,1,History,Video,Medium
+341,73,5,Programming,Text,Hard
+926,87,2,Literature,Live Session,Easy
+578,173,3,Literature,Text,Easy
+881,21,1,History,Text,Hard
+881,96,5,History,Text,Medium
+774,175,4,Programming,Quiz,Easy
+50,100,1,History,Video,Easy
+491,11,2,History,Text,Medium
+616,130,4,Math,Text,Easy
+308,57,5,Programming,Video,Hard
+18,165,5,Math,Text,Easy
+695,132,3,Literature,Live Session,Medium
+289,159,5,History,Live Session,Hard
+719,145,3,Science,Text,Medium
+875,103,3,Science,Video,Hard
+921,44,2,History,Video,Easy
+276,24,4,Literature,Video,Hard
+60,195,4,History,Live Session,Hard
+468,58,2,Programming,Text,Medium
+797,68,1,Programming,Quiz,Hard
+52,118,1,Math,Text,Medium
+485,50,1,Literature,Text,Hard
+362,187,1,Math,Quiz,Medium
+102,9,4,Math,Video,Hard
+239,70,3,Literature,Text,Medium
+748,132,1,Literature,Live Session,Medium
+42,152,3,Programming,Live Session,Hard
+752,79,3,Literature,Text,Easy
+430,123,4,Literature,Live Session,Medium
+693,153,4,Programming,Quiz,Medium
+303,84,1,Literature,Quiz,Hard
+447,27,4,Literature,Quiz,Easy
+285,137,1,History,Quiz,Easy
+454,16,3,Literature,Video,Easy
+187,106,2,Science,Video,Easy
+237,44,1,History,Video,Easy
+521,169,3,Literature,Live Session,Medium
+774,1,4,Math,Video,Medium
+480,5,1,Programming,Live Session,Hard
+549,18,5,History,Quiz,Medium
+993,100,1,History,Video,Easy
+723,55,1,History,Quiz,Hard
+302,19,3,Math,Quiz,Hard
+145,31,2,Literature,Quiz,Easy
+874,113,3,Math,Live Session,Hard
+798,76,4,Science,Live Session,Hard
+189,2,5,Programming,Quiz,Easy
+159,37,5,Literature,Quiz,Hard
+897,101,5,Programming,Quiz,Easy
+394,104,1,Programming,Live Session,Hard
+366,165,4,Math,Text,Easy
+66,164,1,Science,Quiz,Easy
+811,192,2,Programming,Text,Hard
+376,60,4,Programming,Video,Medium
+551,146,4,History,Text,Medium
+276,90,1,Science,Text,Medium
+362,121,5,Math,Quiz,Hard
+890,73,4,Programming,Text,Hard
+50,30,2,Literature,Live Session,Hard
+373,184,3,Programming,Live Session,Medium
+535,113,1,Math,Live Session,Hard
+400,49,3,Programming,Live Session,Medium
+916,159,4,History,Live Session,Hard
+88,34,1,Programming,Video,Easy
+945,156,3,Math,Live Session,Hard
+528,127,2,Science,Live Session,Easy
+632,148,5,History,Video,Easy
+389,99,2,Literature,Quiz,Medium
+751,57,2,Programming,Video,Hard
+958,54,5,Science,Text,Medium
+673,68,5,Programming,Quiz,Hard
+218,59,4,Math,Quiz,Easy
+751,12,5,Programming,Text,Hard
+935,154,2,Math,Quiz,Hard
+640,28,4,Math,Live Session,Easy
+546,110,2,History,Live Session,Easy
+119,53,4,Programming,Live Session,Medium
+578,10,1,Literature,Quiz,Hard
+980,155,1,Science,Live Session,Hard
+668,183,1,Math,Video,Easy
+80,137,1,History,Quiz,Easy
+285,35,1,Literature,Live Session,Easy
+956,125,5,Programming,Quiz,Hard
+897,78,3,Literature,Live Session,Hard
+307,18,5,History,Quiz,Medium
+677,137,1,History,Quiz,Easy
+498,42,1,History,Live Session,Hard
+521,158,3,History,Video,Medium
+368,50,5,Literature,Text,Hard
+686,37,4,Literature,Quiz,Hard
+966,78,1,Literature,Live Session,Hard
+403,33,4,History,Text,Easy
+243,162,5,Programming,Live Session,Medium
+722,195,1,History,Live Session,Hard
+974,29,4,Science,Video,Easy
+634,167,5,Science,Live Session,Medium
+578,195,5,History,Live Session,Hard
+649,25,5,Science,Quiz,Medium
+75,194,5,History,Quiz,Medium
+509,152,2,Programming,Live Session,Hard
+525,155,1,Science,Live Session,Hard
+301,191,3,Math,Quiz,Easy
+706,149,5,Programming,Video,Hard
+109,176,3,Programming,Text,Easy
+613,73,2,Programming,Text,Hard
+35,135,1,History,Text,Easy
+771,139,3,Literature,Quiz,Easy
+167,49,5,Programming,Live Session,Medium
+790,46,3,Literature,Text,Hard
+540,117,2,History,Live Session,Hard
+585,54,2,Science,Text,Medium
+682,182,5,Literature,Live Session,Medium
+110,141,3,Math,Video,Easy
+993,131,4,Science,Quiz,Medium
+777,80,1,Programming,Video,Easy
+905,119,3,Science,Text,Easy
+645,177,5,Science,Video,Hard
+720,48,1,History,Quiz,Medium
+189,114,1,Programming,Live Session,Medium
+952,2,3,Programming,Quiz,Easy
+947,122,3,Programming,Video,Easy
+211,31,4,Literature,Quiz,Easy
+783,38,4,Math,Video,Medium
+843,128,4,History,Text,Hard
+503,108,2,Literature,Quiz,Easy
+269,79,1,Literature,Text,Easy
+661,195,2,History,Live Session,Hard
+994,160,5,Literature,Quiz,Easy
+424,155,2,Science,Live Session,Hard
+699,44,3,History,Video,Easy
+563,20,1,Math,Live Session,Hard
+134,57,4,Programming,Video,Hard
+213,97,2,Literature,Live Session,Hard
+146,71,2,History,Quiz,Hard
+381,97,2,Literature,Live Session,Hard
+167,50,4,Literature,Text,Hard
+170,23,4,Science,Live Session,Medium
+19,140,3,Programming,Text,Easy
+948,10,2,Literature,Quiz,Hard
+428,88,4,Math,Quiz,Medium
+197,152,4,Programming,Live Session,Hard
+898,121,5,Math,Quiz,Hard
+651,39,1,Math,Video,Hard
+126,88,5,Math,Quiz,Medium
+501,176,1,Programming,Text,Easy
+137,101,2,Programming,Quiz,Easy
+152,194,2,History,Quiz,Medium
+695,21,5,History,Text,Hard
+245,21,2,History,Text,Hard
+187,39,3,Math,Video,Hard
+329,98,5,Science,Live Session,Hard
+801,26,3,Literature,Live Session,Easy
+251,186,3,Programming,Text,Hard
+159,2,2,Programming,Quiz,Easy
+106,64,2,Science,Live Session,Hard
+967,189,2,Programming,Text,Easy
+236,69,2,Science,Video,Hard
+131,164,5,Science,Quiz,Easy
+353,24,4,Literature,Video,Hard
+760,99,4,Literature,Quiz,Medium
+478,86,5,Math,Video,Hard
+281,87,4,Literature,Live Session,Easy
+977,12,2,Programming,Text,Hard
+931,172,2,Programming,Quiz,Medium
+147,162,4,Programming,Live Session,Medium
+448,134,2,Math,Text,Hard
+163,55,3,History,Quiz,Hard
+392,193,1,Math,Live Session,Easy
+742,170,2,Math,Quiz,Medium
+72,21,3,History,Text,Hard
+395,64,2,Science,Live Session,Hard
+197,119,1,Science,Text,Easy
+477,23,3,Science,Live Session,Medium
+899,181,2,Science,Video,Medium
+93,198,5,Programming,Video,Hard
+254,123,2,Literature,Live Session,Medium
+118,27,5,Literature,Quiz,Easy
+897,131,5,Science,Quiz,Medium
+736,9,2,Math,Video,Hard
+549,26,4,Literature,Live Session,Easy
+621,94,2,Science,Video,Hard
+360,69,2,Science,Video,Hard
+508,85,5,Literature,Quiz,Medium
+958,26,1,Literature,Live Session,Easy
+544,161,4,History,Quiz,Easy
+555,105,2,Math,Quiz,Hard
+807,95,5,Math,Text,Medium
+480,18,3,History,Quiz,Medium
+230,158,4,History,Video,Medium
+66,107,3,Science,Quiz,Easy
+317,117,3,History,Live Session,Hard
+913,75,5,Programming,Quiz,Hard
+258,163,4,Science,Video,Hard
+104,196,5,Literature,Live Session,Easy
+5,15,1,Programming,Quiz,Easy
+647,124,4,Programming,Live Session,Medium
+901,191,1,Math,Quiz,Easy
+241,177,1,Science,Video,Hard
+219,37,2,Literature,Quiz,Hard
+877,39,5,Math,Video,Hard
+457,7,3,Math,Live Session,Easy
+916,149,3,Programming,Video,Hard
+91,170,3,Math,Quiz,Medium
+868,136,3,History,Video,Easy
+403,31,3,Literature,Quiz,Easy
+287,135,3,History,Text,Easy
+403,191,1,Math,Quiz,Easy
+943,85,2,Literature,Quiz,Medium
+708,156,4,Math,Live Session,Hard
+243,20,2,Math,Live Session,Hard
+753,127,4,Science,Live Session,Easy
+298,112,5,History,Live Session,Easy
+715,126,5,History,Video,Easy
+946,67,3,Literature,Quiz,Easy
+927,102,4,Programming,Quiz,Easy
+876,169,3,Literature,Live Session,Medium
+482,151,2,Math,Text,Easy
+499,108,3,Literature,Quiz,Easy
+469,21,1,History,Text,Hard
+604,31,4,Literature,Quiz,Easy
+331,43,5,Programming,Quiz,Medium
+6,102,4,Programming,Quiz,Easy
+72,102,3,Programming,Quiz,Easy
+418,70,4,Literature,Text,Medium
+900,119,1,Science,Text,Easy
+881,118,3,Math,Text,Medium
+572,187,3,Math,Quiz,Medium
+289,54,4,Science,Text,Medium
+917,124,1,Programming,Live Session,Medium
+156,35,5,Literature,Live Session,Easy
+514,86,2,Math,Video,Hard
+303,133,5,Science,Quiz,Hard
+983,95,5,Math,Text,Medium
+35,150,1,History,Live Session,Easy
+73,119,2,Science,Text,Easy
+773,175,5,Programming,Quiz,Easy
+344,116,3,Science,Quiz,Easy
+389,139,5,Literature,Quiz,Easy
+268,190,4,Programming,Video,Medium
+999,124,5,Programming,Live Session,Medium
+132,137,3,History,Quiz,Easy
+989,69,1,Science,Video,Hard
+312,4,4,Literature,Quiz,Easy
+410,150,2,History,Live Session,Easy
+997,115,5,Programming,Quiz,Easy
+342,77,1,History,Text,Medium
+831,138,4,Literature,Live Session,Easy
+794,189,2,Programming,Text,Easy
+160,158,3,History,Video,Medium
+71,65,3,Math,Text,Hard
+314,68,1,Programming,Quiz,Hard
+694,112,2,History,Live Session,Easy
+421,53,2,Programming,Live Session,Medium
+272,131,5,Science,Quiz,Medium
+256,200,3,Programming,Quiz,Easy
+934,194,5,History,Quiz,Medium
+65,30,2,Literature,Live Session,Hard
+626,93,4,Literature,Quiz,Easy
+569,159,3,History,Live Session,Hard
+460,57,3,Programming,Video,Hard
+389,124,2,Programming,Live Session,Medium
+765,164,3,Science,Quiz,Easy
+929,104,3,Programming,Live Session,Hard
+568,102,4,Programming,Quiz,Easy
+690,81,3,Literature,Video,Medium
+151,147,1,Programming,Video,Easy
+993,183,5,Math,Video,Easy
+177,157,4,History,Video,Hard
+338,196,4,Literature,Live Session,Easy
+941,98,1,Science,Live Session,Hard
+407,70,1,Literature,Text,Medium
+824,166,1,Science,Text,Easy
+457,38,3,Math,Video,Medium
+582,81,1,Literature,Video,Medium
+275,163,3,Science,Video,Hard
+101,66,1,Programming,Video,Easy
+883,195,5,History,Live Session,Hard
+854,171,2,Math,Live Session,Hard
+412,158,1,History,Video,Medium
+898,1,2,Math,Video,Medium
+776,76,1,Science,Live Session,Hard
+680,184,4,Programming,Live Session,Medium
+735,112,3,History,Live Session,Easy
+613,20,3,Math,Live Session,Hard
+191,149,4,Programming,Video,Hard
+649,182,3,Literature,Live Session,Medium
+909,170,3,Math,Quiz,Medium
+851,122,4,Programming,Video,Easy
+770,92,4,Programming,Text,Medium
+247,70,1,Literature,Text,Medium
+360,188,2,Science,Text,Medium
+132,37,2,Literature,Quiz,Hard
+983,71,1,History,Quiz,Hard
+977,131,5,Science,Quiz,Medium
+343,23,4,Science,Live Session,Medium
+841,63,3,Literature,Text,Hard
+855,80,2,Programming,Video,Easy
+340,135,2,History,Text,Easy
+231,86,4,Math,Video,Hard
+484,195,1,History,Live Session,Hard
+866,135,5,History,Text,Easy
+226,129,1,History,Live Session,Hard
+231,14,1,Literature,Video,Medium
+536,20,4,Math,Live Session,Hard
+764,150,4,History,Live Session,Easy
+681,82,1,Literature,Text,Easy
+747,175,3,Programming,Quiz,Easy
+180,49,5,Programming,Live Session,Medium
+917,35,3,Literature,Live Session,Easy
+236,59,4,Math,Quiz,Easy
+973,58,4,Programming,Text,Medium
+948,160,4,Literature,Quiz,Easy
+297,44,5,History,Video,Easy
+639,54,5,Science,Text,Medium
+62,167,5,Science,Live Session,Medium
+859,175,3,Programming,Quiz,Easy
+668,195,3,History,Live Session,Hard
+562,147,3,Programming,Video,Easy
+813,39,5,Math,Video,Hard
+884,177,4,Science,Video,Hard
+356,2,2,Programming,Quiz,Easy
+639,139,3,Literature,Quiz,Easy
+974,36,5,Science,Live Session,Hard
+621,32,4,Science,Video,Hard
+911,19,4,Math,Quiz,Hard
+485,189,2,Programming,Text,Easy
+984,153,2,Programming,Quiz,Medium
+142,194,4,History,Quiz,Medium
+656,156,3,Math,Live Session,Hard
+716,70,1,Literature,Text,Medium
+299,143,5,Science,Live Session,Easy
+286,66,2,Programming,Video,Easy
+707,130,4,Math,Text,Easy
+747,132,5,Literature,Live Session,Medium
+45,106,5,Science,Video,Easy
+856,125,2,Programming,Quiz,Hard
+385,130,5,Math,Text,Easy
+198,72,4,History,Text,Easy
+365,17,5,Math,Live Session,Easy
+193,93,1,Literature,Quiz,Easy
+799,139,1,Literature,Quiz,Easy
+719,122,3,Programming,Video,Easy
+423,93,3,Literature,Quiz,Easy
+251,175,1,Programming,Quiz,Easy
+807,88,2,Math,Quiz,Medium
+2,131,1,Science,Quiz,Medium
+419,178,5,Science,Text,Hard
+220,101,4,Programming,Quiz,Easy
+800,194,3,History,Quiz,Medium
+434,54,5,Science,Text,Medium
+829,144,2,History,Quiz,Easy
+484,66,1,Programming,Video,Easy
+63,145,5,Science,Text,Medium
+714,159,3,History,Live Session,Hard
+233,161,5,History,Quiz,Easy
+896,13,4,Science,Live Session,Easy
+618,103,2,Science,Video,Hard
+893,94,4,Science,Video,Hard
+576,21,3,History,Text,Hard
+666,27,5,Literature,Quiz,Easy
+926,175,5,Programming,Quiz,Easy
+895,47,2,Math,Video,Easy
+751,92,2,Programming,Text,Medium
+755,106,5,Science,Video,Easy
+622,102,2,Programming,Quiz,Easy
+308,86,3,Math,Video,Hard
+662,155,2,Science,Live Session,Hard
+337,187,1,Math,Quiz,Medium
+245,178,3,Science,Text,Hard
+496,24,2,Literature,Video,Hard
+913,41,2,Literature,Video,Medium
+641,184,1,Programming,Live Session,Medium
+194,57,5,Programming,Video,Hard
+818,165,2,Math,Text,Easy
+643,4,5,Literature,Quiz,Easy
+304,149,5,Programming,Video,Hard
+371,200,1,Programming,Quiz,Easy
+427,158,4,History,Video,Medium
+690,48,3,History,Quiz,Medium
+566,46,4,Literature,Text,Hard
+202,137,2,History,Quiz,Easy
+735,170,1,Math,Quiz,Medium
+697,148,2,History,Video,Easy
+104,162,1,Programming,Live Session,Medium
+12,66,4,Programming,Video,Easy
+952,142,3,Literature,Live Session,Easy
+560,108,4,Literature,Quiz,Easy
+771,124,2,Programming,Live Session,Medium
+6,171,1,Math,Live Session,Hard
+680,173,2,Literature,Text,Easy
+923,160,3,Literature,Quiz,Easy
+295,184,2,Programming,Live Session,Medium
+34,175,5,Programming,Quiz,Easy
+750,100,5,History,Video,Easy
+887,6,4,Literature,Video,Hard
+887,39,5,Math,Video,Hard
+92,85,4,Literature,Quiz,Medium
+710,110,5,History,Live Session,Easy
+903,54,1,Science,Text,Medium
+62,27,4,Literature,Quiz,Easy
+454,84,3,Literature,Quiz,Hard
+731,131,5,Science,Quiz,Medium
+416,154,4,Math,Quiz,Hard
+569,166,3,Science,Text,Easy
+405,57,4,Programming,Video,Hard
+583,144,2,History,Quiz,Easy
+403,156,1,Math,Live Session,Hard
+625,90,3,Science,Text,Medium
+794,113,5,Math,Live Session,Hard
+614,100,1,History,Video,Easy
+911,95,3,Math,Text,Medium
+344,103,2,Science,Video,Hard
+606,24,4,Literature,Video,Hard
+964,49,4,Programming,Live Session,Medium
+102,86,2,Math,Video,Hard
+213,185,4,History,Live Session,Easy
+972,165,5,Math,Text,Easy
+259,191,4,Math,Quiz,Easy
+403,150,4,History,Live Session,Easy
+885,51,4,History,Quiz,Medium
+288,28,1,Math,Live Session,Easy
+192,77,5,History,Text,Medium
+650,125,3,Programming,Quiz,Hard
+804,174,3,Math,Text,Easy
+266,130,4,Math,Text,Easy
+38,42,3,History,Live Session,Hard
+893,62,3,Literature,Text,Easy
+514,16,3,Literature,Video,Easy
+611,4,1,Literature,Quiz,Easy
+860,163,1,Science,Video,Hard
+993,194,3,History,Quiz,Medium
+875,58,2,Programming,Text,Medium
+193,150,3,History,Live Session,Easy
+87,1,5,Math,Video,Medium
+762,75,2,Programming,Quiz,Hard
+782,120,2,Math,Live Session,Easy
+912,183,3,Math,Video,Easy
+127,83,3,Programming,Quiz,Hard
+716,110,3,History,Live Session,Easy
+504,199,2,Math,Quiz,Hard
+619,117,3,History,Live Session,Hard
+333,115,3,Programming,Quiz,Easy
+712,84,4,Literature,Quiz,Hard
+188,68,2,Programming,Quiz,Hard
+804,72,4,History,Text,Easy
+507,146,3,History,Text,Medium
+496,87,1,Literature,Live Session,Easy
+387,111,3,Math,Quiz,Hard
+107,97,5,Literature,Live Session,Hard
+825,153,5,Programming,Quiz,Medium
+331,66,4,Programming,Video,Easy
+162,89,3,Literature,Video,Hard
+684,134,2,Math,Text,Hard
+467,35,4,Literature,Live Session,Easy
+717,97,5,Literature,Live Session,Hard
+632,48,2,History,Quiz,Medium
+798,20,2,Math,Live Session,Hard
+17,97,2,Literature,Live Session,Hard
+158,150,4,History,Live Session,Easy
+188,77,3,History,Text,Medium
+900,132,5,Literature,Live Session,Medium
+304,84,3,Literature,Quiz,Hard
+675,141,1,Math,Video,Easy
+563,174,2,Math,Text,Easy
+794,122,2,Programming,Video,Easy
+68,63,3,Literature,Text,Hard
+248,158,3,History,Video,Medium
+671,11,4,History,Text,Medium
+761,105,4,Math,Quiz,Hard
+562,160,1,Literature,Quiz,Easy
+616,192,5,Programming,Text,Hard
+868,153,5,Programming,Quiz,Medium
+966,16,4,Literature,Video,Easy
+291,55,5,History,Quiz,Hard
+824,191,2,Math,Quiz,Easy
+942,86,2,Math,Video,Hard
+60,97,2,Literature,Live Session,Hard
+219,191,2,Math,Quiz,Easy
+197,39,3,Math,Video,Hard
+863,51,1,History,Quiz,Medium
+295,184,2,Programming,Live Session,Medium
+306,69,4,Science,Video,Hard
+932,188,2,Science,Text,Medium
+784,130,1,Math,Text,Easy
+953,24,4,Literature,Video,Hard
+639,155,3,Science,Live Session,Hard
+850,159,3,History,Live Session,Hard
+776,125,1,Programming,Quiz,Hard
+373,34,4,Programming,Video,Easy
+215,113,1,Math,Live Session,Hard
+911,142,5,Literature,Live Session,Easy
+667,44,5,History,Video,Easy
+363,91,5,Literature,Quiz,Hard
+415,40,5,Math,Video,Easy
+382,130,2,Math,Text,Easy
+619,50,3,Literature,Text,Hard
+301,88,2,Math,Quiz,Medium
+865,124,3,Programming,Live Session,Medium
+794,66,2,Programming,Video,Easy
+721,144,1,History,Quiz,Easy
+353,36,1,Science,Live Session,Hard
+314,150,4,History,Live Session,Easy
+331,191,5,Math,Quiz,Easy
+998,166,3,Science,Text,Easy
+761,128,4,History,Text,Hard
+493,198,3,Programming,Video,Hard
+448,89,4,Literature,Video,Hard
+333,118,4,Math,Text,Medium
+186,60,4,Programming,Video,Medium
+507,83,3,Programming,Quiz,Hard
+585,34,5,Programming,Video,Easy
+591,24,1,Literature,Video,Hard
+809,1,3,Math,Video,Medium
+146,139,2,Literature,Quiz,Easy
+169,151,4,Math,Text,Easy
+990,34,5,Programming,Video,Easy
+920,167,2,Science,Live Session,Medium
+883,65,3,Math,Text,Hard
+203,63,5,Literature,Text,Hard
+368,131,4,Science,Quiz,Medium
+808,58,4,Programming,Text,Medium
+421,172,4,Programming,Quiz,Medium
+620,24,1,Literature,Video,Hard
+652,116,2,Science,Quiz,Easy
+523,80,5,Programming,Video,Easy
+459,80,1,Programming,Video,Easy
+412,137,4,History,Quiz,Easy
+740,65,4,Math,Text,Hard
+104,75,5,Programming,Quiz,Hard
+365,45,5,Literature,Quiz,Medium
+688,129,3,History,Live Session,Hard
+338,56,3,Literature,Text,Hard
+393,20,1,Math,Live Session,Hard
+623,13,3,Science,Live Session,Easy
+99,173,5,Literature,Text,Easy
+28,86,5,Math,Video,Hard
+309,33,1,History,Text,Easy
+824,17,4,Math,Live Session,Easy
+966,189,1,Programming,Text,Easy
+830,151,4,Math,Text,Easy
+723,160,2,Literature,Quiz,Easy
+146,9,4,Math,Video,Hard
+2,87,3,Literature,Live Session,Easy
+910,48,4,History,Quiz,Medium
+2,182,4,Literature,Live Session,Medium
+408,64,4,Science,Live Session,Hard
+156,11,1,History,Text,Medium
+992,190,3,Programming,Video,Medium
+268,15,4,Programming,Quiz,Easy
+1000,181,4,Science,Video,Medium
+334,92,1,Programming,Text,Medium
+765,10,4,Literature,Quiz,Hard
+878,114,3,Programming,Live Session,Medium
+465,10,5,Literature,Quiz,Hard
+568,135,4,History,Text,Easy
+263,184,3,Programming,Live Session,Medium
+113,149,5,Programming,Video,Hard
+261,56,5,Literature,Text,Hard
+184,42,5,History,Live Session,Hard
+535,27,3,Literature,Quiz,Easy
+861,17,2,Math,Live Session,Easy
+668,68,3,Programming,Quiz,Hard
+7,114,3,Programming,Live Session,Medium
+254,83,5,Programming,Quiz,Hard
+256,146,5,History,Text,Medium
+892,159,3,History,Live Session,Hard
+506,170,3,Math,Quiz,Medium
+41,93,4,Literature,Quiz,Easy
+423,138,5,Literature,Live Session,Easy
+936,13,3,Science,Live Session,Easy
+355,119,2,Science,Text,Easy
+500,96,4,History,Text,Medium
+618,5,5,Programming,Live Session,Hard
+51,175,3,Programming,Quiz,Easy
+628,161,2,History,Quiz,Easy
+543,151,5,Math,Text,Easy
+882,138,2,Literature,Live Session,Easy
+537,45,1,Literature,Quiz,Medium
+446,71,5,History,Quiz,Hard
+525,8,1,History,Live Session,Medium
+282,43,1,Programming,Quiz,Medium
+293,177,3,Science,Video,Hard
+916,28,2,Math,Live Session,Easy
+300,98,3,Science,Live Session,Hard
+979,62,5,Literature,Text,Easy
+82,73,1,Programming,Text,Hard
+55,86,3,Math,Video,Hard
+730,115,5,Programming,Quiz,Easy
+708,39,5,Math,Video,Hard
+675,77,3,History,Text,Medium
+611,185,2,History,Live Session,Easy
+377,15,3,Programming,Quiz,Easy
+636,82,2,Literature,Text,Easy
+28,151,3,Math,Text,Easy
+252,100,2,History,Video,Easy
+425,20,4,Math,Live Session,Hard
+504,103,4,Science,Video,Hard
+821,184,1,Programming,Live Session,Medium
+75,51,1,History,Quiz,Medium
+483,65,3,Math,Text,Hard
+42,41,5,Literature,Video,Medium
+625,77,1,History,Text,Medium
+985,49,5,Programming,Live Session,Medium
+150,73,1,Programming,Text,Hard
+566,20,4,Math,Live Session,Hard
+496,179,1,Science,Live Session,Medium
+819,159,5,History,Live Session,Hard
+631,117,5,History,Live Session,Hard
+643,94,1,Science,Video,Hard
+525,39,4,Math,Video,Hard
+725,196,2,Literature,Live Session,Easy
+805,84,5,Literature,Quiz,Hard
+793,51,4,History,Quiz,Medium
+278,105,4,Math,Quiz,Hard
+70,90,1,Science,Text,Medium
+741,10,5,Literature,Quiz,Hard
+503,91,3,Literature,Quiz,Hard
+554,121,1,Math,Quiz,Hard
+451,153,2,Programming,Quiz,Medium
+267,145,2,Science,Text,Medium
+509,120,4,Math,Live Session,Easy
+764,13,3,Science,Live Session,Easy
+470,174,2,Math,Text,Easy
+353,113,4,Math,Live Session,Hard
+171,92,5,Programming,Text,Medium
+883,60,1,Programming,Video,Medium
+962,143,5,Science,Live Session,Easy
+890,198,3,Programming,Video,Hard
+248,96,1,History,Text,Medium
+233,124,2,Programming,Live Session,Medium
+459,148,1,History,Video,Easy
+566,158,3,History,Video,Medium
+753,40,5,Math,Video,Easy
+817,126,1,History,Video,Easy
+274,12,2,Programming,Text,Hard
+717,180,3,Math,Quiz,Easy
+376,157,1,History,Video,Hard
+837,122,3,Programming,Video,Easy
+420,18,2,History,Quiz,Medium
+934,188,4,Science,Text,Medium
+222,41,4,Literature,Video,Medium
+959,96,4,History,Text,Medium
+981,170,4,Math,Quiz,Medium
+899,150,3,History,Live Session,Easy
+247,85,5,Literature,Quiz,Medium
+631,32,3,Science,Video,Hard
+423,123,3,Literature,Live Session,Medium
+431,118,4,Math,Text,Medium
+935,118,2,Math,Text,Medium
+930,105,2,Math,Quiz,Hard
+494,34,4,Programming,Video,Easy
+136,189,2,Programming,Text,Easy
+907,35,4,Literature,Live Session,Easy
+880,120,3,Math,Live Session,Easy
+442,62,1,Literature,Text,Easy
+515,178,2,Science,Text,Hard
+717,178,1,Science,Text,Hard
+941,130,4,Math,Text,Easy
+940,176,2,Programming,Text,Easy
+937,120,4,Math,Live Session,Easy
+515,106,2,Science,Video,Easy
+839,179,4,Science,Live Session,Medium
+48,6,2,Literature,Video,Hard
+32,44,3,History,Video,Easy
+921,159,4,History,Live Session,Hard
+145,112,3,History,Live Session,Easy
+840,194,5,History,Quiz,Medium
+687,48,5,History,Quiz,Medium
+860,188,5,Science,Text,Medium
+385,71,5,History,Quiz,Hard
+759,65,1,Math,Text,Hard
+237,130,1,Math,Text,Easy
+796,187,3,Math,Quiz,Medium
+228,95,5,Math,Text,Medium
+89,113,1,Math,Live Session,Hard
+588,11,3,History,Text,Medium
+538,41,1,Literature,Video,Medium
+465,102,5,Programming,Quiz,Easy
+861,150,5,History,Live Session,Easy
+771,189,1,Programming,Text,Easy
+862,175,2,Programming,Quiz,Easy
+169,55,4,History,Quiz,Hard
+224,197,2,Literature,Text,Medium
+484,106,1,Science,Video,Easy
+429,42,2,History,Live Session,Hard
+222,20,2,Math,Live Session,Hard
+158,100,2,History,Video,Easy
+937,78,2,Literature,Live Session,Hard
+131,174,1,Math,Text,Easy
+824,100,3,History,Video,Easy
+504,103,4,Science,Video,Hard
+535,185,5,History,Live Session,Easy
+387,24,3,Literature,Video,Hard
+934,62,2,Literature,Text,Easy
+966,105,3,Math,Quiz,Hard
+539,67,3,Literature,Quiz,Easy
+825,70,4,Literature,Text,Medium
+499,87,4,Literature,Live Session,Easy
+104,111,1,Math,Quiz,Hard
+774,82,4,Literature,Text,Easy
+335,158,2,History,Video,Medium
+50,33,5,History,Text,Easy
+803,47,2,Math,Video,Easy
+392,143,4,Science,Live Session,Easy
+762,37,5,Literature,Quiz,Hard
+926,35,1,Literature,Live Session,Easy
+941,30,1,Literature,Live Session,Hard
+388,165,1,Math,Text,Easy
+841,148,5,History,Video,Easy
+84,149,5,Programming,Video,Hard
+366,149,3,Programming,Video,Hard
+96,174,4,Math,Text,Easy
+653,24,3,Literature,Video,Hard
+793,11,5,History,Text,Medium
+401,64,3,Science,Live Session,Hard
+233,126,1,History,Video,Easy
+266,134,4,Math,Text,Hard
+344,121,1,Math,Quiz,Hard
+219,26,4,Literature,Live Session,Easy
+368,187,3,Math,Quiz,Medium
+657,134,4,Math,Text,Hard
+911,148,5,History,Video,Easy
+202,2,5,Programming,Quiz,Easy
+657,114,5,Programming,Live Session,Medium
+214,13,5,Science,Live Session,Easy
+226,199,1,Math,Quiz,Hard
+150,159,1,History,Live Session,Hard
+143,171,4,Math,Live Session,Hard
+5,156,3,Math,Live Session,Hard
+782,44,3,History,Video,Easy
+101,124,4,Programming,Live Session,Medium
+760,147,4,Programming,Video,Easy
+869,162,4,Programming,Live Session,Medium
+611,3,5,Math,Quiz,Easy
+317,175,4,Programming,Quiz,Easy
+750,64,3,Science,Live Session,Hard
+67,114,4,Programming,Live Session,Medium
+79,172,3,Programming,Quiz,Medium
+713,159,5,History,Live Session,Hard
+260,148,3,History,Video,Easy
+32,8,2,History,Live Session,Medium
+571,171,5,Math,Live Session,Hard
+493,48,5,History,Quiz,Medium
+926,109,1,Math,Video,Hard
+475,191,5,Math,Quiz,Easy
+548,150,4,History,Live Session,Easy
+716,66,2,Programming,Video,Easy
+646,109,3,Math,Video,Hard
+564,159,4,History,Live Session,Hard
+973,194,2,History,Quiz,Medium
+524,104,4,Programming,Live Session,Hard
+410,39,5,Math,Video,Hard
+50,38,3,Math,Video,Medium
+486,156,3,Math,Live Session,Hard
+207,109,2,Math,Video,Hard
+459,27,3,Literature,Quiz,Easy
+509,127,3,Science,Live Session,Easy
+439,168,2,Programming,Video,Easy
+470,155,1,Science,Live Session,Hard
+857,19,1,Math,Quiz,Hard
+717,181,1,Science,Video,Medium
+571,172,4,Programming,Quiz,Medium
+365,179,3,Science,Live Session,Medium
+528,2,3,Programming,Quiz,Easy
+463,65,5,Math,Text,Hard
+745,195,3,History,Live Session,Hard
+613,169,2,Literature,Live Session,Medium
+751,102,5,Programming,Quiz,Easy
+190,11,2,History,Text,Medium
+809,98,5,Science,Live Session,Hard
+103,143,2,Science,Live Session,Easy
+440,162,4,Programming,Live Session,Medium
+346,7,1,Math,Live Session,Easy
+373,160,2,Literature,Quiz,Easy
+186,80,3,Programming,Video,Easy
+471,8,4,History,Live Session,Medium
+148,115,1,Programming,Quiz,Easy
+195,104,2,Programming,Live Session,Hard
+649,157,1,History,Video,Hard
+661,140,3,Programming,Text,Easy
+6,108,2,Literature,Quiz,Easy
+868,79,1,Literature,Text,Easy
+151,190,4,Programming,Video,Medium
+39,92,2,Programming,Text,Medium
+536,30,2,Literature,Live Session,Hard
+461,54,4,Science,Text,Medium
+249,89,3,Literature,Video,Hard
+969,178,5,Science,Text,Hard
+494,185,5,History,Live Session,Easy
+905,96,2,History,Text,Medium
+816,100,1,History,Video,Easy
+792,10,1,Literature,Quiz,Hard
+560,158,1,History,Video,Medium
+479,145,5,Science,Text,Medium
+704,116,3,Science,Quiz,Easy
+184,25,2,Science,Quiz,Medium
+84,64,1,Science,Live Session,Hard
+506,18,5,History,Quiz,Medium
+556,71,3,History,Quiz,Hard
+817,68,4,Programming,Quiz,Hard
+162,81,2,Literature,Video,Medium
+762,192,5,Programming,Text,Hard
+545,164,4,Science,Quiz,Easy
+543,183,5,Math,Video,Easy
+778,196,1,Literature,Live Session,Easy
+383,66,5,Programming,Video,Easy
+443,59,5,Math,Quiz,Easy
+870,37,1,Literature,Quiz,Hard
+875,54,4,Science,Text,Medium
+228,138,1,Literature,Live Session,Easy
+321,156,2,Math,Live Session,Hard
+658,188,2,Science,Text,Medium
+655,112,1,History,Live Session,Easy
+818,34,5,Programming,Video,Easy
+303,60,5,Programming,Video,Medium
+918,171,4,Math,Live Session,Hard
+591,26,4,Literature,Live Session,Easy
+694,55,3,History,Quiz,Hard
+588,25,5,Science,Quiz,Medium
+584,63,1,Literature,Text,Hard
+959,121,5,Math,Quiz,Hard
+173,21,5,History,Text,Hard
+585,13,5,Science,Live Session,Easy
+489,17,1,Math,Live Session,Easy
+663,64,2,Science,Live Session,Hard
+640,83,5,Programming,Quiz,Hard
+83,27,2,Literature,Quiz,Easy
+74,109,4,Math,Video,Hard
+705,180,1,Math,Quiz,Easy
+901,106,2,Science,Video,Easy
+464,13,3,Science,Live Session,Easy
+30,134,1,Math,Text,Hard
+239,49,3,Programming,Live Session,Medium
+210,127,4,Science,Live Session,Easy
+472,61,1,Math,Quiz,Hard
+464,9,3,Math,Video,Hard
+69,46,1,Literature,Text,Hard
+118,82,2,Literature,Text,Easy
+879,112,1,History,Live Session,Easy
+492,29,3,Science,Video,Easy
+316,154,2,Math,Quiz,Hard
+414,11,5,History,Text,Medium
+868,173,1,Literature,Text,Easy
+69,1,3,Math,Video,Medium
+305,29,4,Science,Video,Easy
+718,148,3,History,Video,Easy
+468,73,2,Programming,Text,Hard
+895,26,4,Literature,Live Session,Easy
+984,111,1,Math,Quiz,Hard
+484,6,1,Literature,Video,Hard
+762,82,1,Literature,Text,Easy
+733,34,4,Programming,Video,Easy
+938,59,1,Math,Quiz,Easy
+653,182,4,Literature,Live Session,Medium
+407,135,3,History,Text,Easy
+68,141,4,Math,Video,Easy
+752,188,2,Science,Text,Medium
+193,197,3,Literature,Text,Medium
+285,96,3,History,Text,Medium
+338,63,2,Literature,Text,Hard
+437,12,3,Programming,Text,Hard
+306,20,5,Math,Live Session,Hard
+46,37,2,Literature,Quiz,Hard
+920,181,1,Science,Video,Medium
+562,129,3,History,Live Session,Hard
+458,45,4,Literature,Quiz,Medium
+870,71,4,History,Quiz,Hard
+931,41,2,Literature,Video,Medium
+849,164,1,Science,Quiz,Easy
+910,96,2,History,Text,Medium
+853,193,4,Math,Live Session,Easy
+937,2,4,Programming,Quiz,Easy
+729,136,5,History,Video,Easy
+440,132,2,Literature,Live Session,Medium
+469,185,4,History,Live Session,Easy
+545,83,4,Programming,Quiz,Hard
+85,165,2,Math,Text,Easy
+156,20,3,Math,Live Session,Hard
+249,97,1,Literature,Live Session,Hard
+328,24,2,Literature,Video,Hard
+214,76,3,Science,Live Session,Hard
+365,31,1,Literature,Quiz,Easy
+829,167,1,Science,Live Session,Medium
+199,104,2,Programming,Live Session,Hard
+828,9,5,Math,Video,Hard
+791,19,2,Math,Quiz,Hard
+179,88,3,Math,Quiz,Medium
+145,180,4,Math,Quiz,Easy
+77,65,5,Math,Text,Hard
+56,138,3,Literature,Live Session,Easy
+652,99,4,Literature,Quiz,Medium
+874,24,5,Literature,Video,Hard
+936,75,2,Programming,Quiz,Hard
+788,92,3,Programming,Text,Medium
+189,178,2,Science,Text,Hard
+558,91,2,Literature,Quiz,Hard
+256,38,2,Math,Video,Medium
+45,52,1,Science,Live Session,Medium
+612,58,4,Programming,Text,Medium
+177,164,2,Science,Quiz,Easy
+466,143,2,Science,Live Session,Easy
+521,151,2,Math,Text,Easy
+48,194,3,History,Quiz,Medium
+399,45,1,Literature,Quiz,Medium
+763,113,2,Math,Live Session,Hard
+90,80,4,Programming,Video,Easy
+491,143,1,Science,Live Session,Easy
+522,142,4,Literature,Live Session,Easy
+90,65,5,Math,Text,Hard
+934,2,4,Programming,Quiz,Easy
+722,153,3,Programming,Quiz,Medium
+196,16,2,Literature,Video,Easy
+937,43,5,Programming,Quiz,Medium
+58,126,3,History,Video,Easy
+822,162,5,Programming,Live Session,Medium
+944,122,1,Programming,Video,Easy
+985,118,1,Math,Text,Medium
+219,122,5,Programming,Video,Easy
+897,102,5,Programming,Quiz,Easy
+933,33,1,History,Text,Easy
+427,138,5,Literature,Live Session,Easy
+337,115,2,Programming,Quiz,Easy
+239,58,5,Programming,Text,Medium
+499,26,1,Literature,Live Session,Easy
+390,52,5,Science,Live Session,Medium
+176,145,4,Science,Text,Medium
+631,75,3,Programming,Quiz,Hard
+24,180,3,Math,Quiz,Easy
+142,164,2,Science,Quiz,Easy
+981,60,5,Programming,Video,Medium
+717,57,1,Programming,Video,Hard
+991,199,1,Math,Quiz,Hard
+921,141,4,Math,Video,Easy
+350,185,1,History,Live Session,Easy
+190,43,5,Programming,Quiz,Medium
+626,134,2,Math,Text,Hard
+771,92,5,Programming,Text,Medium
+890,83,3,Programming,Quiz,Hard
+411,3,4,Math,Quiz,Easy
+431,113,2,Math,Live Session,Hard
+28,25,2,Science,Quiz,Medium
+823,133,4,Science,Quiz,Hard
+942,139,2,Literature,Quiz,Easy
+185,19,5,Math,Quiz,Hard
+250,142,4,Literature,Live Session,Easy
+620,50,4,Literature,Text,Hard
+803,106,3,Science,Video,Easy
+376,127,3,Science,Live Session,Easy
+682,80,1,Programming,Video,Easy
+895,91,5,Literature,Quiz,Hard
+290,94,1,Science,Video,Hard
+297,163,5,Science,Video,Hard
+351,113,5,Math,Live Session,Hard
+728,69,5,Science,Video,Hard
+188,194,1,History,Quiz,Medium
+178,152,3,Programming,Live Session,Hard
+794,82,2,Literature,Text,Easy
+304,57,4,Programming,Video,Hard
+439,19,2,Math,Quiz,Hard
+711,109,1,Math,Video,Hard
+466,57,4,Programming,Video,Hard
+22,45,3,Literature,Quiz,Medium
+721,50,5,Literature,Text,Hard
+845,119,1,Science,Text,Easy
+680,32,1,Science,Video,Hard
+620,15,5,Programming,Quiz,Easy
+494,172,2,Programming,Quiz,Medium
+516,199,2,Math,Quiz,Hard
+945,108,2,Literature,Quiz,Easy
+952,39,2,Math,Video,Hard
+513,152,2,Programming,Live Session,Hard
+79,29,5,Science,Video,Easy
+569,122,1,Programming,Video,Easy
+505,36,4,Science,Live Session,Hard
+122,40,2,Math,Video,Easy
+534,92,1,Programming,Text,Medium
+667,160,2,Literature,Quiz,Easy
+595,130,4,Math,Text,Easy
+320,82,5,Literature,Text,Easy
+836,92,4,Programming,Text,Medium
+384,13,2,Science,Live Session,Easy
+831,138,5,Literature,Live Session,Easy
+615,196,3,Literature,Live Session,Easy
+188,128,2,History,Text,Hard
+238,51,3,History,Quiz,Medium
+512,91,5,Literature,Quiz,Hard
+816,119,2,Science,Text,Easy
+915,58,4,Programming,Text,Medium
+299,80,3,Programming,Video,Easy
+913,159,1,History,Live Session,Hard
+609,118,2,Math,Text,Medium
+929,71,4,History,Quiz,Hard
+542,1,3,Math,Video,Medium
+314,114,1,Programming,Live Session,Medium
+710,199,4,Math,Quiz,Hard
+415,150,5,History,Live Session,Easy
+646,57,1,Programming,Video,Hard
+883,94,1,Science,Video,Hard
+589,88,4,Math,Quiz,Medium
+423,82,1,Literature,Text,Easy
+460,138,5,Literature,Live Session,Easy
+843,193,3,Math,Live Session,Easy
+356,20,2,Math,Live Session,Hard
+252,26,3,Literature,Live Session,Easy
+195,33,3,History,Text,Easy
+871,118,1,Math,Text,Medium
+189,112,1,History,Live Session,Easy
+688,53,5,Programming,Live Session,Medium
+510,119,1,Science,Text,Easy
+984,118,2,Math,Text,Medium
+713,139,3,Literature,Quiz,Easy
+879,29,2,Science,Video,Easy
+941,72,4,History,Text,Easy
+156,55,5,History,Quiz,Hard
+954,145,2,Science,Text,Medium
+715,185,5,History,Live Session,Easy
+285,26,4,Literature,Live Session,Easy
+34,46,2,Literature,Text,Hard
+353,106,2,Science,Video,Easy
+809,5,4,Programming,Live Session,Hard
+512,86,2,Math,Video,Hard
+617,82,5,Literature,Text,Easy
+981,140,4,Programming,Text,Easy
+789,5,5,Programming,Live Session,Hard
+724,53,4,Programming,Live Session,Medium
+149,42,4,History,Live Session,Hard
+661,132,4,Literature,Live Session,Medium
+833,144,1,History,Quiz,Easy
+822,80,5,Programming,Video,Easy
+717,96,3,History,Text,Medium
+993,165,3,Math,Text,Easy
+400,63,1,Literature,Text,Hard
+831,5,5,Programming,Live Session,Hard
+985,106,2,Science,Video,Easy
+865,155,4,Science,Live Session,Hard
+841,93,3,Literature,Quiz,Easy
+428,193,2,Math,Live Session,Easy
+975,171,5,Math,Live Session,Hard
+843,174,2,Math,Text,Easy
+184,135,4,History,Text,Easy
+868,155,1,Science,Live Session,Hard
+519,97,5,Literature,Live Session,Hard
+185,172,3,Programming,Quiz,Medium
+856,45,3,Literature,Quiz,Medium
+504,131,3,Science,Quiz,Medium
+498,174,3,Math,Text,Easy
+511,59,3,Math,Quiz,Easy
+904,47,4,Math,Video,Easy
+188,109,4,Math,Video,Hard
+840,106,4,Science,Video,Easy
+817,121,3,Math,Quiz,Hard
+72,43,2,Programming,Quiz,Medium
+139,175,1,Programming,Quiz,Easy
+332,54,5,Science,Text,Medium
+243,11,3,History,Text,Medium
+241,25,2,Science,Quiz,Medium
+289,179,2,Science,Live Session,Medium
+623,161,1,History,Quiz,Easy
+363,144,1,History,Quiz,Easy
+294,58,2,Programming,Text,Medium
+991,5,5,Programming,Live Session,Hard
+125,149,2,Programming,Video,Hard
+87,150,1,History,Live Session,Easy
+441,157,4,History,Video,Hard
+37,130,3,Math,Text,Easy
+189,24,2,Literature,Video,Hard
+355,130,3,Math,Text,Easy
+94,121,4,Math,Quiz,Hard
+86,177,2,Science,Video,Hard
+914,32,3,Science,Video,Hard
+377,75,4,Programming,Quiz,Hard
+819,190,3,Programming,Video,Medium
+199,136,2,History,Video,Easy
+600,191,4,Math,Quiz,Easy
+598,125,5,Programming,Quiz,Hard
+372,46,5,Literature,Text,Hard
+726,82,1,Literature,Text,Easy
+737,51,2,History,Quiz,Medium
+539,51,5,History,Quiz,Medium
+330,159,1,History,Live Session,Hard
+533,53,2,Programming,Live Session,Medium
+908,68,2,Programming,Quiz,Hard
+263,95,2,Math,Text,Medium
+252,49,1,Programming,Live Session,Medium
+12,115,1,Programming,Quiz,Easy
+473,42,2,History,Live Session,Hard
+730,200,5,Programming,Quiz,Easy
+370,120,3,Math,Live Session,Easy
+891,157,2,History,Video,Hard
+189,39,3,Math,Video,Hard
+246,19,5,Math,Quiz,Hard
+522,53,1,Programming,Live Session,Medium
+417,1,5,Math,Video,Medium
+985,182,3,Literature,Live Session,Medium
+902,145,4,Science,Text,Medium
+594,163,4,Science,Video,Hard
+458,100,3,History,Video,Easy
+48,23,3,Science,Live Session,Medium
+395,150,4,History,Live Session,Easy
+92,138,3,Literature,Live Session,Easy
+953,185,4,History,Live Session,Easy
+929,144,4,History,Quiz,Easy
+384,36,2,Science,Live Session,Hard
+794,60,3,Programming,Video,Medium
+275,43,1,Programming,Quiz,Medium
+174,47,2,Math,Video,Easy
+227,86,1,Math,Video,Hard
+893,155,5,Science,Live Session,Hard
+165,145,5,Science,Text,Medium
+889,163,2,Science,Video,Hard
+718,98,1,Science,Live Session,Hard
+321,153,5,Programming,Quiz,Medium
+402,128,3,History,Text,Hard
+123,200,1,Programming,Quiz,Easy
+404,37,4,Literature,Quiz,Hard
+117,194,3,History,Quiz,Medium
+278,61,5,Math,Quiz,Hard
+441,165,5,Math,Text,Easy
+93,69,5,Science,Video,Hard
+289,135,5,History,Text,Easy
+227,146,3,History,Text,Medium
+700,122,4,Programming,Video,Easy
+771,129,5,History,Live Session,Hard
+434,95,2,Math,Text,Medium
+197,37,3,Literature,Quiz,Hard
+435,53,1,Programming,Live Session,Medium
+298,108,4,Literature,Quiz,Easy
+673,117,4,History,Live Session,Hard
+852,20,1,Math,Live Session,Hard
+404,182,4,Literature,Live Session,Medium
+827,18,5,History,Quiz,Medium
+50,103,5,Science,Video,Hard
+867,178,1,Science,Text,Hard
+892,177,3,Science,Video,Hard
+914,193,5,Math,Live Session,Easy
+612,178,2,Science,Text,Hard
+56,78,3,Literature,Live Session,Hard
+642,142,2,Literature,Live Session,Easy
+991,122,5,Programming,Video,Easy
+695,38,1,Math,Video,Medium
+29,7,2,Math,Live Session,Easy
+303,105,2,Math,Quiz,Hard
+981,104,1,Programming,Live Session,Hard
+43,132,4,Literature,Live Session,Medium
+915,156,2,Math,Live Session,Hard
+535,165,1,Math,Text,Easy
+854,106,1,Science,Video,Easy
+899,63,4,Literature,Text,Hard
+966,18,2,History,Quiz,Medium
+612,163,4,Science,Video,Hard
+397,131,5,Science,Quiz,Medium
+565,25,2,Science,Quiz,Medium
+221,62,4,Literature,Text,Easy
+378,101,4,Programming,Quiz,Easy
+121,182,4,Literature,Live Session,Medium
+675,77,2,History,Text,Medium
+424,44,5,History,Video,Easy
+471,51,3,History,Quiz,Medium
+55,36,4,Science,Live Session,Hard
+391,126,3,History,Video,Easy
+239,47,4,Math,Video,Easy
+737,65,4,Math,Text,Hard
+544,14,3,Literature,Video,Medium
+950,52,5,Science,Live Session,Medium
+527,51,3,History,Quiz,Medium
+231,181,2,Science,Video,Medium
+885,145,1,Science,Text,Medium
+269,170,3,Math,Quiz,Medium
+685,162,1,Programming,Live Session,Medium
+137,110,5,History,Live Session,Easy
+581,158,3,History,Video,Medium
+281,19,4,Math,Quiz,Hard
+819,195,5,History,Live Session,Hard
+22,42,3,History,Live Session,Hard
+91,84,3,Literature,Quiz,Hard
+881,186,1,Programming,Text,Hard
+285,141,4,Math,Video,Easy
+993,14,5,Literature,Video,Medium
+603,97,5,Literature,Live Session,Hard
+395,113,3,Math,Live Session,Hard
+173,21,4,History,Text,Hard
+640,115,3,Programming,Quiz,Easy
+782,9,5,Math,Video,Hard
+393,126,1,History,Video,Easy
+172,131,5,Science,Quiz,Medium
+119,164,1,Science,Quiz,Easy
+677,144,4,History,Quiz,Easy
+50,19,5,Math,Quiz,Hard
+455,130,5,Math,Text,Easy
+96,3,1,Math,Quiz,Easy
+470,57,3,Programming,Video,Hard
+542,184,3,Programming,Live Session,Medium
+347,9,3,Math,Video,Hard
+27,136,5,History,Video,Easy
+924,169,4,Literature,Live Session,Medium
+696,184,5,Programming,Live Session,Medium
+890,176,2,Programming,Text,Easy
+399,163,1,Science,Video,Hard
+365,53,2,Programming,Live Session,Medium
+882,63,2,Literature,Text,Hard
+349,159,1,History,Live Session,Hard
+954,91,4,Literature,Quiz,Hard
+255,144,4,History,Quiz,Easy
+711,61,2,Math,Quiz,Hard
+611,22,2,Literature,Live Session,Hard
+778,192,5,Programming,Text,Hard
+660,44,1,History,Video,Easy
+257,105,4,Math,Quiz,Hard
+56,120,5,Math,Live Session,Easy
+935,80,4,Programming,Video,Easy
+402,47,3,Math,Video,Easy
+618,170,2,Math,Quiz,Medium
+779,197,3,Literature,Text,Medium
+841,191,3,Math,Quiz,Easy
+574,158,5,History,Video,Medium
+56,135,3,History,Text,Easy
+380,176,1,Programming,Text,Easy
+917,146,2,History,Text,Medium
+279,96,3,History,Text,Medium
+776,68,3,Programming,Quiz,Hard
+404,17,4,Math,Live Session,Easy
+317,60,3,Programming,Video,Medium
+316,136,5,History,Video,Easy
+342,180,2,Math,Quiz,Easy
+951,153,1,Programming,Quiz,Medium
+224,175,2,Programming,Quiz,Easy
+474,172,4,Programming,Quiz,Medium
+770,132,4,Literature,Live Session,Medium
+898,199,2,Math,Quiz,Hard
+796,135,4,History,Text,Easy
+915,51,1,History,Quiz,Medium
+349,103,1,Science,Video,Hard
+554,89,4,Literature,Video,Hard
+345,170,4,Math,Quiz,Medium
+338,32,5,Science,Video,Hard
+435,199,1,Math,Quiz,Hard
+445,155,3,Science,Live Session,Hard
+415,113,3,Math,Live Session,Hard
+451,197,2,Literature,Text,Medium
+19,150,3,History,Live Session,Easy
+696,173,2,Literature,Text,Easy
+857,136,4,History,Video,Easy
+489,111,3,Math,Quiz,Hard
+43,168,5,Programming,Video,Easy
+308,61,1,Math,Quiz,Hard
+710,7,4,Math,Live Session,Easy
+853,66,5,Programming,Video,Easy
+844,66,1,Programming,Video,Easy
+79,30,2,Literature,Live Session,Hard
+250,130,5,Math,Text,Easy
+169,94,5,Science,Video,Hard
+249,2,4,Programming,Quiz,Easy
+998,196,5,Literature,Live Session,Easy
+8,196,5,Literature,Live Session,Easy
+163,15,2,Programming,Quiz,Easy
+224,131,5,Science,Quiz,Medium
+833,3,4,Math,Quiz,Easy
+359,15,3,Programming,Quiz,Easy
+851,183,5,Math,Video,Easy
+251,32,2,Science,Video,Hard
+206,78,3,Literature,Live Session,Hard
+667,128,4,History,Text,Hard
+609,34,4,Programming,Video,Easy
+554,92,5,Programming,Text,Medium
+501,42,3,History,Live Session,Hard
+321,35,2,Literature,Live Session,Easy
+55,153,3,Programming,Quiz,Medium
+835,166,5,Science,Text,Easy
+318,51,5,History,Quiz,Medium
+388,75,4,Programming,Quiz,Hard
+300,43,2,Programming,Quiz,Medium
+797,41,1,Literature,Video,Medium
+9,109,1,Math,Video,Hard
+582,53,2,Programming,Live Session,Medium
+105,14,2,Literature,Video,Medium
+430,186,2,Programming,Text,Hard
+509,92,2,Programming,Text,Medium
+508,187,2,Math,Quiz,Medium
+891,104,3,Programming,Live Session,Hard
+243,47,2,Math,Video,Easy
+611,27,2,Literature,Quiz,Easy
+399,66,1,Programming,Video,Easy
+107,154,3,Math,Quiz,Hard
+17,16,2,Literature,Video,Easy
+758,98,5,Science,Live Session,Hard
+736,138,1,Literature,Live Session,Easy
+441,48,1,History,Quiz,Medium
+915,200,3,Programming,Quiz,Easy
+580,160,2,Literature,Quiz,Easy
+483,7,1,Math,Live Session,Easy
+938,163,1,Science,Video,Hard
+4,182,5,Literature,Live Session,Medium
+576,25,5,Science,Quiz,Medium
+416,154,1,Math,Quiz,Hard
+781,192,3,Programming,Text,Hard
+607,122,1,Programming,Video,Easy
+377,38,4,Math,Video,Medium
+89,125,3,Programming,Quiz,Hard
+342,79,1,Literature,Text,Easy
+421,176,2,Programming,Text,Easy
+261,138,5,Literature,Live Session,Easy
+743,157,3,History,Video,Hard
+384,13,3,Science,Live Session,Easy
+695,143,2,Science,Live Session,Easy
+511,144,2,History,Quiz,Easy
+951,78,1,Literature,Live Session,Hard
+210,67,5,Literature,Quiz,Easy
+968,164,1,Science,Quiz,Easy
+354,92,1,Programming,Text,Medium
+246,52,3,Science,Live Session,Medium
+998,23,1,Science,Live Session,Medium
+782,155,5,Science,Live Session,Hard
+630,55,4,History,Quiz,Hard
+404,28,5,Math,Live Session,Easy
+17,26,1,Literature,Live Session,Easy
+389,34,5,Programming,Video,Easy
+423,7,5,Math,Live Session,Easy
+559,173,4,Literature,Text,Easy
+383,123,3,Literature,Live Session,Medium
+928,73,2,Programming,Text,Hard
+313,199,5,Math,Quiz,Hard
+775,186,2,Programming,Text,Hard
+289,129,3,History,Live Session,Hard
+723,156,1,Math,Live Session,Hard
+67,28,1,Math,Live Session,Easy
+765,150,4,History,Live Session,Easy
+453,34,3,Programming,Video,Easy
+875,76,2,Science,Live Session,Hard
+622,54,4,Science,Text,Medium
+653,14,2,Literature,Video,Medium
+88,116,5,Science,Quiz,Easy
+966,83,3,Programming,Quiz,Hard
+998,171,5,Math,Live Session,Hard
+454,68,5,Programming,Quiz,Hard
+772,136,3,History,Video,Easy
+833,165,2,Math,Text,Easy
+978,172,3,Programming,Quiz,Medium
+481,92,5,Programming,Text,Medium
+995,194,5,History,Quiz,Medium
+23,176,3,Programming,Text,Easy
+542,158,1,History,Video,Medium
+664,71,3,History,Quiz,Hard
+681,124,3,Programming,Live Session,Medium
+537,129,1,History,Live Session,Hard
+944,157,2,History,Video,Hard
+321,35,1,Literature,Live Session,Easy
+387,130,2,Math,Text,Easy
+743,56,1,Literature,Text,Hard
+688,198,3,Programming,Video,Hard
+44,108,1,Literature,Quiz,Easy
+420,148,4,History,Video,Easy
+467,171,1,Math,Live Session,Hard
+29,175,1,Programming,Quiz,Easy
+32,59,1,Math,Quiz,Easy
+786,196,2,Literature,Live Session,Easy
+762,48,4,History,Quiz,Medium
+399,136,5,History,Video,Easy
+417,128,1,History,Text,Hard
+762,93,3,Literature,Quiz,Easy
+758,159,2,History,Live Session,Hard
+879,82,1,Literature,Text,Easy
+841,200,2,Programming,Quiz,Easy
+537,114,3,Programming,Live Session,Medium
+865,152,2,Programming,Live Session,Hard
+465,18,3,History,Quiz,Medium
+483,163,1,Science,Video,Hard
+291,161,4,History,Quiz,Easy
+470,6,3,Literature,Video,Hard
+261,125,4,Programming,Quiz,Hard
+394,70,5,Literature,Text,Medium
+109,21,4,History,Text,Hard
+356,31,3,Literature,Quiz,Easy
+43,198,2,Programming,Video,Hard
+285,1,2,Math,Video,Medium
+957,192,4,Programming,Text,Hard
+361,129,3,History,Live Session,Hard
+964,89,3,Literature,Video,Hard
+900,63,5,Literature,Text,Hard
+64,138,3,Literature,Live Session,Easy
+131,80,1,Programming,Video,Easy
+424,129,3,History,Live Session,Hard
+500,176,1,Programming,Text,Easy
+629,33,5,History,Text,Easy
+463,159,2,History,Live Session,Hard
+200,11,5,History,Text,Medium
+69,100,5,History,Video,Easy
+351,155,5,Science,Live Session,Hard
+60,35,1,Literature,Live Session,Easy
+741,70,4,Literature,Text,Medium
+521,120,2,Math,Live Session,Easy
+764,166,3,Science,Text,Easy
+337,85,3,Literature,Quiz,Medium
+338,13,4,Science,Live Session,Easy
+177,111,3,Math,Quiz,Hard
+916,82,1,Literature,Text,Easy
+796,194,4,History,Quiz,Medium
+980,10,3,Literature,Quiz,Hard
+889,33,5,History,Text,Easy
+635,72,1,History,Text,Easy
+645,130,3,Math,Text,Easy
+583,35,2,Literature,Live Session,Easy
+458,113,1,Math,Live Session,Hard
+462,193,5,Math,Live Session,Easy
+294,173,2,Literature,Text,Easy
+401,134,3,Math,Text,Hard
+892,54,1,Science,Text,Medium
+23,22,3,Literature,Live Session,Hard
+20,154,4,Math,Quiz,Hard
+401,137,4,History,Quiz,Easy
+603,181,2,Science,Video,Medium
+146,151,5,Math,Text,Easy
+418,200,5,Programming,Quiz,Easy
+505,6,5,Literature,Video,Hard
+66,24,4,Literature,Video,Hard
+848,45,2,Literature,Quiz,Medium
+99,165,2,Math,Text,Easy
+387,95,4,Math,Text,Medium
+148,149,3,Programming,Video,Hard
+429,199,1,Math,Quiz,Hard
+486,197,3,Literature,Text,Medium
+76,175,3,Programming,Quiz,Easy
+761,49,5,Programming,Live Session,Medium
+583,15,4,Programming,Quiz,Easy
+424,23,5,Science,Live Session,Medium
+955,89,4,Literature,Video,Hard
+636,28,2,Math,Live Session,Easy
+257,98,2,Science,Live Session,Hard
+679,160,3,Literature,Quiz,Easy
+483,12,3,Programming,Text,Hard
+619,185,2,History,Live Session,Easy
+681,37,3,Literature,Quiz,Hard
+272,194,1,History,Quiz,Medium
+655,158,2,History,Video,Medium
+145,45,4,Literature,Quiz,Medium
+522,52,1,Science,Live Session,Medium
+56,77,2,History,Text,Medium
+614,45,3,Literature,Quiz,Medium
+636,148,4,History,Video,Easy
+573,174,3,Math,Text,Easy
+809,48,4,History,Quiz,Medium
+14,187,2,Math,Quiz,Medium
+480,150,5,History,Live Session,Easy
+445,165,1,Math,Text,Easy
+464,62,1,Literature,Text,Easy
+901,157,4,History,Video,Hard
+532,73,5,Programming,Text,Hard
+846,32,2,Science,Video,Hard
+212,199,1,Math,Quiz,Hard
+319,92,2,Programming,Text,Medium
+862,32,5,Science,Video,Hard
+828,189,1,Programming,Text,Easy
+565,88,4,Math,Quiz,Medium
+10,119,1,Science,Text,Easy
+773,151,2,Math,Text,Easy
+186,197,3,Literature,Text,Medium
+593,157,3,History,Video,Hard
+816,161,4,History,Quiz,Easy
+69,154,2,Math,Quiz,Hard
+910,176,4,Programming,Text,Easy
+771,197,3,Literature,Text,Medium
+609,41,4,Literature,Video,Medium
+563,138,1,Literature,Live Session,Easy
+375,52,3,Science,Live Session,Medium
+111,107,2,Science,Quiz,Easy
+426,176,1,Programming,Text,Easy
+473,154,3,Math,Quiz,Hard
+905,189,1,Programming,Text,Easy
+14,132,2,Literature,Live Session,Medium
+749,11,1,History,Text,Medium
+812,135,5,History,Text,Easy
+905,119,4,Science,Text,Easy
+18,165,2,Math,Text,Easy
+137,129,3,History,Live Session,Hard
+562,74,5,Literature,Live Session,Easy
+990,145,2,Science,Text,Medium
+619,194,1,History,Quiz,Medium
+642,131,3,Science,Quiz,Medium
+578,80,5,Programming,Video,Easy
+239,174,4,Math,Text,Easy
+616,110,2,History,Live Session,Easy
+674,75,5,Programming,Quiz,Hard
+254,65,5,Math,Text,Hard
+832,34,1,Programming,Video,Easy
+291,130,5,Math,Text,Easy
+857,62,2,Literature,Text,Easy
+228,134,4,Math,Text,Hard
+966,142,4,Literature,Live Session,Easy
+563,38,1,Math,Video,Medium
+917,123,4,Literature,Live Session,Medium
+422,199,1,Math,Quiz,Hard
+352,152,1,Programming,Live Session,Hard
+507,91,2,Literature,Quiz,Hard
+907,12,2,Programming,Text,Hard
+250,86,5,Math,Video,Hard
+401,19,2,Math,Quiz,Hard
+146,47,5,Math,Video,Easy
+12,130,1,Math,Text,Easy
+85,77,4,History,Text,Medium
+569,55,3,History,Quiz,Hard
+529,131,2,Science,Quiz,Medium
+648,19,2,Math,Quiz,Hard
+913,123,5,Literature,Live Session,Medium
+108,47,2,Math,Video,Easy
+343,74,3,Literature,Live Session,Easy
+210,166,2,Science,Text,Easy
+698,134,4,Math,Text,Hard
+956,30,1,Literature,Live Session,Hard
+887,41,5,Literature,Video,Medium
+852,8,4,History,Live Session,Medium
+8,88,2,Math,Quiz,Medium
+39,129,2,History,Live Session,Hard
+959,148,2,History,Video,Easy
+394,66,5,Programming,Video,Easy
+86,166,1,Science,Text,Easy
+330,117,3,History,Live Session,Hard
+494,101,3,Programming,Quiz,Easy
+473,34,4,Programming,Video,Easy
+610,6,3,Literature,Video,Hard
+130,189,4,Programming,Text,Easy
+934,179,2,Science,Live Session,Medium
+634,195,2,History,Live Session,Hard
+981,40,3,Math,Video,Easy
+868,194,3,History,Quiz,Medium
+302,8,1,History,Live Session,Medium
+898,179,5,Science,Live Session,Medium
+22,35,4,Literature,Live Session,Easy
+771,46,5,Literature,Text,Hard
+532,186,1,Programming,Text,Hard
+779,79,3,Literature,Text,Easy
+939,134,2,Math,Text,Hard
+234,115,5,Programming,Quiz,Easy
+749,99,1,Literature,Quiz,Medium
+124,76,1,Science,Live Session,Hard
+321,182,5,Literature,Live Session,Medium
+146,128,2,History,Text,Hard
+558,191,1,Math,Quiz,Easy
+553,116,3,Science,Quiz,Easy
+782,198,1,Programming,Video,Hard
+975,19,1,Math,Quiz,Hard
+283,129,1,History,Live Session,Hard
+782,74,2,Literature,Live Session,Easy
+337,198,2,Programming,Video,Hard
+530,156,2,Math,Live Session,Hard
+310,80,3,Programming,Video,Easy
+390,144,4,History,Quiz,Easy
+355,142,3,Literature,Live Session,Easy
+379,29,2,Science,Video,Easy
+844,109,1,Math,Video,Hard
+775,37,5,Literature,Quiz,Hard
+389,29,4,Science,Video,Easy
+891,115,4,Programming,Quiz,Easy
+464,77,5,History,Text,Medium
+24,19,4,Math,Quiz,Hard
+431,181,3,Science,Video,Medium
+369,145,2,Science,Text,Medium
+625,123,3,Literature,Live Session,Medium
+243,145,3,Science,Text,Medium
+834,109,3,Math,Video,Hard
+796,88,4,Math,Quiz,Medium
+776,161,1,History,Quiz,Easy
+801,188,3,Science,Text,Medium
+654,100,2,History,Video,Easy
+715,62,4,Literature,Text,Easy
+220,161,4,History,Quiz,Easy
+412,183,3,Math,Video,Easy
+142,41,5,Literature,Video,Medium
+958,41,5,Literature,Video,Medium
+351,154,2,Math,Quiz,Hard
+279,164,2,Science,Quiz,Easy
+875,123,4,Literature,Live Session,Medium
+77,26,3,Literature,Live Session,Easy
+848,118,3,Math,Text,Medium
+677,9,1,Math,Video,Hard
+928,53,3,Programming,Live Session,Medium
+677,19,1,Math,Quiz,Hard
+42,64,5,Science,Live Session,Hard
+794,103,1,Science,Video,Hard
+623,46,2,Literature,Text,Hard
+890,78,3,Literature,Live Session,Hard
+69,133,1,Science,Quiz,Hard
+484,109,1,Math,Video,Hard
+115,118,3,Math,Text,Medium
+414,170,5,Math,Quiz,Medium
+439,106,2,Science,Video,Easy
+415,188,2,Science,Text,Medium
+169,73,4,Programming,Text,Hard
+485,160,2,Literature,Quiz,Easy
+540,103,1,Science,Video,Hard
+753,162,5,Programming,Live Session,Medium
+444,153,1,Programming,Quiz,Medium
+841,129,3,History,Live Session,Hard
+360,55,3,History,Quiz,Hard
+839,171,2,Math,Live Session,Hard
+55,197,2,Literature,Text,Medium
+545,166,3,Science,Text,Easy
+899,82,4,Literature,Text,Easy
+911,117,2,History,Live Session,Hard
+251,48,1,History,Quiz,Medium
+993,143,4,Science,Live Session,Easy
+1000,77,4,History,Text,Medium
+278,83,5,Programming,Quiz,Hard
+594,188,5,Science,Text,Medium
+943,78,1,Literature,Live Session,Hard
+244,145,3,Science,Text,Medium
+957,180,1,Math,Quiz,Easy
+968,115,1,Programming,Quiz,Easy
+223,109,5,Math,Video,Hard
+739,155,5,Science,Live Session,Hard
+531,159,2,History,Live Session,Hard
+86,133,5,Science,Quiz,Hard
+92,161,3,History,Quiz,Easy
+236,105,1,Math,Quiz,Hard
+211,195,2,History,Live Session,Hard
+652,200,5,Programming,Quiz,Easy
+170,140,2,Programming,Text,Easy
+115,85,1,Literature,Quiz,Medium
+25,190,5,Programming,Video,Medium
+55,165,2,Math,Text,Easy
+508,29,4,Science,Video,Easy
+727,106,2,Science,Video,Easy
+33,146,4,History,Text,Medium
+362,117,4,History,Live Session,Hard
+795,16,4,Literature,Video,Easy
+412,11,5,History,Text,Medium
+528,7,4,Math,Live Session,Easy
+201,97,2,Literature,Live Session,Hard
+521,20,1,Math,Live Session,Hard
+759,114,2,Programming,Live Session,Medium
+179,148,4,History,Video,Easy
+850,174,4,Math,Text,Easy
+38,154,3,Math,Quiz,Hard
+708,111,4,Math,Quiz,Hard
+357,182,1,Literature,Live Session,Medium
+743,31,3,Literature,Quiz,Easy
+104,147,2,Programming,Video,Easy
+84,107,5,Science,Quiz,Easy
+941,72,5,History,Text,Easy
+460,152,4,Programming,Live Session,Hard
+993,50,5,Literature,Text,Hard
+246,34,1,Programming,Video,Easy
+59,85,1,Literature,Quiz,Medium
+753,179,5,Science,Live Session,Medium
+777,12,3,Programming,Text,Hard
+843,105,1,Math,Quiz,Hard
+867,150,4,History,Live Session,Easy
+56,101,2,Programming,Quiz,Easy
+702,171,5,Math,Live Session,Hard
+729,57,1,Programming,Video,Hard
+635,11,4,History,Text,Medium
+826,135,1,History,Text,Easy
+990,200,2,Programming,Quiz,Easy
+612,120,1,Math,Live Session,Easy
+532,193,4,Math,Live Session,Easy
+968,77,2,History,Text,Medium
+2,193,1,Math,Live Session,Easy
+178,69,3,Science,Video,Hard
+474,77,4,History,Text,Medium
+128,72,5,History,Text,Easy
+529,192,5,Programming,Text,Hard
+292,87,1,Literature,Live Session,Easy
+241,134,2,Math,Text,Hard
+405,150,2,History,Live Session,Easy
+341,151,1,Math,Text,Easy
+493,83,1,Programming,Quiz,Hard
+505,175,5,Programming,Quiz,Easy
+567,193,3,Math,Live Session,Easy
+270,109,5,Math,Video,Hard
+989,73,5,Programming,Text,Hard
+172,141,3,Math,Video,Easy
+775,89,3,Literature,Video,Hard
+952,11,1,History,Text,Medium
+100,28,2,Math,Live Session,Easy
+840,87,5,Literature,Live Session,Easy
+827,82,1,Literature,Text,Easy
+928,148,5,History,Video,Easy
+572,144,2,History,Quiz,Easy
+417,181,2,Science,Video,Medium
+645,131,3,Science,Quiz,Medium
+569,33,3,History,Text,Easy
+399,7,2,Math,Live Session,Easy
+98,8,4,History,Live Session,Medium
+419,69,2,Science,Video,Hard
+563,35,5,Literature,Live Session,Easy
+177,80,3,Programming,Video,Easy
+29,172,3,Programming,Quiz,Medium
+843,23,4,Science,Live Session,Medium
+304,90,5,Science,Text,Medium
+949,199,4,Math,Quiz,Hard
+645,96,5,History,Text,Medium
+913,132,5,Literature,Live Session,Medium
+611,29,2,Science,Video,Easy
+160,189,2,Programming,Text,Easy
+396,154,1,Math,Quiz,Hard
+291,58,5,Programming,Text,Medium
+317,51,3,History,Quiz,Medium
+274,25,1,Science,Quiz,Medium
+221,24,4,Literature,Video,Hard
+249,184,4,Programming,Live Session,Medium
+894,132,3,Literature,Live Session,Medium
+65,19,5,Math,Quiz,Hard
+248,73,3,Programming,Text,Hard
+449,191,3,Math,Quiz,Easy
+453,59,2,Math,Quiz,Easy
+135,175,4,Programming,Quiz,Easy
+730,65,5,Math,Text,Hard
+240,199,2,Math,Quiz,Hard
+779,149,3,Programming,Video,Hard
+12,22,1,Literature,Live Session,Hard
+395,152,2,Programming,Live Session,Hard
+392,142,2,Literature,Live Session,Easy
+255,144,3,History,Quiz,Easy
+949,113,3,Math,Live Session,Hard
+656,18,1,History,Quiz,Medium
+595,161,5,History,Quiz,Easy
+503,31,3,Literature,Quiz,Easy
+361,73,4,Programming,Text,Hard
+736,112,5,History,Live Session,Easy
+450,199,5,Math,Quiz,Hard
+534,135,1,History,Text,Easy
+964,95,1,Math,Text,Medium
+127,108,4,Literature,Quiz,Easy
+675,35,3,Literature,Live Session,Easy
+844,59,1,Math,Quiz,Easy
+101,163,3,Science,Video,Hard
+664,199,1,Math,Quiz,Hard
+934,102,4,Programming,Quiz,Easy
+415,17,3,Math,Live Session,Easy
+322,51,1,History,Quiz,Medium
+7,47,5,Math,Video,Easy
+109,193,1,Math,Live Session,Easy
+2,103,3,Science,Video,Hard
+753,97,2,Literature,Live Session,Hard
+20,183,2,Math,Video,Easy
+614,185,1,History,Live Session,Easy
+585,103,3,Science,Video,Hard
+819,71,2,History,Quiz,Hard
+902,37,5,Literature,Quiz,Hard
+58,180,5,Math,Quiz,Easy
+404,102,1,Programming,Quiz,Easy
+710,54,1,Science,Text,Medium
+908,159,2,History,Live Session,Hard
+143,166,1,Science,Text,Easy
+654,57,4,Programming,Video,Hard
+863,140,2,Programming,Text,Easy
+323,36,3,Science,Live Session,Hard
+768,15,5,Programming,Quiz,Easy
+724,90,2,Science,Text,Medium
+467,153,1,Programming,Quiz,Medium
+168,14,5,Literature,Video,Medium
+92,162,1,Programming,Live Session,Medium
+361,115,1,Programming,Quiz,Easy
+792,195,5,History,Live Session,Hard
+619,32,4,Science,Video,Hard
+42,91,2,Literature,Quiz,Hard
+355,88,4,Math,Quiz,Medium
+710,109,3,Math,Video,Hard
+200,141,2,Math,Video,Easy
+557,40,3,Math,Video,Easy
+539,11,3,History,Text,Medium
+852,8,5,History,Live Session,Medium
+381,49,3,Programming,Live Session,Medium
+240,133,2,Science,Quiz,Hard
+19,133,5,Science,Quiz,Hard
+237,26,1,Literature,Live Session,Easy
+361,147,1,Programming,Video,Easy
+299,71,2,History,Quiz,Hard
+431,14,3,Literature,Video,Medium
+484,187,2,Math,Quiz,Medium
+998,161,5,History,Quiz,Easy
+576,125,3,Programming,Quiz,Hard
+133,124,5,Programming,Live Session,Medium
+701,34,2,Programming,Video,Easy
+183,65,4,Math,Text,Hard
+674,171,1,Math,Live Session,Hard
+198,5,1,Programming,Live Session,Hard
+504,148,3,History,Video,Easy
+884,128,4,History,Text,Hard
+333,74,3,Literature,Live Session,Easy
+528,85,4,Literature,Quiz,Medium
+415,150,4,History,Live Session,Easy
+407,105,3,Math,Quiz,Hard
+1,89,1,Literature,Video,Hard
+625,125,5,Programming,Quiz,Hard
+300,194,5,History,Quiz,Medium
+499,167,4,Science,Live Session,Medium
+692,28,3,Math,Live Session,Easy
+373,60,2,Programming,Video,Medium
+253,79,4,Literature,Text,Easy
+205,152,3,Programming,Live Session,Hard
+943,94,4,Science,Video,Hard
+995,147,5,Programming,Video,Easy
+626,161,3,History,Quiz,Easy
+267,94,3,Science,Video,Hard
+263,97,4,Literature,Live Session,Hard
+182,51,4,History,Quiz,Medium
+244,22,4,Literature,Live Session,Hard
+780,144,2,History,Quiz,Easy
+244,136,3,History,Video,Easy
+866,147,1,Programming,Video,Easy
+704,190,3,Programming,Video,Medium
+566,194,4,History,Quiz,Medium
+944,102,2,Programming,Quiz,Easy
+28,10,5,Literature,Quiz,Hard
+720,190,4,Programming,Video,Medium
+980,118,5,Math,Text,Medium
+914,62,5,Literature,Text,Easy
+835,175,3,Programming,Quiz,Easy
+468,181,5,Science,Video,Medium
+395,90,1,Science,Text,Medium
+13,27,2,Literature,Quiz,Easy
+784,175,2,Programming,Quiz,Easy
+156,49,2,Programming,Live Session,Medium
+139,70,3,Literature,Text,Medium
+294,13,3,Science,Live Session,Easy
+183,151,5,Math,Text,Easy
+429,163,5,Science,Video,Hard
+30,72,3,History,Text,Easy
+847,159,2,History,Live Session,Hard
+498,87,1,Literature,Live Session,Easy
+236,136,2,History,Video,Easy
+599,91,3,Literature,Quiz,Hard
+584,188,4,Science,Text,Medium
+172,69,2,Science,Video,Hard
+764,54,3,Science,Text,Medium
+246,164,5,Science,Quiz,Easy
+131,86,1,Math,Video,Hard
+701,117,5,History,Live Session,Hard
+679,104,3,Programming,Live Session,Hard
+462,183,1,Math,Video,Easy
+207,39,3,Math,Video,Hard
+498,163,2,Science,Video,Hard
+2,189,1,Programming,Text,Easy
+717,190,4,Programming,Video,Medium
+904,53,5,Programming,Live Session,Medium
+417,173,2,Literature,Text,Easy
+16,148,4,History,Video,Easy
+402,172,4,Programming,Quiz,Medium
+346,88,4,Math,Quiz,Medium
+453,70,4,Literature,Text,Medium
+514,194,4,History,Quiz,Medium
+753,146,2,History,Text,Medium
+284,189,4,Programming,Text,Easy
+254,70,1,Literature,Text,Medium
+310,198,1,Programming,Video,Hard
+707,108,2,Literature,Quiz,Easy
+501,90,1,Science,Text,Medium
+675,170,4,Math,Quiz,Medium
+793,176,4,Programming,Text,Easy
+813,195,5,History,Live Session,Hard
+588,16,2,Literature,Video,Easy
+306,60,3,Programming,Video,Medium
+157,105,5,Math,Quiz,Hard
+768,82,3,Literature,Text,Easy
+759,107,5,Science,Quiz,Easy
+77,157,4,History,Video,Hard
+64,134,1,Math,Text,Hard
+285,137,4,History,Quiz,Easy
+769,36,3,Science,Live Session,Hard
+322,142,3,Literature,Live Session,Easy
+414,16,5,Literature,Video,Easy
+13,73,5,Programming,Text,Hard
+931,46,2,Literature,Text,Hard
+339,152,5,Programming,Live Session,Hard
+185,32,1,Science,Video,Hard
+859,92,2,Programming,Text,Medium
+896,23,2,Science,Live Session,Medium
+497,58,3,Programming,Text,Medium
+922,133,2,Science,Quiz,Hard
+662,136,5,History,Video,Easy
+160,6,4,Literature,Video,Hard
+199,76,4,Science,Live Session,Hard
+879,4,5,Literature,Quiz,Easy
+425,26,3,Literature,Live Session,Easy
+917,151,2,Math,Text,Easy
+152,22,3,Literature,Live Session,Hard
+930,61,5,Math,Quiz,Hard
+825,63,5,Literature,Text,Hard
+902,127,2,Science,Live Session,Easy
+91,20,5,Math,Live Session,Hard
+23,107,5,Science,Quiz,Easy
+891,76,2,Science,Live Session,Hard
+33,6,4,Literature,Video,Hard
+95,116,5,Science,Quiz,Easy
+484,125,5,Programming,Quiz,Hard
+87,51,1,History,Quiz,Medium
+86,134,4,Math,Text,Hard
+568,154,3,Math,Quiz,Hard
+799,16,4,Literature,Video,Easy
+876,178,2,Science,Text,Hard
+59,157,5,History,Video,Hard
+804,158,2,History,Video,Medium
+328,7,3,Math,Live Session,Easy
+310,112,4,History,Live Session,Easy
+746,36,5,Science,Live Session,Hard
+88,52,3,Science,Live Session,Medium
+660,118,4,Math,Text,Medium
+657,69,5,Science,Video,Hard
+438,84,5,Literature,Quiz,Hard
+499,171,1,Math,Live Session,Hard
+380,174,2,Math,Text,Easy
+752,134,2,Math,Text,Hard
+642,69,1,Science,Video,Hard
+773,61,1,Math,Quiz,Hard
+100,127,2,Science,Live Session,Easy
+954,199,2,Math,Quiz,Hard
+226,144,2,History,Quiz,Easy
+202,179,1,Science,Live Session,Medium
+247,88,1,Math,Quiz,Medium
+312,102,3,Programming,Quiz,Easy
+93,70,5,Literature,Text,Medium
+27,104,3,Programming,Live Session,Hard
+420,29,4,Science,Video,Easy
+6,44,3,History,Video,Easy
+866,75,5,Programming,Quiz,Hard
+448,160,2,Literature,Quiz,Easy
+619,119,5,Science,Text,Easy
+697,64,5,Science,Live Session,Hard
+782,51,5,History,Quiz,Medium
+252,31,3,Literature,Quiz,Easy
+700,188,2,Science,Text,Medium
+398,105,1,Math,Quiz,Hard
+689,75,4,Programming,Quiz,Hard
+728,197,5,Literature,Text,Medium
+496,40,2,Math,Video,Easy
+880,170,5,Math,Quiz,Medium
+871,29,4,Science,Video,Easy
+487,28,2,Math,Live Session,Easy
+355,91,2,Literature,Quiz,Hard
+353,35,3,Literature,Live Session,Easy
+299,156,2,Math,Live Session,Hard
+284,16,5,Literature,Video,Easy
+326,68,5,Programming,Quiz,Hard
+937,140,3,Programming,Text,Easy
+623,17,5,Math,Live Session,Easy
+949,186,2,Programming,Text,Hard
+480,157,1,History,Video,Hard
+886,66,4,Programming,Video,Easy
+479,179,1,Science,Live Session,Medium
+937,39,4,Math,Video,Hard
+810,22,5,Literature,Live Session,Hard
+507,31,2,Literature,Quiz,Easy
+196,100,1,History,Video,Easy
+899,100,4,History,Video,Easy
+466,126,4,History,Video,Easy
+309,74,4,Literature,Live Session,Easy
+176,8,2,History,Live Session,Medium
+435,82,2,Literature,Text,Easy
+277,130,3,Math,Text,Easy
+835,12,4,Programming,Text,Hard
+959,165,4,Math,Text,Easy
+619,25,1,Science,Quiz,Medium
+917,106,4,Science,Video,Easy
+196,103,4,Science,Video,Hard
+895,77,5,History,Text,Medium
+147,193,5,Math,Live Session,Easy
+449,14,2,Literature,Video,Medium
+689,14,3,Literature,Video,Medium
+465,150,5,History,Live Session,Easy
+732,24,3,Literature,Video,Hard
+888,188,4,Science,Text,Medium
+363,115,5,Programming,Quiz,Easy
+434,161,3,History,Quiz,Easy
+403,183,1,Math,Video,Easy
+626,102,1,Programming,Quiz,Easy
+296,159,1,History,Live Session,Hard
+472,78,5,Literature,Live Session,Hard
+862,165,4,Math,Text,Easy
+117,187,1,Math,Quiz,Medium
+395,168,2,Programming,Video,Easy
+604,156,5,Math,Live Session,Hard
+475,172,5,Programming,Quiz,Medium
+589,97,5,Literature,Live Session,Hard
+912,27,3,Literature,Quiz,Easy
+883,77,3,History,Text,Medium
+951,141,2,Math,Video,Easy
+770,5,1,Programming,Live Session,Hard
+556,150,3,History,Live Session,Easy
+547,142,4,Literature,Live Session,Easy
+424,166,4,Science,Text,Easy
+561,196,5,Literature,Live Session,Easy
+158,136,5,History,Video,Easy
+746,19,1,Math,Quiz,Hard
+412,11,4,History,Text,Medium
+14,167,3,Science,Live Session,Medium
+871,122,5,Programming,Video,Easy
+993,116,4,Science,Quiz,Easy
+873,192,1,Programming,Text,Hard
+506,115,5,Programming,Quiz,Easy
+579,167,2,Science,Live Session,Medium
+576,155,4,Science,Live Session,Hard
+536,97,1,Literature,Live Session,Hard
+724,77,1,History,Text,Medium
+666,134,3,Math,Text,Hard
+563,63,3,Literature,Text,Hard
+515,178,2,Science,Text,Hard
+461,196,2,Literature,Live Session,Easy
+852,13,3,Science,Live Session,Easy
+309,28,3,Math,Live Session,Easy
+932,180,3,Math,Quiz,Easy
+581,26,5,Literature,Live Session,Easy
+316,127,2,Science,Live Session,Easy
+206,95,1,Math,Text,Medium
+626,80,3,Programming,Video,Easy
+797,42,3,History,Live Session,Hard
+970,72,5,History,Text,Easy
+956,42,4,History,Live Session,Hard
+1000,124,5,Programming,Live Session,Medium
+297,68,2,Programming,Quiz,Hard
+230,190,5,Programming,Video,Medium
+643,71,5,History,Quiz,Hard
+674,63,4,Literature,Text,Hard
+818,69,2,Science,Video,Hard
+487,50,5,Literature,Text,Hard
+647,172,4,Programming,Quiz,Medium
+968,27,3,Literature,Quiz,Easy
+597,177,4,Science,Video,Hard
+854,159,2,History,Live Session,Hard
+233,49,4,Programming,Live Session,Medium
+8,107,4,Science,Quiz,Easy
+770,74,1,Literature,Live Session,Easy
+921,171,4,Math,Live Session,Hard
+176,40,1,Math,Video,Easy
+385,92,3,Programming,Text,Medium
+814,133,3,Science,Quiz,Hard
+894,72,2,History,Text,Easy
+182,35,4,Literature,Live Session,Easy
+637,187,5,Math,Quiz,Medium
+185,95,3,Math,Text,Medium
+708,12,5,Programming,Text,Hard
+546,123,4,Literature,Live Session,Medium
+506,88,3,Math,Quiz,Medium
+844,91,5,Literature,Quiz,Hard
+979,148,2,History,Video,Easy
+628,192,5,Programming,Text,Hard
+236,65,2,Math,Text,Hard
+630,13,2,Science,Live Session,Easy
+395,82,1,Literature,Text,Easy
+567,189,1,Programming,Text,Easy
+817,27,5,Literature,Quiz,Easy
+903,125,1,Programming,Quiz,Hard
+142,197,1,Literature,Text,Medium
+210,4,3,Literature,Quiz,Easy
+959,148,3,History,Video,Easy
+84,80,4,Programming,Video,Easy
+602,29,3,Science,Video,Easy
+668,129,1,History,Live Session,Hard
+938,106,2,Science,Video,Easy
+173,112,5,History,Live Session,Easy
+355,161,2,History,Quiz,Easy
+205,85,4,Literature,Quiz,Medium
+592,86,3,Math,Video,Hard
+63,121,2,Math,Quiz,Hard
+643,9,4,Math,Video,Hard
+944,130,3,Math,Text,Easy
+66,46,4,Literature,Text,Hard
+944,181,5,Science,Video,Medium
+763,41,3,Literature,Video,Medium
+273,84,3,Literature,Quiz,Hard
+427,7,5,Math,Live Session,Easy
+153,23,2,Science,Live Session,Medium
+177,189,4,Programming,Text,Easy
+998,90,1,Science,Text,Medium
+426,146,5,History,Text,Medium
+413,184,4,Programming,Live Session,Medium
+526,104,3,Programming,Live Session,Hard
+623,118,5,Math,Text,Medium
+686,179,5,Science,Live Session,Medium
+588,24,4,Literature,Video,Hard
+306,188,2,Science,Text,Medium
+903,74,3,Literature,Live Session,Easy
+17,196,3,Literature,Live Session,Easy
+257,76,4,Science,Live Session,Hard
+286,50,5,Literature,Text,Hard
+966,63,5,Literature,Text,Hard
+841,153,1,Programming,Quiz,Medium
+296,19,2,Math,Quiz,Hard
+873,89,2,Literature,Video,Hard
+641,9,1,Math,Video,Hard
+773,67,1,Literature,Quiz,Easy
+421,51,5,History,Quiz,Medium
+349,138,4,Literature,Live Session,Easy
+875,166,3,Science,Text,Easy
+302,142,5,Literature,Live Session,Easy
+976,69,4,Science,Video,Hard
+398,148,2,History,Video,Easy
+105,181,5,Science,Video,Medium
+762,128,2,History,Text,Hard
+352,21,1,History,Text,Hard
+652,179,1,Science,Live Session,Medium
+832,48,1,History,Quiz,Medium
+705,133,5,Science,Quiz,Hard
+173,150,4,History,Live Session,Easy
+639,135,2,History,Text,Easy
+323,126,4,History,Video,Easy
+213,123,4,Literature,Live Session,Medium
+948,44,4,History,Video,Easy
+704,167,1,Science,Live Session,Medium
+255,117,3,History,Live Session,Hard
+716,91,2,Literature,Quiz,Hard
+211,158,5,History,Video,Medium
+571,100,1,History,Video,Easy
+872,160,5,Literature,Quiz,Easy
+246,196,2,Literature,Live Session,Easy
+898,196,1,Literature,Live Session,Easy
+315,49,1,Programming,Live Session,Medium
+244,5,1,Programming,Live Session,Hard
+889,22,3,Literature,Live Session,Hard
+820,124,4,Programming,Live Session,Medium
+302,106,4,Science,Video,Easy
+939,174,2,Math,Text,Easy
+552,130,1,Math,Text,Easy
+36,152,4,Programming,Live Session,Hard
+337,93,5,Literature,Quiz,Easy
+428,18,2,History,Quiz,Medium
+924,90,1,Science,Text,Medium
+447,16,5,Literature,Video,Easy
+329,114,1,Programming,Live Session,Medium
+508,141,1,Math,Video,Easy
+196,183,4,Math,Video,Easy
+898,87,2,Literature,Live Session,Easy
+760,157,2,History,Video,Hard
+922,149,1,Programming,Video,Hard
+364,29,3,Science,Video,Easy
+897,111,4,Math,Quiz,Hard
+375,74,3,Literature,Live Session,Easy
+897,97,3,Literature,Live Session,Hard
+930,191,1,Math,Quiz,Easy
+853,156,1,Math,Live Session,Hard
+130,47,3,Math,Video,Easy
+48,166,1,Science,Text,Easy
+55,42,2,History,Live Session,Hard
+33,178,5,Science,Text,Hard
+10,62,3,Literature,Text,Easy
+18,6,3,Literature,Video,Hard
+641,198,1,Programming,Video,Hard
+41,43,3,Programming,Quiz,Medium
+576,105,3,Math,Quiz,Hard
+285,181,3,Science,Video,Medium
+867,195,5,History,Live Session,Hard
+720,45,4,Literature,Quiz,Medium
+781,146,4,History,Text,Medium
+401,136,2,History,Video,Easy
+742,63,4,Literature,Text,Hard
+397,75,2,Programming,Quiz,Hard
+585,112,4,History,Live Session,Easy
+841,11,3,History,Text,Medium
+845,126,3,History,Video,Easy
+625,29,2,Science,Video,Easy
+185,10,4,Literature,Quiz,Hard
+433,128,1,History,Text,Hard
+850,28,5,Math,Live Session,Easy
+437,189,4,Programming,Text,Easy
+130,42,2,History,Live Session,Hard
+897,18,4,History,Quiz,Medium
+334,175,3,Programming,Quiz,Easy
+471,130,1,Math,Text,Easy
+231,195,1,History,Live Session,Hard
+199,180,2,Math,Quiz,Easy
+458,188,3,Science,Text,Medium
+367,82,3,Literature,Text,Easy
+22,154,5,Math,Quiz,Hard
+976,18,2,History,Quiz,Medium
+619,37,2,Literature,Quiz,Hard
+440,102,3,Programming,Quiz,Easy
+416,76,2,Science,Live Session,Hard
+340,75,2,Programming,Quiz,Hard
+262,78,4,Literature,Live Session,Hard
+765,25,1,Science,Quiz,Medium
+802,45,3,Literature,Quiz,Medium
+70,188,5,Science,Text,Medium
+728,110,3,History,Live Session,Easy
+527,78,5,Literature,Live Session,Hard
+593,107,1,Science,Quiz,Easy
+493,120,2,Math,Live Session,Easy
+38,6,5,Literature,Video,Hard
+931,188,1,Science,Text,Medium
+461,186,4,Programming,Text,Hard
+37,175,5,Programming,Quiz,Easy
+566,145,5,Science,Text,Medium
+714,165,3,Math,Text,Easy
+401,165,3,Math,Text,Easy
+269,181,4,Science,Video,Medium
+834,52,5,Science,Live Session,Medium
+677,41,5,Literature,Video,Medium
+661,155,5,Science,Live Session,Hard
+802,108,2,Literature,Quiz,Easy
+817,167,4,Science,Live Session,Medium
+247,38,2,Math,Video,Medium
+264,10,1,Literature,Quiz,Hard
+582,119,2,Science,Text,Easy
+229,97,4,Literature,Live Session,Hard
+933,105,2,Math,Quiz,Hard
+44,34,2,Programming,Video,Easy
+579,25,1,Science,Quiz,Medium
+449,175,5,Programming,Quiz,Easy
+666,168,2,Programming,Video,Easy
+270,94,2,Science,Video,Hard
+316,25,3,Science,Quiz,Medium
+201,95,1,Math,Text,Medium
+806,4,5,Literature,Quiz,Easy
+189,150,1,History,Live Session,Easy
+940,33,1,History,Text,Easy
+31,147,5,Programming,Video,Easy
+501,175,5,Programming,Quiz,Easy
+253,195,1,History,Live Session,Hard
+716,111,2,Math,Quiz,Hard
+451,129,2,History,Live Session,Hard
+698,158,3,History,Video,Medium
+175,168,2,Programming,Video,Easy
+577,100,5,History,Video,Easy
+659,185,2,History,Live Session,Easy
+622,186,2,Programming,Text,Hard
+718,50,3,Literature,Text,Hard
+192,24,2,Literature,Video,Hard
+215,164,5,Science,Quiz,Easy
+294,173,2,Literature,Text,Easy
+887,87,4,Literature,Live Session,Easy
+528,73,2,Programming,Text,Hard
+949,62,1,Literature,Text,Easy
+70,24,4,Literature,Video,Hard
+660,127,3,Science,Live Session,Easy
+713,70,2,Literature,Text,Medium
+333,53,2,Programming,Live Session,Medium
+571,124,2,Programming,Live Session,Medium
+417,139,4,Literature,Quiz,Easy
+5,167,3,Science,Live Session,Medium
+553,67,4,Literature,Quiz,Easy
+660,71,3,History,Quiz,Hard
+792,124,2,Programming,Live Session,Medium
+283,68,3,Programming,Quiz,Hard
+64,169,5,Literature,Live Session,Medium
+276,186,3,Programming,Text,Hard
+312,152,1,Programming,Live Session,Hard
+480,158,2,History,Video,Medium
+78,187,1,Math,Quiz,Medium
+656,88,2,Math,Quiz,Medium
+619,82,3,Literature,Text,Easy
+186,105,3,Math,Quiz,Hard
+625,88,5,Math,Quiz,Medium
+281,53,4,Programming,Live Session,Medium
+221,120,1,Math,Live Session,Easy
+691,181,5,Science,Video,Medium
+400,101,1,Programming,Quiz,Easy
+828,175,5,Programming,Quiz,Easy
+223,24,1,Literature,Video,Hard
+570,134,5,Math,Text,Hard
+647,126,4,History,Video,Easy
+973,13,3,Science,Live Session,Easy
+45,105,4,Math,Quiz,Hard
+243,194,5,History,Quiz,Medium
+776,114,1,Programming,Live Session,Medium
+876,15,1,Programming,Quiz,Easy
+515,17,5,Math,Live Session,Easy
+953,108,5,Literature,Quiz,Easy
+21,80,2,Programming,Video,Easy
+567,69,3,Science,Video,Hard
+824,71,4,History,Quiz,Hard
+188,5,4,Programming,Live Session,Hard
+908,174,5,Math,Text,Easy
+40,48,1,History,Quiz,Medium
+636,151,2,Math,Text,Easy
+177,47,1,Math,Video,Easy
+19,108,2,Literature,Quiz,Easy
+653,104,3,Programming,Live Session,Hard
+541,48,3,History,Quiz,Medium
+817,16,3,Literature,Video,Easy
+388,24,5,Literature,Video,Hard
+985,122,4,Programming,Video,Easy
+308,115,5,Programming,Quiz,Easy
+675,26,3,Literature,Live Session,Easy
+602,75,2,Programming,Quiz,Hard
+948,17,1,Math,Live Session,Easy
+236,81,1,Literature,Video,Medium
+386,50,4,Literature,Text,Hard
+407,197,4,Literature,Text,Medium
+281,195,2,History,Live Session,Hard
+495,166,3,Science,Text,Easy
+617,10,2,Literature,Quiz,Hard
+426,43,3,Programming,Quiz,Medium
+948,62,3,Literature,Text,Easy
+89,68,1,Programming,Quiz,Hard
+757,40,4,Math,Video,Easy
+934,45,5,Literature,Quiz,Medium
+289,105,2,Math,Quiz,Hard
+882,53,4,Programming,Live Session,Medium
+83,182,5,Literature,Live Session,Medium
+777,54,1,Science,Text,Medium
+813,76,4,Science,Live Session,Hard
+538,143,3,Science,Live Session,Easy
+293,163,5,Science,Video,Hard
+857,80,4,Programming,Video,Easy
+89,177,2,Science,Video,Hard
+326,126,3,History,Video,Easy
+858,40,2,Math,Video,Easy
+516,89,1,Literature,Video,Hard
+987,39,4,Math,Video,Hard
+24,61,4,Math,Quiz,Hard
+414,39,3,Math,Video,Hard
+766,89,3,Literature,Video,Hard
+658,106,5,Science,Video,Easy
+209,70,4,Literature,Text,Medium
+122,65,3,Math,Text,Hard
+764,47,2,Math,Video,Easy
+511,152,1,Programming,Live Session,Hard
+433,8,5,History,Live Session,Medium
+551,86,2,Math,Video,Hard
+565,179,1,Science,Live Session,Medium
+777,107,5,Science,Quiz,Easy
+989,30,1,Literature,Live Session,Hard
+283,25,2,Science,Quiz,Medium
+410,12,4,Programming,Text,Hard
+279,161,5,History,Quiz,Easy
+662,9,4,Math,Video,Hard
+911,171,3,Math,Live Session,Hard
+387,70,2,Literature,Text,Medium
+621,179,4,Science,Live Session,Medium
+763,95,5,Math,Text,Medium
+139,32,1,Science,Video,Hard
+166,1,5,Math,Video,Medium
+325,114,3,Programming,Live Session,Medium
+821,179,1,Science,Live Session,Medium
+296,36,2,Science,Live Session,Hard
+87,7,2,Math,Live Session,Easy
+722,135,5,History,Text,Easy
+545,197,4,Literature,Text,Medium
+801,128,4,History,Text,Hard
+229,114,5,Programming,Live Session,Medium
+697,70,2,Literature,Text,Medium
+120,18,4,History,Quiz,Medium
+650,86,2,Math,Video,Hard
+524,28,3,Math,Live Session,Easy
+697,80,2,Programming,Video,Easy
+84,77,3,History,Text,Medium
+410,147,4,Programming,Video,Easy
+498,193,4,Math,Live Session,Easy
+792,189,5,Programming,Text,Easy
+340,161,5,History,Quiz,Easy
+767,158,1,History,Video,Medium
+461,120,3,Math,Live Session,Easy
+607,185,1,History,Live Session,Easy
+776,87,5,Literature,Live Session,Easy
+139,14,1,Literature,Video,Medium
+580,51,4,History,Quiz,Medium
+283,74,4,Literature,Live Session,Easy
+676,134,1,Math,Text,Hard
+531,148,5,History,Video,Easy
+758,1,1,Math,Video,Medium
+20,155,5,Science,Live Session,Hard
+165,122,2,Programming,Video,Easy
+243,178,1,Science,Text,Hard
+341,164,1,Science,Quiz,Easy
+842,178,4,Science,Text,Hard
+604,174,3,Math,Text,Easy
+278,136,3,History,Video,Easy
+293,59,4,Math,Quiz,Easy
+815,36,4,Science,Live Session,Hard
+732,149,5,Programming,Video,Hard
+948,12,5,Programming,Text,Hard
+218,89,3,Literature,Video,Hard
+589,64,2,Science,Live Session,Hard
+152,73,1,Programming,Text,Hard
+910,138,2,Literature,Live Session,Easy
+921,87,5,Literature,Live Session,Easy
+291,192,2,Programming,Text,Hard
+486,187,3,Math,Quiz,Medium
+390,137,4,History,Quiz,Easy
+823,171,5,Math,Live Session,Hard
+904,186,3,Programming,Text,Hard
+586,88,3,Math,Quiz,Medium
+694,175,5,Programming,Quiz,Easy
+460,85,1,Literature,Quiz,Medium
+627,149,2,Programming,Video,Hard
+602,15,3,Programming,Quiz,Easy
+462,17,4,Math,Live Session,Easy
+626,80,4,Programming,Video,Easy
+967,35,5,Literature,Live Session,Easy
+751,18,2,History,Quiz,Medium
+436,110,1,History,Live Session,Easy
+660,170,3,Math,Quiz,Medium
+868,163,4,Science,Video,Hard
+529,6,5,Literature,Video,Hard
+107,146,2,History,Text,Medium
+103,148,1,History,Video,Easy
+306,148,1,History,Video,Easy
+514,102,3,Programming,Quiz,Easy
+613,137,2,History,Quiz,Easy
+487,53,5,Programming,Live Session,Medium
+54,111,1,Math,Quiz,Hard
+718,198,3,Programming,Video,Hard
+315,134,5,Math,Text,Hard
+774,54,1,Science,Text,Medium
+238,50,3,Literature,Text,Hard
+913,44,3,History,Video,Easy
+479,115,1,Programming,Quiz,Easy
+29,170,2,Math,Quiz,Medium
+138,52,5,Science,Live Session,Medium
+156,196,3,Literature,Live Session,Easy
+334,107,1,Science,Quiz,Easy
+603,73,3,Programming,Text,Hard
+93,94,4,Science,Video,Hard
+953,189,3,Programming,Text,Easy
+700,15,5,Programming,Quiz,Easy
+464,138,5,Literature,Live Session,Easy
+869,121,5,Math,Quiz,Hard
+92,32,5,Science,Video,Hard
+376,7,4,Math,Live Session,Easy
+121,167,3,Science,Live Session,Medium
+726,98,5,Science,Live Session,Hard
+813,105,5,Math,Quiz,Hard
+153,51,5,History,Quiz,Medium
+975,182,2,Literature,Live Session,Medium
+346,140,2,Programming,Text,Easy
+856,138,5,Literature,Live Session,Easy
+585,113,5,Math,Live Session,Hard
+579,119,4,Science,Text,Easy
+504,199,3,Math,Quiz,Hard
+532,183,3,Math,Video,Easy
+732,66,2,Programming,Video,Easy
+270,108,1,Literature,Quiz,Easy
+788,184,4,Programming,Live Session,Medium
+332,104,1,Programming,Live Session,Hard
+483,5,4,Programming,Live Session,Hard
+798,62,3,Literature,Text,Easy
+546,20,4,Math,Live Session,Hard
+176,14,4,Literature,Video,Medium
+375,93,1,Literature,Quiz,Easy
+985,107,2,Science,Quiz,Easy
+384,11,3,History,Text,Medium
+43,72,5,History,Text,Easy
+934,115,5,Programming,Quiz,Easy
+843,73,5,Programming,Text,Hard
+404,132,4,Literature,Live Session,Medium
+868,146,5,History,Text,Medium
+30,190,3,Programming,Video,Medium
+632,106,3,Science,Video,Easy
+585,141,2,Math,Video,Easy
+928,199,4,Math,Quiz,Hard
+888,199,5,Math,Quiz,Hard
+695,110,2,History,Live Session,Easy
+474,18,2,History,Quiz,Medium
+940,126,1,History,Video,Easy
+747,128,5,History,Text,Hard
+454,97,3,Literature,Live Session,Hard
+111,165,4,Math,Text,Easy
+401,127,2,Science,Live Session,Easy
+997,27,1,Literature,Quiz,Easy
+736,157,1,History,Video,Hard
+286,60,2,Programming,Video,Medium
+298,20,5,Math,Live Session,Hard
+494,86,1,Math,Video,Hard
+273,124,3,Programming,Live Session,Medium
+284,172,3,Programming,Quiz,Medium
+81,196,4,Literature,Live Session,Easy
+936,78,4,Literature,Live Session,Hard
+262,80,2,Programming,Video,Easy
+747,47,5,Math,Video,Easy
+919,196,4,Literature,Live Session,Easy
+497,98,1,Science,Live Session,Hard
+548,141,5,Math,Video,Easy
+601,74,5,Literature,Live Session,Easy
+227,151,3,Math,Text,Easy
+91,122,2,Programming,Video,Easy
+406,22,3,Literature,Live Session,Hard
+583,20,2,Math,Live Session,Hard
+63,136,3,History,Video,Easy
+300,116,4,Science,Quiz,Easy
+998,69,4,Science,Video,Hard
+211,183,4,Math,Video,Easy
+589,152,3,Programming,Live Session,Hard
+94,78,1,Literature,Live Session,Hard
+367,25,3,Science,Quiz,Medium
+650,55,5,History,Quiz,Hard
+294,70,1,Literature,Text,Medium
+385,177,5,Science,Video,Hard
+461,136,2,History,Video,Easy
+525,82,4,Literature,Text,Easy
+616,14,5,Literature,Video,Medium
+224,172,4,Programming,Quiz,Medium
+203,109,5,Math,Video,Hard
+774,110,1,History,Live Session,Easy
+733,154,2,Math,Quiz,Hard
+499,187,2,Math,Quiz,Medium
+444,61,4,Math,Quiz,Hard
+328,148,1,History,Video,Easy
+77,63,4,Literature,Text,Hard
+547,98,2,Science,Live Session,Hard
+219,102,2,Programming,Quiz,Easy
+668,68,3,Programming,Quiz,Hard
+374,7,5,Math,Live Session,Easy
+622,105,5,Math,Quiz,Hard
+157,164,4,Science,Quiz,Easy
+677,102,5,Programming,Quiz,Easy
+33,108,2,Literature,Quiz,Easy
+88,171,2,Math,Live Session,Hard
+828,185,4,History,Live Session,Easy
+791,98,1,Science,Live Session,Hard
+932,24,3,Literature,Video,Hard
+146,145,2,Science,Text,Medium
+137,194,5,History,Quiz,Medium
+680,127,4,Science,Live Session,Easy
+446,109,5,Math,Video,Hard
+310,40,5,Math,Video,Easy
+81,16,3,Literature,Video,Easy
+499,41,1,Literature,Video,Medium
+236,159,5,History,Live Session,Hard
+238,184,5,Programming,Live Session,Medium
+26,142,1,Literature,Live Session,Easy
+448,108,4,Literature,Quiz,Easy
+248,117,1,History,Live Session,Hard
+676,194,5,History,Quiz,Medium
+452,3,5,Math,Quiz,Easy
+589,42,3,History,Live Session,Hard
+841,167,5,Science,Live Session,Medium
+460,65,2,Math,Text,Hard
+373,62,3,Literature,Text,Easy
+558,40,5,Math,Video,Easy
+559,139,3,Literature,Quiz,Easy
+873,41,3,Literature,Video,Medium
+898,35,2,Literature,Live Session,Easy
+225,158,5,History,Video,Medium
+482,104,4,Programming,Live Session,Hard
+368,105,2,Math,Quiz,Hard
+599,181,5,Science,Video,Medium
+473,159,4,History,Live Session,Hard
+340,13,4,Science,Live Session,Easy
+304,138,2,Literature,Live Session,Easy
+738,101,3,Programming,Quiz,Easy
+777,87,3,Literature,Live Session,Easy
+1000,154,1,Math,Quiz,Hard
+323,133,1,Science,Quiz,Hard
+959,81,1,Literature,Video,Medium
+48,84,5,Literature,Quiz,Hard
+494,7,2,Math,Live Session,Easy
+166,200,3,Programming,Quiz,Easy
+606,191,1,Math,Quiz,Easy
+68,16,1,Literature,Video,Easy
+564,121,1,Math,Quiz,Hard
+970,68,1,Programming,Quiz,Hard
+783,125,5,Programming,Quiz,Hard
+584,184,1,Programming,Live Session,Medium
+88,118,1,Math,Text,Medium
+447,35,4,Literature,Live Session,Easy
+700,55,1,History,Quiz,Hard
+785,122,4,Programming,Video,Easy
+736,69,5,Science,Video,Hard
+392,192,1,Programming,Text,Hard
+403,91,5,Literature,Quiz,Hard
+778,169,1,Literature,Live Session,Medium
+441,20,1,Math,Live Session,Hard
+99,111,4,Math,Quiz,Hard
+842,64,4,Science,Live Session,Hard
+21,54,5,Science,Text,Medium
+247,9,3,Math,Video,Hard
+876,115,4,Programming,Quiz,Easy
+165,46,3,Literature,Text,Hard
+797,157,5,History,Video,Hard
+870,159,2,History,Live Session,Hard
+697,123,4,Literature,Live Session,Medium
+837,139,3,Literature,Quiz,Easy
+890,129,4,History,Live Session,Hard
+742,138,5,Literature,Live Session,Easy
+92,129,5,History,Live Session,Hard
+930,112,4,History,Live Session,Easy
+104,157,1,History,Video,Hard
+727,96,3,History,Text,Medium
+191,180,5,Math,Quiz,Easy
+376,159,2,History,Live Session,Hard
+784,104,2,Programming,Live Session,Hard
+816,53,4,Programming,Live Session,Medium
+887,147,2,Programming,Video,Easy
+204,28,4,Math,Live Session,Easy
+54,161,1,History,Quiz,Easy
+231,91,1,Literature,Quiz,Hard
+824,66,1,Programming,Video,Easy
+69,43,2,Programming,Quiz,Medium
+865,134,3,Math,Text,Hard
+898,93,2,Literature,Quiz,Easy
+51,167,2,Science,Live Session,Medium
+315,100,3,History,Video,Easy
+632,176,5,Programming,Text,Easy
+699,140,1,Programming,Text,Easy
+1000,99,2,Literature,Quiz,Medium
+482,172,1,Programming,Quiz,Medium
+357,33,1,History,Text,Easy
+459,58,1,Programming,Text,Medium
+255,106,1,Science,Video,Easy
+562,98,5,Science,Live Session,Hard
+721,48,1,History,Quiz,Medium
+446,33,2,History,Text,Easy
+585,167,5,Science,Live Session,Medium
+320,16,4,Literature,Video,Easy
+402,122,1,Programming,Video,Easy
+190,169,2,Literature,Live Session,Medium
+848,157,1,History,Video,Hard
+276,79,1,Literature,Text,Easy
+230,181,2,Science,Video,Medium
+490,193,3,Math,Live Session,Easy
+591,161,4,History,Quiz,Easy
+831,134,1,Math,Text,Hard
+629,83,1,Programming,Quiz,Hard
+555,10,1,Literature,Quiz,Hard
+670,170,4,Math,Quiz,Medium
+45,11,2,History,Text,Medium
+777,76,2,Science,Live Session,Hard
+868,127,4,Science,Live Session,Easy
+748,135,3,History,Text,Easy
+564,40,3,Math,Video,Easy
+373,123,5,Literature,Live Session,Medium
+299,84,3,Literature,Quiz,Hard
+554,20,4,Math,Live Session,Hard
+187,53,3,Programming,Live Session,Medium
+465,106,3,Science,Video,Easy
+134,14,2,Literature,Video,Medium
+813,51,2,History,Quiz,Medium
+676,162,5,Programming,Live Session,Medium
+395,150,3,History,Live Session,Easy
+747,4,5,Literature,Quiz,Easy
+189,62,2,Literature,Text,Easy
+749,33,3,History,Text,Easy
+966,58,1,Programming,Text,Medium
+922,176,3,Programming,Text,Easy
+852,112,1,History,Live Session,Easy
+323,25,3,Science,Quiz,Medium
+75,124,4,Programming,Live Session,Medium
+659,138,4,Literature,Live Session,Easy
+807,107,5,Science,Quiz,Easy
+72,31,2,Literature,Quiz,Easy
+451,164,3,Science,Quiz,Easy
+528,194,2,History,Quiz,Medium
+662,43,4,Programming,Quiz,Medium
+423,135,2,History,Text,Easy
+823,35,3,Literature,Live Session,Easy
+924,63,2,Literature,Text,Hard
+457,199,5,Math,Quiz,Hard
+199,190,2,Programming,Video,Medium
+674,88,5,Math,Quiz,Medium
+523,137,2,History,Quiz,Easy
+857,174,4,Math,Text,Easy
+848,55,2,History,Quiz,Hard
+325,83,5,Programming,Quiz,Hard
+484,194,5,History,Quiz,Medium
+268,76,4,Science,Live Session,Hard
+938,136,3,History,Video,Easy
+482,169,3,Literature,Live Session,Medium
+403,49,5,Programming,Live Session,Medium
+610,196,5,Literature,Live Session,Easy
+558,122,3,Programming,Video,Easy
+580,158,5,History,Video,Medium
+681,200,2,Programming,Quiz,Easy
+234,159,4,History,Live Session,Hard
+974,117,2,History,Live Session,Hard
+145,5,4,Programming,Live Session,Hard
+930,74,1,Literature,Live Session,Easy
+206,137,2,History,Quiz,Easy
+74,161,2,History,Quiz,Easy
+871,107,1,Science,Quiz,Easy
+529,190,2,Programming,Video,Medium
+900,54,2,Science,Text,Medium
+537,139,5,Literature,Quiz,Easy
+574,193,3,Math,Live Session,Easy
+248,196,3,Literature,Live Session,Easy
+685,22,1,Literature,Live Session,Hard
+150,12,3,Programming,Text,Hard
+209,129,4,History,Live Session,Hard
+607,67,1,Literature,Quiz,Easy
+842,85,2,Literature,Quiz,Medium
+497,195,1,History,Live Session,Hard
+579,113,1,Math,Live Session,Hard
+326,146,3,History,Text,Medium
+972,76,5,Science,Live Session,Hard
+652,24,1,Literature,Video,Hard
+344,126,2,History,Video,Easy
+840,84,5,Literature,Quiz,Hard
+314,178,3,Science,Text,Hard
+145,83,3,Programming,Quiz,Hard
+465,121,4,Math,Quiz,Hard
+359,107,4,Science,Quiz,Easy
+370,124,1,Programming,Live Session,Medium
+112,32,5,Science,Video,Hard
+685,19,4,Math,Quiz,Hard
+321,179,3,Science,Live Session,Medium
+851,125,3,Programming,Quiz,Hard
+995,29,2,Science,Video,Easy
+500,66,5,Programming,Video,Easy
+614,177,1,Science,Video,Hard
+316,99,4,Literature,Quiz,Medium
+273,78,2,Literature,Live Session,Hard
+975,148,5,History,Video,Easy
+877,65,1,Math,Text,Hard
+93,167,5,Science,Live Session,Medium
+755,48,2,History,Quiz,Medium
+794,196,1,Literature,Live Session,Easy
+806,43,5,Programming,Quiz,Medium
+810,148,3,History,Video,Easy
+898,101,5,Programming,Quiz,Easy
+319,25,1,Science,Quiz,Medium
+429,200,3,Programming,Quiz,Easy
+676,29,3,Science,Video,Easy
+523,1,3,Math,Video,Medium
+343,135,4,History,Text,Easy
+355,66,2,Programming,Video,Easy
+918,42,2,History,Live Session,Hard
+532,167,3,Science,Live Session,Medium
+757,62,4,Literature,Text,Easy
+502,107,3,Science,Quiz,Easy
+712,126,3,History,Video,Easy
+756,189,4,Programming,Text,Easy
+937,77,2,History,Text,Medium
+443,52,1,Science,Live Session,Medium
+798,93,1,Literature,Quiz,Easy
+848,116,2,Science,Quiz,Easy
+448,148,2,History,Video,Easy
+830,199,4,Math,Quiz,Hard
+138,195,1,History,Live Session,Hard
+311,146,3,History,Text,Medium
+710,180,3,Math,Quiz,Easy
+638,155,5,Science,Live Session,Hard
+801,131,2,Science,Quiz,Medium
+382,17,1,Math,Live Session,Easy
+347,165,2,Math,Text,Easy
+213,167,4,Science,Live Session,Medium
+408,17,5,Math,Live Session,Easy
+411,76,5,Science,Live Session,Hard
+968,138,3,Literature,Live Session,Easy
+837,131,5,Science,Quiz,Medium
+313,79,3,Literature,Text,Easy
+577,157,1,History,Video,Hard
+726,173,3,Literature,Text,Easy
+380,56,1,Literature,Text,Hard
+929,162,4,Programming,Live Session,Medium
+926,185,1,History,Live Session,Easy
+19,61,4,Math,Quiz,Hard
+256,156,1,Math,Live Session,Hard
+370,81,2,Literature,Video,Medium
+901,85,1,Literature,Quiz,Medium
+720,5,2,Programming,Live Session,Hard
+668,8,4,History,Live Session,Medium
+893,162,5,Programming,Live Session,Medium
+518,34,4,Programming,Video,Easy
+55,130,4,Math,Text,Easy
+811,97,2,Literature,Live Session,Hard
+254,100,3,History,Video,Easy
+625,172,3,Programming,Quiz,Medium
+713,42,5,History,Live Session,Hard
+957,181,3,Science,Video,Medium
+46,103,5,Science,Video,Hard
+327,166,2,Science,Text,Easy
+419,160,2,Literature,Quiz,Easy
+849,3,2,Math,Quiz,Easy
+502,75,3,Programming,Quiz,Hard
+379,141,5,Math,Video,Easy
+350,183,5,Math,Video,Easy
+145,109,4,Math,Video,Hard
+11,122,5,Programming,Video,Easy
+248,75,2,Programming,Quiz,Hard
+400,81,1,Literature,Video,Medium
+624,121,2,Math,Quiz,Hard
+143,133,5,Science,Quiz,Hard
+875,3,3,Math,Quiz,Easy
+668,176,2,Programming,Text,Easy
+87,3,2,Math,Quiz,Easy
+259,155,4,Science,Live Session,Hard
+208,20,5,Math,Live Session,Hard
+783,166,2,Science,Text,Easy
+11,9,5,Math,Video,Hard
+499,160,4,Literature,Quiz,Easy
+166,175,4,Programming,Quiz,Easy
+30,177,1,Science,Video,Hard
+460,8,4,History,Live Session,Medium
+818,85,1,Literature,Quiz,Medium
+311,19,3,Math,Quiz,Hard
+522,3,2,Math,Quiz,Easy
+743,156,5,Math,Live Session,Hard
+82,60,4,Programming,Video,Medium
+737,65,2,Math,Text,Hard
+239,188,4,Science,Text,Medium
+551,158,5,History,Video,Medium
+254,196,3,Literature,Live Session,Easy
+579,88,3,Math,Quiz,Medium
+246,51,3,History,Quiz,Medium
+730,182,5,Literature,Live Session,Medium
+508,187,2,Math,Quiz,Medium
+87,158,4,History,Video,Medium
+224,83,5,Programming,Quiz,Hard
+511,40,1,Math,Video,Easy
+88,147,1,Programming,Video,Easy
+562,122,3,Programming,Video,Easy
+847,158,4,History,Video,Medium
+94,57,4,Programming,Video,Hard
+27,82,5,Literature,Text,Easy
+761,150,2,History,Live Session,Easy
+383,132,1,Literature,Live Session,Medium
+219,127,5,Science,Live Session,Easy
+708,198,5,Programming,Video,Hard
+490,119,1,Science,Text,Easy
+667,166,4,Science,Text,Easy
+156,19,4,Math,Quiz,Hard
+875,114,5,Programming,Live Session,Medium
+337,56,3,Literature,Text,Hard
+571,19,5,Math,Quiz,Hard
+971,182,1,Literature,Live Session,Medium
+726,119,2,Science,Text,Easy
+277,173,4,Literature,Text,Easy
+510,146,5,History,Text,Medium
+485,37,2,Literature,Quiz,Hard
+234,127,5,Science,Live Session,Easy
+854,67,5,Literature,Quiz,Easy
+203,197,5,Literature,Text,Medium
+578,75,2,Programming,Quiz,Hard
+630,13,1,Science,Live Session,Easy
+231,61,2,Math,Quiz,Hard
+345,132,5,Literature,Live Session,Medium
+879,159,2,History,Live Session,Hard
+88,105,5,Math,Quiz,Hard
+819,58,4,Programming,Text,Medium
+884,171,3,Math,Live Session,Hard
+751,4,1,Literature,Quiz,Easy
+248,26,3,Literature,Live Session,Easy
+922,46,1,Literature,Text,Hard
+705,12,5,Programming,Text,Hard
+232,144,2,History,Quiz,Easy
+69,14,4,Literature,Video,Medium
+162,149,3,Programming,Video,Hard
+586,172,2,Programming,Quiz,Medium
+373,63,4,Literature,Text,Hard
+703,107,5,Science,Quiz,Easy
+689,26,1,Literature,Live Session,Easy
+770,90,2,Science,Text,Medium
+293,200,4,Programming,Quiz,Easy
+53,92,5,Programming,Text,Medium
+194,72,2,History,Text,Easy
+524,161,1,History,Quiz,Easy
+953,138,4,Literature,Live Session,Easy
+633,75,2,Programming,Quiz,Hard
+180,62,3,Literature,Text,Easy
+231,116,1,Science,Quiz,Easy
+746,181,1,Science,Video,Medium
+34,188,3,Science,Text,Medium
+125,52,5,Science,Live Session,Medium
+973,138,4,Literature,Live Session,Easy
+93,127,2,Science,Live Session,Easy
+279,124,3,Programming,Live Session,Medium
+886,125,1,Programming,Quiz,Hard
+550,107,4,Science,Quiz,Easy
+81,49,1,Programming,Live Session,Medium
+523,73,4,Programming,Text,Hard
+846,58,3,Programming,Text,Medium
+941,104,3,Programming,Live Session,Hard
+654,78,5,Literature,Live Session,Hard
+504,59,4,Math,Quiz,Easy
+99,169,5,Literature,Live Session,Medium
+117,139,1,Literature,Quiz,Easy
+896,167,3,Science,Live Session,Medium
+926,164,1,Science,Quiz,Easy
+149,37,1,Literature,Quiz,Hard
+494,183,3,Math,Video,Easy
+376,18,5,History,Quiz,Medium
+558,179,5,Science,Live Session,Medium
+907,81,3,Literature,Video,Medium
+697,93,2,Literature,Quiz,Easy
+743,99,2,Literature,Quiz,Medium
+355,95,3,Math,Text,Medium
+823,142,4,Literature,Live Session,Easy
+541,186,5,Programming,Text,Hard
+219,60,5,Programming,Video,Medium
+715,93,1,Literature,Quiz,Easy
+406,114,1,Programming,Live Session,Medium
+351,93,5,Literature,Quiz,Easy
+910,1,3,Math,Video,Medium
+921,89,4,Literature,Video,Hard
+737,7,1,Math,Live Session,Easy
+780,186,1,Programming,Text,Hard
+396,56,2,Literature,Text,Hard
+206,97,1,Literature,Live Session,Hard
+585,75,3,Programming,Quiz,Hard
+742,122,5,Programming,Video,Easy
+739,193,4,Math,Live Session,Easy
+801,13,3,Science,Live Session,Easy
+74,183,4,Math,Video,Easy
+456,197,1,Literature,Text,Medium
+228,164,2,Science,Quiz,Easy
+325,50,2,Literature,Text,Hard
+707,58,5,Programming,Text,Medium
+231,54,5,Science,Text,Medium
+85,72,1,History,Text,Easy
+980,94,4,Science,Video,Hard
+363,105,2,Math,Quiz,Hard
+51,23,5,Science,Live Session,Medium
+901,43,1,Programming,Quiz,Medium
+543,63,3,Literature,Text,Hard
+493,66,4,Programming,Video,Easy
+922,162,4,Programming,Live Session,Medium
+661,37,1,Literature,Quiz,Hard
+189,57,2,Programming,Video,Hard
+237,10,5,Literature,Quiz,Hard
