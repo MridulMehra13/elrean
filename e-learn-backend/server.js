@@ -17,12 +17,11 @@ const progressRoutes = require("./routes/progress");
 
 const app = express();
 app.use(express.json());
-app.use(cors());
+app.use(cors()); // Ensure this line exists
 
-// ✅ Log incoming requests and their headers
+// ✅ Log incoming requests
 app.use((req, res, next) => {
     console.log("Incoming Request:", req.method, req.url);
-    console.log("Headers:", req.headers);
     next();
 });
 
@@ -57,7 +56,7 @@ app.use("/api/auth", authRoutes);
 app.use("/api/quiz", quizRoutes);
 app.use("/api/recommend", recommendationRoutes);
 app.use("/api/playlist", playlistRoutes);
-app.use("/api/chatbot", chatbotRoutes);
+app.use("/api/chatbot", chatbotRoutes); // Ensure this line exists and is correct
 app.use("/api/leaderboard", leaderboardRoutes);
 app.use("/api/discussions", discussionRoutes);
 app.use("/api/course", courseRoutes);

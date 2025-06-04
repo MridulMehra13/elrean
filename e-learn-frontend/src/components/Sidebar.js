@@ -1,17 +1,9 @@
 // src/components/Sidebar.js
 import { useSidebar } from "../context/SidebarContext";
-import { useLocation, Link } from "react-router-dom";
-import { useEffect } from "react";
-
+import { Link } from "react-router-dom";
 
 const Sidebar = () => {
   const { isSidebarOpen, closeSidebar } = useSidebar();
-  const location = useLocation();
-
-  // Close sidebar on route change
-  useEffect(() => {
-    closeSidebar();
-  }, [location, closeSidebar]);
 
   return (
     <div
@@ -21,10 +13,18 @@ const Sidebar = () => {
     >
       <div className="p-4 font-bold text-xl border-b border-gray-700">E-Learn</div>
       <nav className="p-4 space-y-4">
-  <Link to="/dashboard" className="block hover:underline">Dashboard</Link>
-  <Link to="/courses" className="block hover:underline">Courses</Link>
-  <Link to="/leaderboard" className="block hover:underline">Leaderboard</Link>
-</nav>
+        <Link to="/dashboard" className="block hover:underline" onClick={closeSidebar}>Dashboard</Link>
+        <Link to="/courses" className="block hover:underline" onClick={closeSidebar}>Courses</Link>
+        <Link to="/quiz" className="block hover:underline" onClick={closeSidebar}>Quiz</Link>
+        <Link to="/my-quiz-history" className="block hover:underline" onClick={closeSidebar}>My Quiz History</Link>
+        <Link to="/smart-question-generator" className="block hover:underline" onClick={closeSidebar}>Smart Question Generator</Link>
+        <Link to="/leaderboard" className="block hover:underline" onClick={closeSidebar}>Leaderboard</Link>
+        <Link to="/chatbot-teacher" className="block hover:underline" onClick={closeSidebar}>AI Chatbot Teacher</Link>
+        <Link to="/recommendations" className="block hover:underline" onClick={closeSidebar}>
+          <span role="img" aria-label="target" className="mr-1">🎯</span>
+          Recommended Courses
+        </Link>
+      </nav>
     </div>
   );
 };

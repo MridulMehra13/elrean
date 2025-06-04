@@ -3,6 +3,8 @@ const express = require("express");
 const Course = require("../models/Course");
 const verifyToken = require("../middleware/authMiddleware");
 const router = express.Router();
+const mongoose = require('mongoose');
+
 
 router.use(verifyToken);
 
@@ -91,15 +93,25 @@ router.post("/:id/enroll", async (req, res) => {
 });
 
 // ✅ Get course by ID
-router.get("/:id", async (req, res) => {
+router.get("/:id", verifyToken, async (req, res) => {
+  const { id } = req.params;
+
+  if (!mongoose.Types.ObjectId.isValid(id)) {
+    return res.status(400).json({ error: "Invalid course ID format" });
+  }
+
   try {
-    const course = await Course.findById(req.params.id).lean();
+    if (!req.user || !req.user.id) {
+      return res.status(401).json({ error: "Unauthorized: No user info found." });
+    }
+    const course = await Course.findById(id).lean();
     if (!course) return res.status(404).json({ error: "Course not found" });
 
-    const isEnrolled = course.enrolledStudents?.some(
+    const enrolledStudents = course.enrolledStudents || [];
+    const isEnrolled = Array.isArray(enrolledStudents) && enrolledStudents.some(
       (studentId) => studentId.toString() === req.user.id
     );
-    const progress = course.progress?.[req.user.id] || [];
+    const progress = (course.progress && course.progress[req.user.id]) || [];
 
     res.json({
       ...course,
@@ -108,7 +120,7 @@ router.get("/:id", async (req, res) => {
     });
   } catch (err) {
     console.error("Failed to fetch course details:", err);
-    res.status(500).json({ error: "Failed to fetch course details" });
+    res.status(500).json({ error: "Failed to fetch course details", details: err.message });
   }
 });
 

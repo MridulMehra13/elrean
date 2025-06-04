@@ -10,16 +10,21 @@ import Navbar from "./components/Navbar";
 import Leaderboard from "./pages/Leaderboard";
 import Courses from "./pages/Courses";
 import { SidebarProvider } from "./context/SidebarContext";
+import ChatbotTeacherPage from './pages/ChatbotTeacherPage';
 import CourseDetails from "./pages/CourseDetails";
 import UploadCourse from "./pages/UploadCourse";
-
-
+import QuizList from './pages/QuizList';
+import QuizAttempt from './pages/QuizAttempt';
+import QuizResult from './pages/QuizResult';
+import MyQuizHistory from './pages/MyQuizHistory';
+import SmartQuestionGenerator from './pages/SmartQuestionGenerator';
+import Recommendations from "./pages/Recommendations";
 
 function App() {
   return (
     <AuthProvider>
       <Router>
-        <SidebarProvider> ✅ Wrap inside Router, so hooks like useLocation work properly
+        <SidebarProvider> {/* Wrap inside Router, so hooks like useLocation work properly */}
           <div className="flex min-h-screen bg-gray-100 dark:bg-gray-900">
             <Sidebar />
             <div className="flex-1 flex flex-col">
@@ -35,7 +40,14 @@ function App() {
                     <Route path="/courses" element={<Courses />} />
                     <Route path="/course/:id" element={<CourseDetails />} />
                     <Route path="/upload-course" element={<UploadCourse />} />
-
+                    {/* ✅ Quiz Routes */}
+                    <Route path="/quiz" element={<QuizList />} />
+                    <Route path="/quiz/attempt/:id" element={<QuizAttempt />} />
+                    <Route path="/quiz/result" element={<QuizResult />} />
+                    <Route path="/my-quiz-history" element={<MyQuizHistory />} />
+                    <Route path="/smart-question-generator" element={<SmartQuestionGenerator />} />
+                    <Route path="/chatbot-teacher" element={<ChatbotTeacherPage />} />
+                    <Route path="/recommendations" element={<Recommendations />} />
                   </Route>
                 </Routes>
               </div>
@@ -46,6 +58,5 @@ function App() {
     </AuthProvider>
   );
 }
-
 
 export default App;

@@ -15,7 +15,7 @@ const CourseDetails = () => {
     const fetchCourse = async () => {
       try {
         const token = localStorage.getItem("token");
-        const res = await axios.get(`/api/course/${id}`, {
+        const res = await axios.get(`http://localhost:5000/api/course/${id}`, {
           headers: { Authorization: `Bearer ${token}` },
         });
         setCourse(res.data);
@@ -33,13 +33,13 @@ const CourseDetails = () => {
   const handleEnroll = async () => {
     try {
       const token = localStorage.getItem("token");
-      await axios.post(`/api/course/${id}/enroll`, {}, {
+      await axios.post(`http://localhost:5000/api/course/${id}/enroll`, {}, {
         headers: { Authorization: `Bearer ${token}` },
       });
       setEnrolled(true);
 
       // Fetch the updated course data after enrollment
-      const res = await axios.get(`/api/course/${id}`, {
+      const res = await axios.get(`http://localhost:5000/api/course/${id}`, {
         headers: { Authorization: `Bearer ${token}` },
       });
       setCourse(res.data);

@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import axios from "axios";
+import axios from "../services/axios";
 
 const Leaderboard = () => {
   const [leaders, setLeaders] = useState([]);
@@ -7,7 +7,7 @@ const Leaderboard = () => {
   useEffect(() => {
     const fetchLeaderboard = async () => {
       try {
-        const res = await axios.get("http://localhost:5000/api/leaderboard");
+        const res = await axios.get("/leaderboard");
         setLeaders(res.data);
       } catch (err) {
         console.error("Error fetching leaderboard:", err);
@@ -15,6 +15,11 @@ const Leaderboard = () => {
     };
 
     fetchLeaderboard();
+
+    // Poll leaderboard every 30 seconds for real-time updates
+    const intervalId = setInterval(fetchLeaderboard, 30000);
+
+    return () => clearInterval(intervalId);
   }, []);
 
   return (

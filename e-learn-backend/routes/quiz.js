@@ -1,11 +1,15 @@
 const express = require("express");
 const mongoose = require("mongoose");
 const Quiz = require("../models/Quiz");
+const QuizAttempt = require("../models/QuizAttempt");
+const User = require("../models/User");
+const verifyToken = require("../middleware/authMiddleware");
+const requireRole = require("../middleware/roleMiddleware");
 
 const router = express.Router();
 
-// Create a new quiz
-router.post("/create", async (req, res) => {
+// Create a new quiz (teachers only)
+router.post("/create", verifyToken, requireRole("teacher"), async (req, res) => {
     try {
         const { title, description, questions } = req.body;
 
@@ -23,8 +27,8 @@ router.post("/create", async (req, res) => {
     }
 });
 
-// Get all quizzes
-router.get("/all", async (req, res) => {
+// Get all quizzes (students)
+router.get("/all", verifyToken, async (req, res) => {
     try {
         const quizzes = await Quiz.find();
         res.json(quizzes);
@@ -35,9 +39,12 @@ router.get("/all", async (req, res) => {
 });
 
 // Get a specific quiz by ID
-router.get("/:id", async (req, res) => {
+router.get("/:id", verifyToken, async (req, res) => {
     try {
         const { id } = req.params;
+
+        console.log("User making request:", req.user); // Log user info for debugging
+        console.log("Request params:", req.params);
 
         // Validate ID format
         if (!mongoose.Types.ObjectId.isValid(id)) {
@@ -54,11 +61,13 @@ router.get("/:id", async (req, res) => {
     }
 });
 
-// Submit answers and check results
-router.post("/:id/submit", async (req, res) => {
+
+// Submit answers and store result
+router.post("/:id/submit", verifyToken, async (req, res) => {
     try {
         const { id } = req.params;
         const { answers } = req.body;
+        const userId = req.user.id;
 
         // Validate ID format
         if (!mongoose.Types.ObjectId.isValid(id)) {
@@ -80,15 +89,71 @@ router.post("/:id/submit", async (req, res) => {
         let score = 0;
         let total = quiz.questions.length;
 
+        // Support both MCQ and fill-in-the-blank
         quiz.questions.forEach((question, index) => {
-            if (answers[index] === question.correctAnswer) {
+            if (
+              (question.options && answers[index] === question.correctAnswer) || // MCQ
+              (!question.options && answers[index]?.trim().toLowerCase() === question.correctAnswer?.trim().toLowerCase()) // Fill in blank
+            ) {
                 score++;
             }
         });
 
-        res.json({ score, total });
+        // XP reward: 10 XP per correct answer
+        const xpEarned = score * 10;
+
+        // Store attempt
+        const attempt = new QuizAttempt({
+            user: userId,
+            quiz: id,
+            answers,
+            score,
+            total,
+            xpEarned
+        });
+        await attempt.save();
+
+        // Add XP to user
+        const user = await User.findById(userId);
+        if (user) {
+            user.xp += xpEarned;
+            user.calculateLevel && user.calculateLevel();
+            await user.save();
+        }
+
+        res.json({ score, total, xpEarned, attemptId: attempt._id });
     } catch (error) {
         console.error("Error submitting quiz:", error);
+        res.status(500).json({ error: "Internal Server Error" });
+    }
+});
+
+// ...existing code...
+
+// Fetch all past quiz attempts for the logged-in student
+router.get("/attempts", verifyToken, async (req, res) => {
+    try {
+        const userId = req.user.id;
+        const attempts = await QuizAttempt.find({ user: userId }).populate("quiz").sort({ attemptedAt: -1 });
+        res.json(attempts);
+    } catch (error) {
+        console.error("Error fetching attempts:", error);
+        res.status(500).json({ error: "Internal Server Error" });
+    }
+});
+
+// Fetch details of a specific attempt (for analytics/result page)
+router.get("/attempt/:attemptId", verifyToken, async (req, res) => {
+    try {
+        const { attemptId } = req.params;
+        if (!mongoose.Types.ObjectId.isValid(attemptId)) {
+            return res.status(400).json({ error: "Invalid Attempt ID" });
+        }
+        const attempt = await QuizAttempt.findById(attemptId).populate("quiz");
+        if (!attempt) return res.status(404).json({ error: "Attempt not found" });
+        res.json(attempt);
+    } catch (error) {
+        console.error("Error fetching attempt:", error);
         res.status(500).json({ error: "Internal Server Error" });
     }
 });

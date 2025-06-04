@@ -36,12 +36,16 @@ router.get("/content", async (req, res) => {
 
 router.get("/hybrid", async (req, res) => {
     const { user_id, course_id } = req.query;
-    if (!user_id || !course_id) {
-        return res.status(400).json({ error: "Missing user_id or course_id parameter" });
+    if (!user_id) {
+        return res.status(400).json({ error: "Missing user_id parameter" });
     }
 
     try {
-        const response = await axios.get(`${FLASK_API_URL}/recommend/hybrid?user_id=${user_id}&course_id=${course_id}`);
+        let url = `${FLASK_API_URL}/recommend/hybrid?user_id=${user_id}`;
+        if (course_id) {
+            url += `&course_id=${course_id}`;
+        }
+        const response = await axios.get(url);
         res.json(response.data);
     } catch (error) {
         res.status(500).json({ error: "Failed to fetch recommendations" });
