@@ -1,67 +1,100 @@
-from flask import Flask, request, jsonify
+import os
+from flask import Flask, jsonify, request
 from flask_cors import CORS
-import pandas as pd
+import logging
 
-from recommendation.content_based import get_content_recommendations
-from recommendation.collaborative import get_collaborative_recommendations
-from recommendation.hybrid import get_hybrid_recommendations
-from question_generator.routes import question_gen_bp  # ✅ Blueprint import
+from recommendation.predictor import get_hybrid_recommendations # Your recommendation logic
+# Make sure database_utils is accessible, if it's external, adjust path/import
+# from database_utils import get_db_connection 
+# If database_utils is only for health check and not critical for the ML model itself,
+# you might not need it here unless get_hybrid_recommendations relies on it directly for its own DB access.
+# Assuming get_db_connection is still needed for health check.
+from database_utils import get_db_connection
+from question_generator.routes import question_gen_bp # Assuming this Blueprint is correctly structured
 
 app = Flask(__name__)
-CORS(app)  # ✅ Allow CORS for Postman or frontend
+CORS(app) # Enable CORS for all routes
 
-# Register Smart Question Generator Blueprint
+# Register Blueprint for question generator (if applicable)
 app.register_blueprint(question_gen_bp, url_prefix='/api/question-generator')
 
-# Load dataset
-data_path = "data/recommendation_data.csv"
-data = pd.read_csv(data_path)
-data.columns = data.columns.str.strip()
-data.rename(columns=lambda x: x.strip(), inplace=True)
-data.fillna("", inplace=True)
+# Setup logging
+logging.basicConfig(level=logging.INFO)
+logger = logging.getLogger(__name__)
 
-print("✅ Dataset loaded successfully!")
-print("📊 Columns in dataset:", data.columns.tolist())
-
-# ✅ Content-Based Recommendation
-@app.route("/recommend/content", methods=["GET"])
-def recommend_content_based():
-    course_id = request.args.get("course_id")
-    if not course_id:
-        return jsonify({"error": "Missing 'course_id' parameter"}), 400
-    recommendations = get_content_recommendations(course_id, top_n=5)
-    if not recommendations:
-        return jsonify({"error": "Course not found or no recommendations available"}), 404
-    return jsonify({"course_id": course_id, "recommendations": recommendations})
-
-# ✅ Collaborative Filtering
-@app.route("/recommend/collaborative", methods=["GET"])
-def recommend_collaborative():
-    user_id = request.args.get("user_id")
-    if not user_id:
-        return jsonify({"error": "Missing 'user_id' parameter"}), 400
+@app.route('/health', methods=['GET'])
+def health_check():
+    """
+    Health check endpoint to verify service and database connectivity.
+    """
     try:
-        user_id = int(user_id)
-    except ValueError:
-        return jsonify({"error": "'user_id' must be an integer"}), 400
-    recommendations = get_collaborative_recommendations(user_id, top_n=5)
-    if not recommendations:
-        return jsonify({"error": "User not found or no recommendations available"}), 404
-    return jsonify({"user_id": user_id, "recommendations": recommendations})
+        # Attempt to connect to the database
+        db = get_db_connection()
+        db.command('ping') # A simple command to check connection
+        logger.info("Health check successful: Database connection established.")
+        return jsonify({"status": "healthy", "database_connection": "successful"}), 200
+    except Exception as e:
+        logger.error(f"Health check failed: {e}", exc_info=True)
+        return jsonify({
+            "status": "unhealthy",
+            "database_connection": "failed",
+            "error": str(e)
+        }), 500
 
-# ✅ Hybrid Recommendation
-@app.route("/recommend/hybrid", methods=["GET"])
-def recommend_hybrid():
-    user_id = request.args.get("user_id")
-    if not user_id:
-        return jsonify({"error": "Missing 'user_id' parameter"}), 400
+# CHANGED: Route for recommendations now accepts POST requests
+#          and the user_id is passed in the request body, not the URL.
+@app.route('/recommendations', methods=['POST'])
+def get_recommendations_route():
+    """
+    Endpoint to receive user data and return hybrid course recommendations.
+    Expects a JSON body with 'user_data', 'top_n' (optional), and 'alpha' (optional).
+    """
     try:
-        user_id = int(user_id)
-    except ValueError:
-        return jsonify({"error": "'user_id' must be an integer"}), 400
-    top_n = int(request.args.get("top_n", 5))
-    recommendations = get_hybrid_recommendations(user_id, top_n)
-    return jsonify(recommendations)
+        data = request.get_json() # Get the JSON payload from the request body
 
-if __name__ == "__main__":
-    app.run(debug=True, port=5001)
+        if not data:
+            logger.warning("Received empty or non-JSON request for recommendations.")
+            return jsonify({"message": "No input data provided. Expected JSON."}), 400
+
+        user_data = data.get('user_data')
+        top_n = int(data.get('top_n', 5)) # Default to 5 if not provided
+        alpha = float(data.get('alpha', 0.6)) # Default to 0.6 if not provided
+
+        # Ensure user_data and user_id are present
+        if not user_data or 'user_id' not in user_data:
+            logger.error(f"Missing 'user_data' or 'user_id' in request payload: {data}")
+            return jsonify({"message": "User data or user_id is missing from the request."}), 400
+        
+        user_id = user_data['user_id'] # Extract user_id from the payload for logging/predictor
+
+        logger.info(f"Generating recommendations for user: {user_id} with top_n={top_n}, alpha={alpha}")
+        
+        # Call the hybrid recommendation function, passing the full user_data dictionary
+        recommendations = get_hybrid_recommendations(user_id, top_n, alpha, user_data=user_data)
+
+        if "error" in recommendations:
+            logger.error(f"Recommendation generation failed for user {user_id}: {recommendations['error']}")
+            return jsonify({"message": recommendations["error"]}), 500
+
+        logger.info(f"Successfully generated {len(recommendations.get('recommendations', []))} recommendations for user {user_id}.")
+        return jsonify(recommendations) # recommendations is already a dict like {"recommendations": [...]}
+
+    except ValueError:
+        logger.error("Invalid top_n or alpha parameter format in request.", exc_info=True)
+        return jsonify({"message": "Invalid 'top_n' or 'alpha' parameter. Please ensure they are numbers."}), 400
+    except Exception as e:
+        logger.error(f"An unexpected error occurred in recommendation endpoint for user: {user_id}", exc_info=True)
+        return jsonify({"message": "An internal error occurred while generating recommendations."}), 500
+
+if __name__ == '__main__':
+    logger.info("🚀 Starting ML Service...")
+    # Determine the port from environment variable or default to 5001
+    port = int(os.getenv('PORT', 5001))
+    # Determine debug mode from environment variable
+    debug_mode = os.getenv('FLASK_DEBUG', 'false').lower() == 'true'
+    
+    app.run(
+        host='0.0.0.0', # Listen on all available network interfaces
+        port=port,
+        debug=debug_mode # Set to True for development, False for production
+    )

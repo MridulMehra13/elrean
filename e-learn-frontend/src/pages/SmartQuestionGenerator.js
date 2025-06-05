@@ -13,29 +13,51 @@ const SmartQuestionGenerator = () => {
   const [questions, setQuestions] = useState([]);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState('');
+  const [source, setSource] = useState('ml'); // 'ml' or 'gemini'
   const { token } = useContext(AuthContext);
 
   const handleGenerate = async () => {
+    if (!content.trim()) {
+      setError('Please enter course content or a topic.');
+      return;
+    }
     setLoading(true);
     setError('');
     setQuestions([]);
+
     try {
+      const endpoint =
+        source === 'ml'
+          ? 'http://localhost:5001/api/question-generator/generate'
+          : 'http://localhost:5001/api/question-generator/generate-gemini';
+
       const res = await axios.post(
-        'http://localhost:5001/api/question-generator/generate',
+        endpoint,
         { course_content: content },
         { headers: { Authorization: `Bearer ${token}` } }
       );
-      setQuestions(
-        res.data.questions.map((q) => ({
-          ...q,
-          type: q.type || 'fill-in-the-blank',
-          options: q.options || ['', '', '', ''],
-          answer: q.answer || '',
-          approved: true,
-        }))
-      );
+
+      const generatedQuestions =
+        source === 'gemini'
+          ? (res.data.questions || []).map((q) => ({
+              type: 'descriptive',
+              question: q,
+              options: [],
+              answer: '',
+              approved: true,
+            }))
+          : (res.data.questions || []).map((q) => ({
+              ...q,
+              type: q.type || 'fill-in-the-blank',
+              options: q.options || ['', '', '', ''],
+              answer: q.answer || '',
+              approved: true,
+            }));
+
+      setQuestions(generatedQuestions);
     } catch (err) {
-      setError('Failed to generate questions.');
+      console.error('Error generating questions:', err);
+      setError('Failed to generate questions. Please try again.');
     } finally {
       setLoading(false);
     }
@@ -43,9 +65,7 @@ const SmartQuestionGenerator = () => {
 
   const handleQuestionChange = (idx, field, value) => {
     setQuestions((prev) =>
-      prev.map((q, i) =>
-        i === idx ? { ...q, [field]: value } : q
-      )
+      prev.map((q, i) => (i === idx ? { ...q, [field]: value } : q))
     );
   };
 
@@ -55,9 +75,7 @@ const SmartQuestionGenerator = () => {
         i === qIdx
           ? {
               ...q,
-              options: q.options.map((opt, oi) =>
-                oi === optIdx ? value : opt
-              ),
+              options: q.options.map((opt, oi) => (oi === optIdx ? value : opt)),
             }
           : q
       )
@@ -71,9 +89,12 @@ const SmartQuestionGenerator = () => {
   };
 
   const handleAddToQuiz = async () => {
-    // Filter only approved questions, send to backend for quiz creation
     const approvedQuestions = questions.filter((q) => q.approved);
-    if (approvedQuestions.length === 0) return alert('No questions selected!');
+    if (approvedQuestions.length === 0) {
+      alert('No questions selected! Please approve questions to add.');
+      return;
+    }
+
     try {
       await axios.post(
         'http://localhost:5000/api/quiz/create',
@@ -98,79 +119,124 @@ const SmartQuestionGenerator = () => {
   };
 
   return (
-    <div className="max-w-3xl mx-auto p-6 bg-gray-100 dark:bg-gray-800 rounded shadow">
-      <h2 className="text-2xl font-bold mb-4 text-gray-800 dark:text-white">Smart Question Generator</h2>
+    <div className="max-w-5xl mx-auto p-8 bg-white rounded-xl shadow-md border border-gray-200">
+      <h1 className="text-3xl font-bold mb-4 text-gray-800">Smart Question Generator</h1>
+      <p className="text-gray-600 mb-4">
+        Enter course content or a topic below to generate questions automatically.
+      </p>
+
       <textarea
-        className="w-full p-3 rounded border mb-4 text-gray-900"
+        className="w-full p-4 rounded-lg border border-gray-300 text-gray-800 bg-gray-50 mb-4 focus:outline-none focus:ring-2 focus:ring-blue-500"
         rows={6}
         placeholder="Paste course content or enter a topic..."
         value={content}
         onChange={(e) => setContent(e.target.value)}
       />
-      <button
-        className="px-5 py-2 bg-blue-600 hover:bg-blue-500 text-white rounded mb-6"
-        onClick={handleGenerate}
-        disabled={loading || !content.trim()}
-      >
-        {loading ? 'Generating...' : 'Generate Questions'}
-      </button>
-      {error && <div className="text-red-500 mb-4">{error}</div>}
+
+      <div className="flex flex-col sm:flex-row sm:items-center gap-4 mb-6">
+        <select
+          value={source}
+          onChange={(e) => setSource(e.target.value)}
+          className="px-4 py-2 border border-gray-300 rounded-lg bg-white text-sm"
+        >
+          <option value="ml">Use ML Model (T5)</option>
+          <option value="gemini">Use Gemini API</option>
+        </select>
+
+        <button
+          onClick={handleGenerate}
+          disabled={loading || !content.trim()}
+          className={`px-6 py-3 rounded-lg font-semibold text-white transition duration-200 ${
+            loading || !content.trim()
+              ? 'bg-blue-300 cursor-not-allowed'
+              : 'bg-blue-600 hover:bg-blue-500'
+          }`}
+        >
+          {loading ? 'Generating...' : 'Generate Questions'}
+        </button>
+        {error && <p className="text-red-600 font-medium">{error}</p>}
+      </div>
+
       {questions.length > 0 && (
         <>
-          <h3 className="text-xl font-semibold mb-2 text-gray-800 dark:text-white">Review & Edit Questions</h3>
-          <div className="space-y-6">
+          <h2 className="text-2xl font-semibold mb-4 text-gray-800">Review & Edit Questions</h2>
+          <div className="space-y-6 max-h-[500px] overflow-y-auto pr-2">
             {questions.map((q, idx) => (
-              <div key={idx} className="p-4 bg-white rounded shadow border-l-4 border-blue-500 flex flex-col gap-3 mb-4">
-                <div className="flex items-center mb-2 gap-2">
-                  <span className={`px-2 py-0.5 rounded text-xs font-semibold text-white ${q.type === 'mcq' ? 'bg-blue-600' : q.type === 'fill-in-the-blank' ? 'bg-yellow-600' : 'bg-green-600'}`}>{q.type.toUpperCase()}</span>
-                  <input
-                    type="checkbox"
-                    checked={q.approved}
-                    onChange={() => handleApproveToggle(idx)}
-                    className="mr-2"
-                  />
+              <div
+                key={idx}
+                className="p-5 bg-gray-50 rounded-lg border border-blue-200 shadow-sm space-y-4"
+              >
+                <div className="flex flex-col sm:flex-row justify-between gap-4">
+                  <div className="flex items-center gap-3">
+                    <span
+                      className={`px-3 py-1 rounded-full text-xs font-medium text-white ${
+                        q.type === 'mcq'
+                          ? 'bg-blue-600'
+                          : q.type === 'fill-in-the-blank'
+                          ? 'bg-yellow-600'
+                          : 'bg-green-600'
+                      }`}
+                    >
+                      {q.type.toUpperCase()}
+                    </span>
+                    <label className="flex items-center gap-1 text-sm text-gray-700">
+                      <input
+                        type="checkbox"
+                        checked={q.approved}
+                        onChange={() => handleApproveToggle(idx)}
+                      />
+                      Approve
+                    </label>
+                  </div>
                   <select
                     value={q.type}
                     onChange={(e) => handleQuestionChange(idx, 'type', e.target.value)}
-                    className="mr-2 p-1 rounded border"
+                    className="p-2 rounded border border-gray-300 bg-white text-sm"
                   >
                     {defaultQuestionTypes.map((t) => (
-                      <option key={t.value} value={t.value}>{t.label}</option>
+                      <option key={t.value} value={t.value}>
+                        {t.label}
+                      </option>
                     ))}
                   </select>
-                  <input
-                    className="flex-1 p-2 rounded border font-bold text-gray-900 dark:text-white bg-blue-50 dark:bg-gray-800 shadow-inner"
-                    value={q.question}
-                    onChange={(e) => handleQuestionChange(idx, 'question', e.target.value)}
-                  />
                 </div>
-                {q.type === 'mcq' && (
-                  <div className="mb-2">
-                    <div className="font-medium mb-1">Options:</div>
-                    {q.options.map((opt, optIdx) => (
-                <input
-                  key={optIdx}
-                  className="block w-full p-2 rounded border border-gray-400 mb-2 text-gray-900 dark:text-gray-900 bg-white"
-                  value={opt}
-                  placeholder={`Option ${optIdx + 1}`}
-                  onChange={(e) => handleOptionChange(idx, optIdx, e.target.value)}
+
+                <textarea
+                  className="w-full p-3 rounded border border-gray-300 text-gray-800 bg-white"
+                  value={q.question}
+                  onChange={(e) => handleQuestionChange(idx, 'question', e.target.value)}
+                  rows={2}
                 />
+
+                {q.type === 'mcq' && (
+                  <div>
+                    <label className="font-semibold text-gray-700 block mb-1">Options:</label>
+                    {q.options.map((opt, optIdx) => (
+                      <input
+                        key={optIdx}
+                        className="block w-full p-2 rounded border border-gray-300 mb-2 text-gray-800 bg-white"
+                        value={opt}
+                        placeholder={`Option ${optIdx + 1}`}
+                        onChange={(e) => handleOptionChange(idx, optIdx, e.target.value)}
+                      />
                     ))}
                   </div>
                 )}
-              <div className="mb-2">
-                <span className="font-medium">Answer: </span>
-                <input
-                  className="p-2 rounded border border-gray-400 text-gray-900 dark:text-gray-900 bg-white"
-                  value={q.answer}
-                  onChange={(e) => handleQuestionChange(idx, 'answer', e.target.value)}
-                />
-              </div>
+
+                <div>
+                  <label className="font-semibold text-gray-700 block mb-1">Answer:</label>
+                  <input
+                    className="w-full p-2 rounded border border-gray-300 text-gray-800 bg-white"
+                    value={q.answer}
+                    onChange={(e) => handleQuestionChange(idx, 'answer', e.target.value)}
+                  />
+                </div>
               </div>
             ))}
           </div>
+
           <button
-            className="mt-6 px-6 py-2 bg-green-600 hover:bg-green-500 text-white rounded"
+            className="mt-6 w-full px-6 py-3 bg-green-600 hover:bg-green-500 text-white rounded-lg font-semibold transition duration-200"
             onClick={handleAddToQuiz}
           >
             Add Approved Questions to Quiz

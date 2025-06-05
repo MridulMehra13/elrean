@@ -1,0 +1,43 @@
+Ques - What are the different pre processing method require to prepare a dataset?
+Ques - How can you decide the elements of cluster group?
+Ques - What kind of problem can be tackle using ML?
+Ques - What are the standard learning tasks include in ML?
+Ques - What are the different learning stages in ML?
+Ques - Explain the different possible conditions of SVM with the help of example.
+Ques - How canyou decide an element of a cluster group? 
+Ques - Explain information gain and gini Index ( Role in splitting ) .
+Ques - How can you identify outlier in a dataset using SVM ?
+Ques - Explain data accuracy with the help of examples.
+Ques - What are the major difference b/w SVM, KNN and decision trees with examples.
+Ques - Explain the concepts of each layer involved in neural network. And also define the fundamental difference b/w ANN and CNN. 
+Ques - What are outliers? Explain with the help of boxplot.
+Ques - Perform face detection using python libraries. 
+Ques - Perform face detection without using python libraries.
+Ques - Perform pattern matching algorithm using two different images with the help of OpenCV.
+Ques - Health Cure
+Ques - Object Detection using SSD
+Ques - Crowd detection using HOG
+Ques - Social distancing using YOLO V3
+Ques - Face recognization based attendance system
+Ques - Weight category using random forest 
+Ques - IPL score prediction with flask ML
+Ques - Flight price prediction
+Ques - Movie Recommendation System
+Ques - Image Captioning
+Ques - Credit Card Fraud detection
+Ques - House tax prediction using random forest
+Ques - Goodle Stock prediction using LSTM .
+Ques - Identify most dominating colour in Image using K- means.
+Ques - Difference between YOLO,ALEXNET,VGG-16,VGG-19 and MOBILE NET in terms of CNN layer and working Criteria in each layer involved in given pre-trained  
+       model.
+Ques - Explain RELU,Sigmoid,Softmax.
+Ques - Explain bagging and justify significance of Adaboost Algorithm.
+Ques - Expalin K- means , Hererihacal ,DB Scan ,Fuzzy C mean with diagram.
+Ques - Explain concept of frequent itemset minning (Approri algorithm).
+Ques - Working concept of K- fold cross validation.
+Ques - What is Booststrapping.Explain with the help of validating the dataset.
+Ques - Define concept of clustering and explain K-means clustering,hererichcal clustering.
+Ques - Explain low variance builder,high correlation filter/PCA
+Ques - Explain the concept and working of word to vector conversion with Pseudocode.
+Ques - Explain the significance of Tensorflow and Keras in Deep Learning with example.
+Ques - Explain the concept and working of document to vector conversion with Pseudocode.
